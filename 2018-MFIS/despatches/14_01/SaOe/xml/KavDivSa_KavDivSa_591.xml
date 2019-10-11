@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavDivSa_KavDivSa_591">
+        <pb facs="KavDivSa_KavDivSa_591.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="15">Runde: 15</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:44:00">14:44</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KdrKavDivSa">KdR KavDiv
+                            Sachsen</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?:</label></p>
+                <p n="5"><label type="to">An: <orgName type="KdrKavDivSa">KdR KavDiv
+                        Sachsen</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?:</label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Meldung: <orgName type="S6">S6</orgName> + <orgName type="S2">S2</orgName>
+                    in Marsch gesetzt <orgName type="S3">S3</orgName> + <orgName type="S1"
+                        >S1</orgName> verbleibt</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavDivSa_KavDivSa_591.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

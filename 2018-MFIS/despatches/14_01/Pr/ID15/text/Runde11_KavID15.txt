@@ -1,0 +1,11 @@
+Runde: 11
+Uhrzeit: 13:52
+Von: Kavalarie ID15
+Von - Wo?: Waldstr. 1000 südlich OberPrim
+An: Kdr ID15
+An - Wo?: Hügel 175
+
+Nachricht:
+Meldung:
+	+ Kavallerie an Kreuzung Hügel 175 an
+	  Kreuzung Stellung bezogen

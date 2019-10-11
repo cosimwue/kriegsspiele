@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_KBG_376">
+        <pb facs="ElbOK_KBG_376.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="11">Runde: 11</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="13:25:00">13:25</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KBG">KB Goltz</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: 400 N-lich <placeName><settlement
+                                type="Techlowitz">Techlowitz</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OBK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Jehlitz"
+                                >Jehlitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">- <orgName type="HR11">HR11</orgName> in Stellung 400 N-lich
+                            <placeName><settlement type="Techlowitz"
+                        >Techlowitz</settlement></placeName> um feindl. Angriff über
+                            <placeName><settlement type="Techlowitz"
+                        >Techlowitz</settlement></placeName>- <placeName><settlement
+                            type="Radikowitz">Radikowitz</settlement></placeName> in Flanke fallen
+                    zu können - <orgName type="ArtBttr1">1. Batterie</orgName> in Stellung 900
+                    SO-lich <placeName><settlement type="Hradek">Hradek</settlement></placeName>, um
+                            "<placeName><settlement type="Radikowitz"
+                        >Radikowitz</settlement></placeName> Gap" zu über- wachen </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_KBG_376.pdf"/>
+                <head/>
+                <p> - <orgName type="ArtBttr2">2.</orgName>+<orgName type="ArtBttr3">3.
+                        Batterie</orgName> unterwegs, wenn aufgenom- men ist Absicht, links und
+                    rechts von <orgName type="ArtBttr1">1. Batterie</orgName> Stellung zu
+                    beziehen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

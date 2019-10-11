@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SOK_2SID_654">
+        <pb facs="SOK_2SID_654.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="4">Runde: 4</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="11:20:00">11:20</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID2">2. InfDiv(sä)</orgName>
+                    </label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: ostwärts <placeName><settlement
+                                type="Niederprim">NIEDERPRIEM</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="SOK"> AOK</orgName>
+                    </label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Problus"
+                                >Problus</settlement></placeName></label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Feinclage: - Fd in unbekannter Stärke westlich
+                            <placeName><settlement type="Niederprim"
+                        >NIEDERPRIEM</settlement></placeName> -Fdlage von <orgName type="ID1">1.
+                        InfDiv (sä)</orgName> bekannt Eigene: -Aufkl in R zum <placeName><settlement
+                            type="Jehlitz">JEHLITZ</settlement></placeName>, <placeName><settlement
+                            type="Neuprim">NEUPRIM</settlement></placeName>-<placeName><settlement
+                            type="Hradek">HRADEN</settlement></placeName> angesetzt: zzt keine
+                    Beobachtung </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="SOK_2SID_654.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

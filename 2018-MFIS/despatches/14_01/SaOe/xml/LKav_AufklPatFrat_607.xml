@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="LKav_AufklPatFrat_607">
+        <pb facs="LKav_AufklPatFrat_607.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="10">Runde: 10</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="13:00:00">13:00</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="AufklPatFrat">Aufkl.Pat FRAT (LKD
+                            Ö)</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: ö <placeName><settlement
+                                type="Techlowitz">TECHLOWITZ</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="BrigFrat">BRIG
+                    FRAT</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: S <placeName><settlement type="Stezirek"
+                                >STEZIREK</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> aktiv Runde 11 - Sichtung Preuß. Kav. Escadron setzt ö
+                            <placeName><settlement type="Techlowitz"
+                        >Techlowitz</settlement></placeName> fort - 1x Kav.Rg in
+                            <placeName><settlement type="Techlowitz"
+                        >TECHLOWITZ</settlement></placeName> - 2tes Kav.Rgt aus
+                            <placeName><settlement type="Techlowitz"
+                        >TECHLOWITZ</settlement></placeName> nach N in Wald eigene <orgName
+                        type="AufklPatFrat">Aufkl.Pat</orgName>. zieht sich in Richtung <orgName
+                        type="BrigFrat">Brig </orgName>zurück</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="LKav_AufklPatFrat_607.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_LKD_167">
+        <pb facs="AKSA_LKD_167.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="11">Runde: 11</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="13:23:00">13:23</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="LKD">1. ÖLD</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: W Ortsrand <placeName><settlement
+                                type="Stösser">Stösser</settlement></placeName>
+                    </label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="SOK">OK</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Feindmeldung 400 SO <placeName><settlement type="Techlowitz"
+                            >Techlowitz</settlement></placeName> 2 berittene Eskadron auf dem Marsch
+                    Richtung <placeName><settlement type="Bibsko">Bibsko</settlement></placeName>.
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_LKD_167.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

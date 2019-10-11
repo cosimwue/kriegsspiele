@@ -1,0 +1,10 @@
+Runde: 18
+Uhrzeit: 15:35
+Von: Fhrg KB Goltz
+Von - Wo?: Ortsausgang O Radikowitz
+An: OBK & unterstellte Vbde
+An - Wo?: bekannt
+
+Nachricht:
+- KB Goltz erreicht O Ortsausgang
+  Radikowitz

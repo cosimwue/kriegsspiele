@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_none_148">
+        <pb facs="AKSA_none_148.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="none">Runde:</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="00:00:00"/></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von:</label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?:</label>
+                </p>
+                <p n="5">
+                    <label type="to">An:</label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?:</label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> K: siehe Absicht I: <placeName><settlement type="Bor"
+                        >Bor</settlement></placeName>, ab Runde 23 bei Waldrand, 600 Schritt
+                    nördlich <placeName><settlement type="Charbusitz"
+                        >CHARBUSITZ</settlement></placeName></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_none_148.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

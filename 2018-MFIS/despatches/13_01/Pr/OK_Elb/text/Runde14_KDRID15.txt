@@ -1,0 +1,10 @@
+Runde: 14
+Uhrzeit: 14:30
+Von: KDR ID15
+Von - Wo?: südlich Techlowitz
+An: OBK Elbarmee
+An - Wo?: Höhe 695
+
+Nachricht:
+ID15 Nimmt südlich Techlowitz aufgegächerte
+Stellung ein.

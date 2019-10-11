@@ -1,0 +1,17 @@
+Runde: 16
+Uhrzeit: 15:01
+Von: Avantgarde ElbA
+Von - Wo?:
+An: Pommersche Landwehr
+An - Wo?:
+
+Befehl:
+
+- stellt sich darauf ein, auf Befehl "HUSAR"
+  Kavallerieangriff Kürassierregiment 8 auf linkem Flügel
+  des Feindes südlich STRESETITZ zu unterstützen
+- eingetroffene Fußartillerie bezieht Feuerstellungsraum
+  bei Höhe 700 so, dass mit FeuerSP auf
+  feindliche Artillerie SW PROBLUS gewirkt werden
+  kann
+- PL verlegt derzeitigen StO 500 Schritt W STRESETITZ

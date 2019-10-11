@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavDivSa_SOK_263">
+        <pb facs="KavDivSa_SOK_263.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="3">Runde: 3</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="12:24:00">12:24</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="SOK">Sächs AK</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="KavDivSa">Sächs Kav Div</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: 900 Schritt NO <placeName><settlement
+                                type="Oberprim">OBERPRIM</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Zur Klarstellung: Befehl ist <orgName type="KavRgt1">KavRgt 1</orgName>
+                    ist mit 2 ESK Ihnen unterstellt. Sie stehen im 1 ESK ustg 2xx 1 ESK ustg 1xx +
+                    Sie haben nur 4 ESK, Herr General. (Unterschrift)</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavDivSa_SOK_263.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

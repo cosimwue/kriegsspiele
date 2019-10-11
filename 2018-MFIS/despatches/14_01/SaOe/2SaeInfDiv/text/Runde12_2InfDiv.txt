@@ -1,0 +1,12 @@
+Runde: 12
+Uhrzeit: 14:00
+Von: 2. InfDiv(Sä)
+Von - Wo?: OSTWÄRTS NIEDERPRIM
+An: InfBrig 1 (1.-4. InfBtl)
+An - Wo?: SÜDOSTWÄRTS PROBLUS
+
+Nachricht:
+- InfBrig 1 (ohne JgBtl 1) verlegt
+  im raum nördlich OBERPRIM
+- Stellt sich darauf ein Kräfte
+  in OBERPRIM zu verstärken

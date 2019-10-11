@@ -1,0 +1,9 @@
+Runde: 10
+Uhrzeit: 13:05
+Von: Oberkommando Elbarmee
+Von - Wo?: Jehlitz
+An: Infanteriedivision 14
+An - Wo?: Jehlitz
+
+Nachricht:
+ANGRIFF!

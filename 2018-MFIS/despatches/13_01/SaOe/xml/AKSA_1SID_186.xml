@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_1SID_186">
+        <pb facs="AKSA_1SID_186.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="16">Runde: 16</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="15:14:00">15:14</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="ID1">1. Sächs InfDiv</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: nördl. <placeName><settlement type="Problus"
+                                >Problus</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="SOK">Sächs AK</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - feindl. Halbbatlion vernichtet - <orgName type="InfBtl5"
+                        >5.</orgName>-<orgName type="InfBtl8">8. InfBtl</orgName> zw.
+                            <placeName><settlement type="Stresetitz"
+                        >Stresetitz</settlement></placeName>-<placeName><settlement type="Problus"
+                            >Problus</settlement></placeName> weiter im Angriff auf preuß InfBtl mit
+                    guter Wirkung - eigene Verluste gering - <orgName type="InfBtl10"
+                        >10.</orgName>+<orgName type="InfBtl11">11. InfBtl</orgName> bekämpfen preuß
+                    InfBtl nw <placeName><settlement type="Problus">Problus</settlement></placeName>
+                    - insg. 3,5 feindl. InfBtl auf eigene Stellungen linie <placeName><settlement
+                            type="Stresetitz"
+                            >Stresetitz</settlement></placeName>-<placeName><settlement
+                            type="Problus">Problus</settlement></placeName> im Angriff b.w. </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_1SID_186.pdf"/>
+                <head/>
+                <p> - Stellungen können gehalten werden - eigene Art + Inf greift weiter an</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,13 @@
+Runde: 1
+Uhrzeit: 10:00
+Von: OBK Elbarmee
+Von - Wo?: Nechanitz
+An: Avantgarde Elbarmee
+An - Wo?: Ostwärts Lubno
+
+Nachricht:
+- nimmt auf 4 Batterien, beritten der
+  ArmeeArtRes
+- bindet Fd auf der Linie NIEDERPRIM
+  PROBLUS
+- überwacht nördl. Flanke

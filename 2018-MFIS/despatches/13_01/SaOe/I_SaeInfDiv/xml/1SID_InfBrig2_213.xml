@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SID1_InfBrig2_213">
+        <pb facs="1SID_InfBrig2_213.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="20">Runde: 20</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="16:20:00">16:20</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="InfBrig2">2. Inf Brig</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: <placeName><settlement type="Stresetitz"
+                                >STRESE</settlement></placeName>-<placeName><settlement
+                                type="Problus">PROB</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="ID1">1. INFDIV</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: SÜDL. <placeName><settlement type="Problus"
+                                >PROB</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> PREUß. KAVALERRIE GRIEFT EIGENE LINIE IN EINEM LETZTEN AGRIFF AN ->
+                    ANGRIFF WURDE PROBLEMLOS ABGEWEHRT BW </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="1SID_InfBrig2_213.pdf"/>
+                <head/>
+                <p>
+                    <placeName><settlement type="Stresetitz">STRESETITZ</settlement></placeName>
+                    <orgName type="InfBtl5">5.</orgName>
+                    <orgName type="InfBtl7">7.</orgName>
+                    <orgName type="InfBtl8">8.</orgName>
+                    <orgName type="InfBtl6">6.</orgName>
+                    <orgName type="InfBtl11">11.</orgName>
+                    <orgName type="InfBtl10">10.</orgName>
+                    <placeName><settlement type="Problus">PROBLUS</settlement></placeName>
+                    <orgName type="JgBtl2">2. JägerBtl</orgName> als RESERVE</p>
+            </div>
+        </body>
+    </text>
+</TEI>

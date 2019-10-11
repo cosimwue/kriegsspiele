@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="Elb_ArtBttr1_343">
+        <pb facs="Elb_ArtBttr1_343.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="14">Runde: 14</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="15:05:00">15:05</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ArtBttr1">Art Bttr
+                        1</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Teil 2</label></p>
+                <p n="5"><label type="to">An: <orgName type="KdrAvantgarde">Fhr
+                        Avantgarde</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?:</label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Antrag: Aufgeklärt eigene Fußartillerie Empfehlung Vbdg Aufnahme mit diesen
+                    Kr. Ablösung in Stg und frei <orgName type="ArtBttr1">1.Bttr</orgName> für neue
+                    Aufträge </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="Elb_ArtBttr1_343.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

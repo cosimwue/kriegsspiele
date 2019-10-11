@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="S1Inf_1SID_628">
+        <pb facs="S1Inf_1SID_628.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="1">Runde: 1</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="10:10:00">10:10</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID1">1. Sä
+                    InfDiv</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="HQ">HQ 1.
+                                InfDiv (Westrand NiederPrim)</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="Esk3">3. Eskadron</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: 900 Schritt südwestlich
+                                <placeName><settlement type="Bor"
+                        >BOR</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Auftrag - <orgName type="Esk3">3. Eskadron</orgName> setzt an
+                    Aufkl. Patrouille (25 Mann) - klärt auf Achse <placeName><settlement
+                            type="Niederprim">Niederprim</settlement></placeName>-Ri
+                            <placeName><settlement type="Popowitz">Popowitz</settlement></placeName>
+                    - geht so in Stg, dass Raum ostw <placeName><settlement type="Lubno"
+                            >LUBNO</settlement></placeName> und südl <placeName><settlement
+                            type="Popowitz">Popowitz</settlement></placeName> übw werden kann -
+                    weicht aus a.B. - vermeidet Fdkontakt 600 12 Züge </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="S1Inf_1SID_628.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

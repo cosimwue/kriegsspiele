@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SID1_InfBtl5_208">
+        <pb facs="1SID_InfBtl5_208.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="15">Runde: 15</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="14:40:00">14:40</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="InfBtl5">5. Inf Btl</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: SÜDLICH <placeName><settlement
+                                type="Stresetitz">STRESELITZ</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="ID1">1. INF DIV SACHSEN</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: SÜDLICH <placeName><settlement type="Problus"
+                                >PROBLUS</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">
+                    <orgName type="InfBtl5">5. InfBtl</orgName> UNTER ARTILLERIE BESCHUSS -> 15
+                    SCHADESPUNKTE / 30% EINER KOMPANIE EIGENE ARTILLERIE HAT AUF GEGNER GEWIRKT ->
+                    75% EINER KOMPANIE BEKÄMPFT GEGNERISCHE INFANTERIE BRIGARDE 900 SCHRITT VON DER
+                    STRAßE <placeName><settlement type="Stresetitz"
+                        >STRESETITZ</settlement></placeName>-<placeName><settlement type="Problus"
+                            >PROBLUS</settlement></placeName> ENTFERNT BW gemeldet </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="1SID_InfBtl5_208.pdf"/>
+                <head/>
+                <p>
+                    <orgName type="InfBtl7">7. InfBtl</orgName> BEKÄMPFT MIT SCHLECHTER WIRKUNG
+                    PREUß InfBtl <orgName type="InfBtl11">11. InfBtl</orgName> BEKÄMPFT PREUß INFBTL
+                    MIT SCHLECHTER WIRKUNG</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="InfDiv15_Kdr15ID_508">
+        <pb facs="15InfDiv_Kdr15ID_508.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="17">Runde: 17</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="15:50:00">15:50</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KdrID15">KDr ID15</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: T-Kreuzung 700 westl.
+                                <placeName><settlement type="Stezirek"
+                            >Stez.</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="IB29">InfBrig 29</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: südl. Waldr. <placeName><settlement
+                                type="Oberprim">OberPrim</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"><orgName type="IB29">29</orgName> greift an hinein in Ortschaft
+                            <placeName><settlement type="Oberprim">OBERPRIM</settlement></placeName>
+                    mit - <orgName type="IBtl40">InfBtl 40</orgName> west. Ortsteil - <orgName
+                        type="IBtl65">InfBtl 65</orgName> ostw. - "" - um Ort O.P. zu nehmen </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="15InfDiv_Kdr15ID_508.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

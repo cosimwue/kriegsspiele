@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="UnsortedSa_8AK_696">
+        <pb facs="UnsortedSa_8AK_696.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="8">Runde: 8</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="12:35:00">12:35</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="8AK">8.ÖAK</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="Charbusitz"
+                                >CHARBUSITZ</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="BrigRoth">Brig
+                    ROTH</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="BrizerWald"
+                                >BRIZER WALD</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> <orgName type="BrigRoth">Brigade ROTH</orgName> verlegt v. eig.
+                    Stellung auf Linie <placeName><settlement type="Stezirek"
+                        >STEZIREK</settlement></placeName>-<placeName><settlement type="Oberprim"
+                            >OBERPRIM</settlement></placeName> um in Richtung Wald
+                            <placeName><settlement type="Stezirek"
+                            >STEZIREK</settlement></placeName>-<placeName><settlement type="Neuprim"
+                            >NEUPRIM</settlement></placeName> zu sichern. siehe <span type="sketch"
+                        >(Skizze)</span> -> Laufschritt! </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="UnsortedSa_8AK_696.pdf"/>
+                <head/>
+                <p><span type="sketch">(Skizze)</span></p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

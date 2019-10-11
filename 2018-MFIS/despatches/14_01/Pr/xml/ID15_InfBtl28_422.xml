@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ID15_InfBtl28_422">
+        <pb facs="ID15_InfBtl28_422.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="14">Runde: 14</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="15:00:00">15:00</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="IBtl28">InfBtl.
+                    28</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Waldrand südlich von
+                                <placeName><settlement type="Stezirek"
+                            >Stezirek</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="KdrID15">KDr ID15</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="H750">Hügel
+                                750</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Feindmeldung + <orgName type="28I">InfBtl 28/I</orgName> bezieht gerade
+                    Stellung südlich von Waldweg südlich von <placeName><settlement type="Stezirek"
+                            >Stezirek</settlement></placeName> am Waldrand (wartet auf <orgName
+                        type="28I">28/II</orgName>) - 1 Inft. Batallion in Linie am östlichen
+                    Ortsrand S.; direkt südlich von Straße S. -> <placeName><settlement
+                            type="Stösser">Stösser</settlement></placeName> - Anschließend eine
+                    nordöstlich leicht versetzteBatterie (abgeprotzt) - 4 Batallione in Linie bis
+                    südlicher Ortsrand <placeName><settlement type="Stösser"
+                        >Stösser</settlement></placeName> -> </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ID15_InfBtl28_422.pdf"/>
+                <head/>
+                <p> + 1 Kavalleriepatrouille südlicher Ortsrand <placeName><settlement
+                            type="Stezirek">Stezirek</settlement></placeName> auf Straße + 1
+                    Kavalleriepatrouille 400 Meter südöstlich von eigener Position + 1
+                    Kavalleriepatrouile 950 Meter südöstlich von eigener Position </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ID14_Vertr_004">
+        <pb facs="ID14_Vertr_004.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="1">Runde: 1</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="11:20:00">11:20</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Vertrauter"
+                        >Vertrauter</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?:</label></p>
+                <p n="5"><label type="to">An: <orgName type="ID14">14. InfDiv</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Nechanitz"
+                                >NECHANITZ</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">StO: Spitzen (<orgName type="5URgt">5. UlanenRgt</orgName>) 400 Schritt
+                    südlich <placeName><settlement type="Nechanitz"
+                        >NECHANITZ</settlement></placeName>, folgt in unveränderter Gliederung
+                        <orgName type="KBG">KavBrig</orgName> im Zuge <placeName><settlement
+                            type="Nechanitz">NECHANITZ</settlement></placeName> 2 gestrichener WEG -
+                            <placeName><settlement type="Hradek">HRADEK</settlement></placeName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ID14_Vertr_004.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

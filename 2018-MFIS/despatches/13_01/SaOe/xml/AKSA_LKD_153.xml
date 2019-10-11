@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_LKD_153">
+        <pb facs="AKSA_LKD_153.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="1">Runde: 1</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="11:00:00">11:00</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="LKD">ÖLD 1</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: 300 Schritt südl. <placeName><settlement
+                                type="Stezirek">STEZIREK</settlement></placeName>
+                    </label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="SOK">OK</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Lagemeldung <orgName type="LKD">ÖLD 1</orgName>
+                    <orgName type="BrigAppel">Brig Appel</orgName> - auf dem Marsch Richtung
+                            <placeName><settlement type="Stösser">Stösser</settlement></placeName> -
+                    Spitzen ndl. <placeName><settlement type="Stezirek"
+                        >STEZIREK</settlement></placeName> auf Straße <placeName><settlement
+                            type="Stezirek">STEZIREK</settlement></placeName>-<placeName><settlement
+                            type="Problus">PROBLUS</settlement></placeName> - <orgName type="DR2"
+                        >2'''</orgName> vorn, <orgName type="HR9">9'''</orgName> folgt - Ziel: NW
+                            <placeName><settlement type="Stösser">STÖSSER</settlement></placeName>
+                    <orgName type="BrigWallis">Wallis</orgName> - Spitzen sdl.
+                            <placeName><settlement type="Charbusitz"
+                        >CHARBUSITZ</settlement></placeName> - auf dem Marsch Richtung
+                            <placeName><settlement type="Stösser">Stösser</settlement></placeName> -
+                        <orgName type="DR1">1'''</orgName> auf Straße sdl. <placeName><settlement
+                            type="Charbusitz">CHARBUSITZ</settlement></placeName> - <orgName
+                        type="HR10">10'''</orgName> auf Str <placeName><settlement type="Rosnitz"
+                            >ROSNITZ</settlement></placeName>- <placeName><settlement
+                            type="Stezirek">STEZIREK</settlement></placeName> - Ziel: SO
+                            <placeName><settlement type="Stösser">STÖSSER</settlement></placeName>
+                    <orgName type="BrigFrat">Frat</orgName> - Stg sdl <placeName><settlement
+                            type="Stezirek">STEZIREK</settlement></placeName> - übw nach S - mit 1
+                    Eskadron in <placeName><settlement type="Techlowitz"
+                        >TECHLOWITZ</settlement></placeName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_LKD_153.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

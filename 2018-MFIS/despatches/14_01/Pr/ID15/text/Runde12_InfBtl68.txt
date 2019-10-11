@@ -1,0 +1,16 @@
+Runde: 12
+Uhrzeit: 14:15
+Von: InfBtl 68
+Von - Wo?: Waldrand südlich von OberPrim
+An: Kdr ID15
+An - Wo?: Hügel 750
+
+Nachricht:
+Feindmeldung:
++ 1 Btl mit Schützenlinie (1 Btl. Breite) am
+  südl. Ortsrand OberPrim
++ 2 Batterien (östlich anschließend an o.a. Kräfte)
+  - sind am abbrücken! -
++ 1 Btl. mit Schützenlinie (1 Bttr Breite anschließend o.a. Kräfte)
++ 3 Btl. (1 hintereinander, Rest in Linie) in einem
+  Bogen bis nördlicher Ortsrand Stezirek

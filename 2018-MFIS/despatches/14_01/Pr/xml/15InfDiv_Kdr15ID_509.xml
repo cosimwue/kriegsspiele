@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="InfDiv15_Kdr15ID_509">
+        <pb facs="15InfDiv_Kdr15ID_509.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="18">Runde: 18</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="16:15:00">16:15</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KdrID15">Kdr.
+                    ID15</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: 700 west. <placeName><settlement
+                                type="Stezirek">STE.</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="IR68">InfReg 68</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: 800 westl. <placeName><settlement
+                                type="Stezirek">STE.</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">InfBtl greift an mit 3 Btl neben- einander, linkes <orgName type="68I">Btl
+                        I</orgName> bleibt ostw. <placeName><settlement type="Oberprim"
+                            >OBERPRIM</settlement></placeName>, <orgName type="68II"
+                        >II</orgName>+<orgName type="68III">III</orgName> nach Osten daneben, bis in
+                    Waldstück NW <placeName><settlement type="Stezirek"
+                        >STEZIREK</settlement></placeName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="15InfDiv_Kdr15ID_507.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

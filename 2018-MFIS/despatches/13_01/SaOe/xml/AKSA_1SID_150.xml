@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_1SID_150">
+        <pb facs="AKSA_1SID_150.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="1">Runde: 1</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="10:45:00">10:45</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID1">1. InfDiv</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Höhe südwestl. <placeName><settlement
+                                type="Problus">PROBLUS</settlement></placeName>, 400m</label></p>
+                <p n="5"><label type="to">An: <orgName type="SOK">ArmeeKdo</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - <orgName type="InfBrig2">InfBrig 2</orgName> -> Vorbereitung auf Marsch
+                    bei Waldstück NW, 900m vor <placeName><settlement type="Problus"
+                            >PROBLUS</settlement></placeName> - <orgName type="InfBtl10"
+                        >10.InfBtl</orgName> vtgt westl <placeName><settlement type="Problus"
+                            >PROBLUS</settlement></placeName> - <orgName type="InfBtl11"
+                        >11.InfBtl</orgName> vtgt nördlich <placeName><settlement type="Problus"
+                            >PROBLUS</settlement></placeName> - <orgName type="InfBtl12"
+                        >12.InfBtl</orgName> vtgt nordw <placeName><settlement type="Niederprim"
+                            >NIEDERPRIM</settlement></placeName> - <orgName type="InfBtl9"
+                        >9.InfBtl</orgName> vtgt westl <placeName><settlement type="Niederprim"
+                            >NIEDERPRIM</settlement></placeName> -> </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_1SID_150.pdf"/>
+                <head/>
+                <p>- <orgName type="JgBtl3">3. JgBtl</orgName> und <orgName type="EskIII"
+                        >III.</orgName>/<orgName type="EskIV">IV. Eskadron KavRgt 1</orgName> bilden
+                    Reserve bei Höhe südw <placeName><settlement type="Problus"
+                        >PROBLUS</settlement></placeName> - 2 Batterien in Stellung bei Höhe südw
+                            <placeName><settlement type="Problus">PROBLUS</settlement></placeName> -
+                    eigener Standort DivKdr: Höhe Südw <placeName><settlement type="Problus"
+                            >PROBLUS</settlement></placeName> => <orgName type="ID1">1.
+                        InfDiv</orgName> Einsatzbereit!</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,13 @@
+Runde: 1
+Uhrzeit: 09:50
+Von: Oberkommando Elbarmee
+Von - Wo?: Nechanitz
+An: Avantgarde Elbarmee
+An - Wo?: Nördlich Jehlitz Ostwärts Lubno
+
+Nachricht:
+Feindlage: (Skizze) im westlichen Ortsteil von
+		   			Problus
+		   (Skizze) nordostwärts von
+		   			Nied.Prim auf Straße
+		   			nach Problus

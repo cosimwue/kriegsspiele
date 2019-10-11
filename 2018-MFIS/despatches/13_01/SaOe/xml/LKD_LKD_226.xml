@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="LKD_LKD_226">
+        <pb facs="LKD_LKD_226.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="3">Runde: 3</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="12:30:00">12:30</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="LKD">1. ÖLD</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: 300 sdl. <placeName><settlement
+                                type="Stezirek">STEZIREK</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="BrigAppel">Brig Appel</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: 100 ndl. <placeName><settlement type="Stezirek"
+                                >Stezirek</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> neues Marschziel: SO <placeName><settlement type="Stösser"
+                            >Stösser</settlement></placeName> zw. Ortsrand und Wald sdl.
+                            <placeName><settlement type="Stösser">Stösser</settlement></placeName>
+                    Stellt sich auf GegenAngr zus. mit <orgName type="BrigWallis">Brig
+                        Wallis</orgName> in Raum SW <placeName><settlement type="Stösser"
+                            >Stösser</settlement></placeName> ein um Fd. vor <orgName type="ID2"
+                        >2xx</orgName> zu zsl.</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="LKD_LKD_226.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

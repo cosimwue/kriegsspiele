@@ -1,0 +1,10 @@
+Runde: 11
+Uhrzeit: 13:40
+Von: Avantgarde
+Von - Wo?: Höhe 655
+An: 8. Fußartillerie
+An - Wo?: Marsch
+
+Nachricht:
+Meldereiter: Angabe Position der
+8. Fußartillerie an Kdr Avantgarde!

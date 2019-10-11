@@ -1,0 +1,15 @@
+Runde: 18
+Uhrzeit: 15:35
+Von: Vertr. ID 15
+Von - Wo?: östl. TECHLOWITZ
+An: Kdr ID 15
+An - Wo?: Höhe 735
+
+Nachricht:
+- IR 68 (Spitze der Div) 300 Schritt
+  vor Kreuzung
+- FDL Kräfte auf Linie STÖSSER/STEZIREK
+  Entfernung 1800
+- Art. 2 Bttr hinter IR 68
+       4 Bttr auf Höhe 735
+       4 Bttr auf der Straße hinter Div

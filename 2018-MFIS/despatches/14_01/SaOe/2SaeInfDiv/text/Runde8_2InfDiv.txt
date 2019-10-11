@@ -1,0 +1,11 @@
+Runde: 8
+Uhrzeit: 12:30
+Von: 2. InfDiv(Sä)
+Von - Wo?: Ostwärts NIEDERPRIM
+An: I. Eskadron KR1
+An - Wo?: Patrouille bei JEHLITZ
+
+Nachricht:
+- setzt Aufklärung weiter Richtung
+  WESTEN auf HRADEK über
+  SCHLOß HRADEK

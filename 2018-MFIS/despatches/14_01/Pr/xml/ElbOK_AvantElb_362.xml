@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_AvantElb_362">
+        <pb facs="ElbOK_AvantElb_362.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="8">Runde: 8</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="12:40:00">12:40</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Avantgarde">Elb
+                        Avantg</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="H680">Höhe
+                                680</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OBK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: Bttr. ostw. <placeName><settlement
+                                type="H657">Höhe 657</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">+ Abspr mit <orgName type="ID15">ID15</orgName> 1 Batterie an <orgName
+                        type="Avantgarde">Avantgarde</orgName> zu unterstellen *1 + Abgabe der
+                        <orgName type="7BAR">7. berittenen Art</orgName> an <orgName type="KBG"
+                        >KavBrig GOLTZ</orgName>, danach VerbAufn. der Kräfte selbstst. bei
+                            <placeName><settlement type="Techlowitz"
+                        >TECHLOWITZ</settlement></placeName> *1 Art ist bei <placeName><settlement
+                            type="Neuprim">NEU-PRIEM</settlement></placeName> und wirkt auf
+                    VerbStraße <placeName><settlement type="Jehlitz"
+                        >JEHLITZ</settlement></placeName>-<placeName><settlement type="Oberprim"
+                            >OBERPRIEM</settlement></placeName> + Fd: - 2InfBtl in
+                            <placeName><settlement type="Niederprim"
+                        >NIEDERPREIM</settlement></placeName>(R.: W) Art bei li
+                            <placeName><settlement type="Problus"
+                    >PROBLUS</settlement></placeName>(R.: W) - 2 "" in <placeName><settlement
+                            type="Problus">PROBLUS</settlement></placeName>(R.: W) + Eig: <orgName
+                        type="17F">17</orgName>;<orgName type="28F">28</orgName>;<orgName
+                        type="IR33">33</orgName>;<orgName type="IR40">40</orgName>;<orgName
+                        type="JgBtl8">8</orgName> unverändert, eig StO: <placeName><settlement
+                            type="H655">Höhe 655</settlement></placeName> bei <orgName type="IR33"
+                        >33</orgName>+<orgName type="IR40">40</orgName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_AvantElb_362.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

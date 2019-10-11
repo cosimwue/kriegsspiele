@@ -1,0 +1,25 @@
+Runde: 11
+Uhrzeit: 13:30
+Von: OK KB Goltz
+Von - Wo?: SSO Hradek
+An: OBK, ID14, ID15
+An - Wo?: bekannt
+
+Nachricht:
+
+Aufklärung am Waldrand SO (200)
+Neu Prim: Feindkräfte in Stärke
+		  1 KavDiv aufgeklärt,
+Vorschlag: ID14 -> dreht Richtung 0
+                   Neu Prim
+                   			B.W.
+
+(Rückseite)
+
+ID 15 -> dreht in Richtung N
+		 (Radikowitz -> Neu Prim)
+Goltz -> dreht in Richtung NO
+		 in Richtung Waldrand
+		 bei Neu Prim
+	=> um aufgeklärten Feind
+	   anzugreifen

@@ -1,0 +1,11 @@
+Runde: 16
+Uhrzeit:
+Von: 2. InfDiv(Sä)
+Von - Wo?: OSTW. NIEDERPRIM
+An: InfBrig 1 (InfBtl 3) und JgBtl 4
+An - Wo?: OBERPRIM
+
+Nachricht:
+InfBrig 1 löst mit InfBtl 3 JgBtl 4
+	in OBERPRIM ab und verteidigt
+	Richtung Süden

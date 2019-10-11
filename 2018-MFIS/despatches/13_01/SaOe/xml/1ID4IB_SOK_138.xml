@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ID14IB_SOK_138">
+        <pb facs="1ID4IB_SOK_138.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="3">Runde: 3</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="12:30:00">12:30</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="SOK">Oberkdo SAC</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?:</label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="KorpsArt">KorpsArt(Res)</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: </label>
+                </p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Befehle: <orgName type="KorpsArt">Korpsart(Res)</orgName>, 3.Bttr -
+                    verschiebt 300 Schritt westlich von <placeName><settlement type="Charbusitz"
+                            >CHARBUSITZ</settlement></placeName> - Hält sich bereit; 1. den Kampf im
+                    Süden zu unterstützen 2. in den Raum westlich <placeName><settlement
+                            type="Stezirek">STEZIREK</settlement></placeName> zu wirken </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="1ID4IB_SOK_138.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

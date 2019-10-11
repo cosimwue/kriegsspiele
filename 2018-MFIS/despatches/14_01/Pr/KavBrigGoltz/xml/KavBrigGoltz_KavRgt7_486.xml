@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavBrigGoltz_KavRgt7_486">
+        <pb facs="KavBrigGoltz_KavRgt7_486.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="16">Runde: 16</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="00:00:00"/></label></p>
+                <p n="3"><label type="from">Von: <orgName type="HR7">KavRgt 7</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: 500 ostw. <placeName><settlement
+                                type="Techlowitz">Techlowitz</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="KBG">Kdr KavBrig
+                        GOLTZ</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: 500 N <placeName><settlement
+                                type="Techlowitz">Techlowitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Ankunft Runde 17 - <placeName><settlement type="Bibsko"
+                        >BIBSKO</settlement></placeName> Feindfrei - Spähtrupps südl.
+                            <placeName><settlement type="Stezirek">STEZIREK</settlement></placeName>
+                    u. westl. <placeName><settlement type="Stösser">STÖSSER</settlement></placeName>
+                    melden: 4 Btl Inf in Stg <placeName><settlement type="Stösser"
+                            >STÖSSER</settlement></placeName> 1 Btl Ostausläufer
+                            <placeName><settlement type="Stezirek"
+                    >STEZIREK</settlement></placeName>, 1 Bttr Art nördlich Westrand
+                            <placeName><settlement type="Stösser">STÖSSER</settlement></placeName> -
+                            <placeName><settlement type="Charbusitz"
+                        >CHARBUSITZ</settlement></placeName> nach NW: 4 KavRgt in Stellung b.w.->
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavBrigGoltz_KavRgt7_486.pdf"/>
+                <head/>
+                <p> feindl. Kav.Patr. weslich <placeName><settlement type="Stösser"
+                            >STÖSSER</settlement></placeName>, klären auf, weichen aus. -> weiteres
+                        Vorgehen<orgName type="HR7"> Rgt 7</orgName>: halte Fühlung zum Feind mit
+                    Spähtrupps Rgt weiterhin 500 ostwärts <placeName><settlement type="Techlowitz"
+                            >TECHLOWITZ</settlement></placeName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

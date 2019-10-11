@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavBrig_OKKBG_084">
+        <pb facs="KavBrig_OKKBG_084.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="2">Runde: 2</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="12:05:00">12:05</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KBG">OK KB
+                    Goltz</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: SP</label></p>
+                <p n="5"><label type="to">An: <orgName type="KBG">KB Goltz</orgName>/<orgName
+                            type="Vertr">Vertrauter</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: SP</label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Brigade verlegt von SP 400 in OSO Richtung auf Straße &amp; hält an
+                    Weggabelung 400 WNW <placeName><settlement type="SchlossHradek">Schloss
+                            HRADEK</settlement></placeName></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavBrig_OKKBG_084.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

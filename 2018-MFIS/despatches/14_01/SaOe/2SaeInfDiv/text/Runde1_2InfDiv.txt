@@ -1,0 +1,16 @@
+Runde: 1
+Uhrzeit: 10:00
+Von: 2. InfDiv(Sä)
+Von - Wo?: Ostwärts Nieder Prim
+An: 1. Eskadron KR1
+An - Wo?: Südlich Problus
+
+Nachricht:
+- klärt mit Patroullie den Raum
+  JEHLITZ auf
+- verbleibt als Stehender Spähtrupp
+  und klärt westlich und südwestlich
+  auf
+- weicht bei Feindkontakt aus
+  Richtung NIEDERPRIM/OBERPRIM
+- behält dabei Fühlung zum Feind

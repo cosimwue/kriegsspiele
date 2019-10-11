@@ -1,0 +1,13 @@
+Runde: 13
+Uhrzeit: 14:25
+Von: Oberkommando Elbarmee
+Von - Wo?: Jehlitz
+An: Führung Reservekavalleriebrigade
+An - Wo?: Straße Jehlitz-NeuPrim
+
+Nachricht:
+Auftrag: Marsch durch Waldstück
+		 Angriff aus dem Waldstück
+		 heraus ostwärts Oberprim
+		 Koordination vor Ort mit
+		 InfDiv 15

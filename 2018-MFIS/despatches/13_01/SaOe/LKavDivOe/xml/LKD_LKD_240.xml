@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="LKD_LKD_240">
+        <pb facs="LKD_LKD_240.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="19">Runde: 19</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="16:10:00">16:10</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="LKD">1. ÖLD</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: südl. Ortsrand <placeName><settlement
+                                type="Stösser">Stösser</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="BrigFrat">Frat.</orgName>, <orgName
+                            type="BrigAppel">Appel</orgName>, <orgName type="BrigWallis"
+                            >Wallis</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?:</label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">
+                    <orgName type="BrigAppel">Brig Appel</orgName> Zieht <orgName type="HR9"
+                        >9'''</orgName> aus Stg NW <placeName><settlement type="Stezirek"
+                            >Stezirek</settlement></placeName> ab und geht hinter <orgName
+                        type="DR2">2'''</orgName> (NO <placeName><settlement type="Stösser"
+                            >Stösser</settlement></placeName>) in Stg. <orgName type="BrigWallis"
+                        >Wallis</orgName> Zieht <orgName type="HR10">10'''</orgName> aus Stg bei
+                            <placeName><settlement type="Stezirek">Stezirek</settlement></placeName>
+                    ab und geht hinter <orgName type="DR1">1.</orgName> (SOW <placeName><settlement
+                            type="Stösser">Stösser</settlement></placeName>) in Stg. </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="LKD_LKD_240.pdf"/>
+                <head/>
+                <p><orgName type="BrigFrat">Frat.</orgName> Verlegt mit allen Kr in den Raum 1000
+                    ostw <placeName><settlement type="Stösser">Stösser</settlement></placeName>
+                    <orgName type="LKD">1. ÖLD</orgName> greift a.B.! gegen die re Flanke Preuss.
+                    InfDiv an und Zsl diese im Raum 1000 südl. <placeName><settlement
+                            type="Stezirek">Stezirek</settlement></placeName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

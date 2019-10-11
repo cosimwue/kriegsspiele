@@ -1,0 +1,10 @@
+Runde: 13
+Uhrzeit: 14:25
+Von: Oberkommando Elbarmee
+Von - Wo?: Jehlitz
+An: Führung Infanteriedivision 14
+An - Wo?: Jehlitz
+
+Nachricht:
+gibt ab eine Artilleriebatterie eigener
+Wahl an Avantgarde Elbarmee

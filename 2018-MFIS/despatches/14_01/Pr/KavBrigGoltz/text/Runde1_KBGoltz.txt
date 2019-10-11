@@ -1,0 +1,13 @@
+Runde: 1
+Uhrzeit: Ausgangsposition
+Von: selbst(eigene Sicht)
+Von - Wo?: südl. Höhe 657, SW Nechanitz
+An: GOLTZ
+An - Wo?:
+
+Nachricht:
+-> 3 Batt. preuss. Kreuzung(Graben)
+   südl. LUBNO, westl. JEHLITZ
+   nördl. SCHLOß HRADEK
+-> ID14, ReserveKavBrig, ArtRes ElbArmee
+   Straße (???) NECHANITZ, ALT NECHANITZ

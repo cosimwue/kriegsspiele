@@ -1,0 +1,13 @@
+Runde: 8
+Uhrzeit:
+Von: KDr ID15
+Von - Wo?: 900 m Südwest Ober Prim
+An: Artillerie ID15
+An - Wo?: Neu Prim
+
+Nachricht:
+Unterstellungswechsel einer ArtBttr
+an Avangarde
+um auf die Verbindungsstraße
+Jehlitz-OberPrim
+von Höhe 645 zu wirken

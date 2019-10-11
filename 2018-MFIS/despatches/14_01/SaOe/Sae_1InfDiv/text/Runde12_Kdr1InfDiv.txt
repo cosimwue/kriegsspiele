@@ -1,0 +1,18 @@
+﻿Runde: 12
+Uhrzeit: 14:07
+Von: Kdr 1.InfDiv
+Von - Wo?: HQ ("")
+An: Kdr JgBrig 3
+An - Wo?: GefStd
+
+Nachricht:
+Auftrag
+- JgBrig 2 (S5, S6, S7, S8, S2), eingesetzt
+  als Armeeres bezieht neuen raum
+  der Reserve 500 Schritt ostw
+  NIEDERPRIM
+- Ausführung: schnellstmöglich
+- Meldung: wenn Stg bezogen
+
+Rückseite
+(Skizze)

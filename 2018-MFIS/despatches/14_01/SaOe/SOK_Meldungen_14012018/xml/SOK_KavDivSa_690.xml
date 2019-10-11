@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SOK_KavDivSa_690">
+        <pb facs="SOK_KavDivSa_690.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="15">Runde: 15</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="15:20:00">15:20</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KavDivSa"
+                    >KavDiv</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: ostw. <placeName><settlement
+                                type="Niederprim">Niederprim</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="SOK">SOK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Problus"
+                                >Problus</settlement></placeName></label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Nach Absprache mit <orgName type="ID2">2. InfDiv</orgName>:
+                    Derzeit (unterstrichen)kein(unterstrichen) Ustg-Bedarf, halte Stellung
+                    unverändert.</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="SOK_KavDivSa_690.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

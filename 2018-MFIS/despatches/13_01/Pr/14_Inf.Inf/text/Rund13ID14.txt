@@ -1,0 +1,12 @@
+Runde: 13
+Uhrzeit:
+Von: ID14
+Von - Wo?: Schloss HRADEK
+An: unterstellte Truppen
+An - Wo?: Schloss HRADEK
+
+Nachricht:
+Id14 nimmt aufgrund Aufklärung folgend
+Aufstellung ein
+
+(Skizze)

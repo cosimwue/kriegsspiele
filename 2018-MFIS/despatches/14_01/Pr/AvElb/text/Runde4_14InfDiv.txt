@@ -1,0 +1,12 @@
+Runde: 4
+Uhrzeit: 11:15
+Von: 14. InfDiv
+Von - Wo?: Nechanitz
+An: Armee Art Res
+An - Wo?: Nechanitz
+
+Nachricht:
+Befehl vom OBK: sofort ustg 3 Batterien
+Feldartillerie an Avantguard Elb Armee.
+Meldung bei GefStd Elb Armee an Wege-T 700m
+südl. Höhe 686.

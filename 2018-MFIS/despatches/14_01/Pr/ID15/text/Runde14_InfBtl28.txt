@@ -1,0 +1,25 @@
+Runde: 14
+Uhrzeit: 15:00
+Von: InfBtl. 28
+Von - Wo?: Waldrand südlich von Stezirek
+An: Kdr ID15
+An - Wo?: Hügel 750
+
+Nachricht:
+Feindmeldung
++ InfBtl 28/I bezieht gerade Stellung
+  südlich von Waldweg südlich von Stezirek
+  am Waldrand (wartet auf 28/II)
+  - 1 Inft. Batallion in Linie am östlichen Ortsrand S.; direkt
+    südlich von Straße S. -> Stösser
+  - Anschließend eine nordöstlich leicht versetzte Batterie
+    (abgeprotzt)
+  - 4 Batallione in Linie bis südlicher Ortsrand Stösser ->
+
+Rückseite
++ 1 Kavalleriepatrouille südlicher Ortsrand
+  Stezirek auf Straße
++ 1 Kavalleriepatrouille 400 Meter südöstlich von
+  eigener Position
++ 1 Kavalleriepatrouile 950 Meter südöstlich
+  von eigener Position

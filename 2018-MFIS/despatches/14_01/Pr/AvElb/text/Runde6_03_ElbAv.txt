@@ -1,0 +1,10 @@
+Runde: 6
+Uhrzeit: 12:05
+Von: Elb Av
+Von - Wo?: "Höhe 680"
+An: Inf 40
+An - Wo?: Höhe/Wald 655
+
+Nachricht:
+Weiche aus auf "Höhe 680", 1500 südl.
+von POPOWITZ

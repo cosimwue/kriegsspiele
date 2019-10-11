@@ -1,0 +1,15 @@
+Runde: 1
+Uhrzeit: 10:10
+Von: ID15
+Von - Wo?: 400 m ostwärts HRADEK
+An: InfBrig 30
+An - Wo?: 400 m ostwärts HRADEK
+
+Nachricht: InfBrif 30
+- marschiert in das WALDSTÜCK Richtung
+  Osten.
+  Bis Auf Höhe Verbindungsstraßen
+  OberPrim-Techlowitz südlich Höhe 175
+- um darauf mit 68 nach Norden zu
+  schwenken und mit 28 nach Osten die
+  Flanke zu sichern.

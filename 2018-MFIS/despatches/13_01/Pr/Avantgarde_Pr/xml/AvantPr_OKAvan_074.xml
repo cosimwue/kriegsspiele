@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AvantPr_OKAvan_074">
+        <pb facs="AvantPr_OKAvan_074.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="15">Runde: 15</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:18:00">14:18</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Avantgarde">OK
+                        Avangard</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="H700">Höhe
+                                700</settlement></placeName> bei Art</label></p>
+                <p n="5"><label type="to">An: alle ustl Tle</label></p>
+                <p n="6"><label type="towhere">An - Wo?: in Sturmausgangslage</label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> "Viktoria" -> Angriff <orgName type="PSLR">Pommersche Schwere Landwehr
+                        KavRgt (PL)</orgName> auf linken Flügel Fd südlich <placeName><settlement
+                            type="Stresetitz">STRESETITZ</settlement></placeName> sobald Inf im
+                    Feuergefecht mit Fd auf Linie <placeName><settlement type="Stresetitz"
+                            >STRESETITZ</settlement></placeName> u. <placeName><settlement
+                            type="Problus">PROBLUS</settlement></placeName> -> FeuerSP Art linker
+                    Flügel Fd südlich <placeName><settlement type="Stresetitz"
+                            >STRESETITZ</settlement></placeName></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AvantPr_OKAvan_074.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

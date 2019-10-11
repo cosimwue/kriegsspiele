@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="Avan_VertrAvan_057">
+        <pb facs="Avan_VertrAvan_057.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="15">Runde: 15</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:40:00">14:40</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="VertrAvantgarde">Vertr.
+                            Avgarde</orgName> blau</label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?:</label></p>
+                <p n="5"><label type="to">An: <orgName type="Avantgarde">TrFhr
+                        Av.garde</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?:<placeName><settlement type="H702"
+                                >H702</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Nachricht: Beginn Feuergefecht: - 85% von 1Kp des <orgName type="33II">II
+                        33. IR Btl</orgName> vernichtet - Inf vorgerückt gegen 2 Btl Inf auf Str.
+                            <placeName><settlement type="Stresetitz"
+                        >Stresetitz</settlement></placeName>- <placeName><settlement type="Problus"
+                            >Problus</settlement></placeName> (noch 1 Zug entfernt) - schw. Kavall.
+                    um li Flanke d. Inf. folgend (westl. Rand <placeName><settlement
+                            type="Stresetitz">Stresetitz</settlement></placeName>) - Wirkung d. eig.
+                    Art. auf <orgName type="S5">InfBtl S5</orgName> (rot). Ausmaß nicht abschätzbar
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="Avan_VertrAvan_057.pdf"/>
+                <head/>
+                <p>- <orgName type="JgBtl8">JgBtl</orgName>. bei Art. auf <placeName><settlement
+                            type="H700">H700</settlement></placeName> in Res. <orgName type="KR8">8
+                        KavRgt</orgName> hinter PL in Res. - da fdl Inf größere Reichweite <orgName
+                        type="InfBtl17n">17. InfBtl</orgName> 10% Verlust 1 Kp <orgName
+                        type="InfBtl28">28. InfBtl</orgName> ca. 8% -""- 1 Kp</p>
+            </div>
+        </body>
+    </text>
+</TEI>

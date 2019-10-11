@@ -1,0 +1,12 @@
+Runde: 1
+Uhrzeit: 09:50
+Von: 14. InfDiv
+Von - Wo?: Nechanitz
+An: DivArt 14.InfDiv
+An - Wo?: Nechanitz
+
+Nachricht:
+Geht auf Höhe westl. Jehlitz so in Stellung,
+dass die Enge NeuPrim-NiedPrim-OberPrim überwacht
+werden kann.
+Nimmt Armee ArtRes auf

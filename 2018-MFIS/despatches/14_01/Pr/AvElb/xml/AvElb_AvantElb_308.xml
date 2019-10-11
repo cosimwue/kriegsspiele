@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AvElb_AvantElb_308">
+        <pb facs="AvElb_AvantElb_308.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="9">Runde: 9</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="12:55:00">12:55</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Avantgarde">Avantgarde
+                        Kdr</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="H655">Höhe
+                                655</settlement></placeName>, O <placeName><settlement
+                                type="Jehlitz">JEHLITZ</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="8FAR">Fußartillerie
+                    8</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: Marsch</label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Marschiert auf Straße <placeName><settlement type="Popowitz"
+                            >Popowitz</settlement></placeName>/<placeName><settlement type="Problus"
+                            >Problus</settlement></placeName> im Waldstück O von
+                            <placeName><settlement type="Popowitz"
+                    >Popowitz</settlement></placeName>. Verbindungsaufnahme mit <orgName type="17F"
+                        >17 F</orgName> und <orgName type="28F">28 F</orgName>. Bezieht Stellung im
+                    Waldstück, auf Befehl am Waldrand. </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AvElb_AvantElb_308.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

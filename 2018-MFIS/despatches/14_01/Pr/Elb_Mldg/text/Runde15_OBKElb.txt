@@ -1,0 +1,12 @@
+Runde: 15
+Uhrzeit: 15:15
+Von: Oberkommando Elbarmee
+Von - Wo?: JEHLITZ
+An: Avantgarde
+An - Wo?: Höhe 655
+
+Nachricht:
+- Art aus LUBNO
+  Möglichkeit prüfen ob weiter nach
+  vorne, um Druck auf NIEDERPRIEM
+  zu erhöhen!

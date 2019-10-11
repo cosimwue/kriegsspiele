@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <!-- title of the resource -->
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+          <!-- Information about distribution of the resource -->
+        </p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <!-- Information about source from which the resource derives -->
+        </p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="meldezettel" xml:id="S1Inf_Kdr1ID_636">
+    <pb facs="S1Inf_Kdr1ID_636.pdf"/>
+    <front/>
+
+    <body>
+      <div type="address">
+        <p n="1"><label type="turn" subtype="16">Runde: 16</label></p>
+        <p n="2"><label type="time">Uhrzeit: <time when="15:45:00">15:45</time></label></p>
+        <p n="3"><label type="from">Von: <orgName type="ID1">Kdr 1. InfDiv</orgName></label></p>
+        <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="HQ"
+              >HQ</settlement></placeName></label></p>
+        <p n="5"><label type="to">An: <orgName type="ArtBat2">ArtBat 2</orgName> und <orgName
+              type="ArtBat7">ArtBat 7</orgName></label></p>
+        <p n="6"><label type="towhere">An - Wo?:</label></p>
+      </div>
+
+      <div type="text_vor">
+        <head type="nachricht">Nachricht:</head>
+        <p n="7">- <orgName type="ArtBat7">Art Bat 7</orgName> löst ab sofort <orgName
+            type="ArtBat2">Art Bat 2</orgName> in Stg bei <orgName type="InfBtl11">InfBtl
+            11</orgName> - <orgName type="ArtBat2">Art B 2</orgName> löst sich von Fd wenn totale
+          Vernichtung droht - eine Lücke von max 1. Runde in der Art Feuerunterstützung ist max. zu
+          verschmerzen! </p>
+      </div>
+      <div type="text_rueck">
+        <pb facs="S1Inf_Kdr1ID_636.pdf"/>
+        <head/>
+        <p/>
+      </div>
+    </body>
+  </text>
+</TEI>

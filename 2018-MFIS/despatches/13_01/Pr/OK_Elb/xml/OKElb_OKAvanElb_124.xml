@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="OKElb_OKAvanElb_124">
+        <pb facs="OKElb_OKAvanElb_124.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="13">Runde: 13</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:03:00">14:03</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Avantgarde">OK
+                        Avangarde</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?:</label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OK 1.
+                    Elbarmee</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?:</label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht: Lagemeldung u. Abs</head>
+                <p n="7">F: entlang Straße zwischen <placeName><settlement type="Stresetitz"
+                            >STRESETITZ</settlement></placeName> und <placeName><settlement
+                            type="Problus">PROBLUS</settlement></placeName> in Linie in Stg Art u.
+                    fd Kr bei <placeName><settlement type="Niederprim"
+                        >NIED.PRIM</settlement></placeName> mv wurden aufgeklärt N: Aufn u. Kdo
+                    Übergabe <orgName type="RKB">ResKavBrig</orgName>(RKB) westl.
+                            <placeName><settlement type="H700">Höhe 700</settlement></placeName>
+                    alle Tle <orgName type="Avantgarde">Avangard</orgName> bei
+                            <placeName><settlement type="H702">Höhe 702</settlement></placeName>
+                    berittene Tle <orgName type="ArtRes">ResArt</orgName> eingetroffen -> in
+                    FeuerStg bei Höhe 700 A: <orgName type="Avantgarde">Avanggard</orgName> greift
+                    an auf Befehl "VIKTORIA" mit FeuerUstg berittene Art aus <placeName><settlement
+                            type="H700">Höhe 700</settlement></placeName>, mit frontaler Bindung
+                    aller InfVerbände auf max. Reichweite u. Stoß mit <orgName type="KR8">KürassRgt
+                        8</orgName> in linken Flügel Feind hart südl. <placeName><settlement
+                            type="Stresetitz">STRESETITZ</settlement></placeName> und Einschwenken
+                    nach Süden -> in die Flanke des Fd. bei <placeName><settlement type="Stresetitz"
+                            >STRESETITZ</settlement></placeName> u. PL als Res hinter Infantrie
+                        (<span type="sketch">Skizze</span>) </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="OKElb_OKAvanElb_124.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

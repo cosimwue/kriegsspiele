@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_14ID_352">
+        <pb facs="ElbOK_14ID_352.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="3">Runde: 3</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="11:00:00">11:00</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID14">14.
+                    InfDiv</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="Nechanitz"
+                                >Nechanitz</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OBK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Nechanitz"
+                                >Nechanitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Lagemeldung: <orgName type="ID14">14. InfDiv</orgName> im Raum
+                            <placeName><settlement type="Nechanitz"
+                        >Nechanitz</settlement></placeName> n. Ostw. auf dem Marsch - ETA <orgName
+                        type="5URgt">5. KavBrig</orgName> im Raum nördl. <placeName><settlement
+                            type="Neuprim">NeuPrim</settlement></placeName> in Runde 9 - ETA
+                        <orgName type="IB27">InfBrig 27</orgName>/<orgName type="IB28">28</orgName>
+                    im Raum <placeName><settlement type="Jehlitz">Jehlitz</settlement></placeName>
+                    in Runde 12 - ETA <orgName type="DivArt">DivArt</orgName> im Raum westl.
+                            <placeName><settlement type="Jehlitz">Jehlitz</settlement></placeName>
+                    in Runde 12 </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_14ID_352.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

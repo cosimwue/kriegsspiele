@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavBrigGoltz_Esk11_475">
+        <pb facs="KavBrigGoltz_Esk11_475.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="12">Runde: 12</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:00:00">14:00</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ESK11">selbstst Eskadron
+                            11</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: 200 NW <placeName><settlement
+                                type="H717">Höhe 717</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="KBG">Kdr KavBrig
+                        GOLTZ</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: 600 N <placeName><settlement
+                                type="Techlowitz">TECHLOWITZ</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Ankunft Runde 14 - beide fdl KavPatr. in NO ausgewichen - erkannt 6 Rgt>
+                    fdl Kavallerie zwischen <placeName><settlement type="Stösser"
+                            >STÖSSER</settlement></placeName> und Waldrand 400 Südlich
+                            <placeName><settlement type="Stezirek"
+                    >STEZIREK</settlement></placeName>; verschiebt sich nach Norden - breche Auftrag
+                    ab, kehre zu<orgName type="HR11"> Rgt 11</orgName> zurück </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavBrigGoltz_Esk11_475.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,18 @@
+Runde: 12
+Uhrzeit: 14:15
+Von: ElbAvant
+Von - Wo?: Höhe 655
+An: OBK
+An - Wo?: JEHLITZ
+
+Nachricht:
+- 17: li. flügel klappte R. NO mit Wirkung auf STRESELITZ }
+      re. Flügel unverändert (Wirkung auf Problus) } durch Fd nicht aufklärbar
+- 28: li. Flügel } unverändert, neben InfBtl 17
+      re.  ""    }
+- 40: greift an auf NIEDERPRIEM 3 Fd weicht aus, Pos. unverändert
+- 78: hinter 40
+- 33: StO unverändert, wirkt auf VerbStraße JEHLITZ-OBERPRIEM
+- 8.Art(beritten), Pos. unverändert, wirkt auf NIEDERPRIEM
+- eig. StO bei "Höhe 655"
+- FußArt 8 NO: LUBNO

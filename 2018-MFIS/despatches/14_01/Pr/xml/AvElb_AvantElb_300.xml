@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AvElb_AvantElb_300">
+        <pb facs="AvElb_AvantElb_300.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="6">Runde: 6</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="12:05:00">12:05</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Avantgarde">Elb
+                        Ava.</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: jetzt "<placeName><settlement
+                                type="H689">Höhe 689</settlement></placeName>"</label></p>
+                <p n="5"><label type="to">An: <orgName type="InfBtl8">InfBtl 8</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Jehlitz"
+                                >JEHLITZ</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">weichen aus auf "<placeName><settlement type="H680">Höhe
+                        680</settlement></placeName>", 1500 südl. von <placeName><settlement
+                            type="Popowitz">POPOWITZ</settlement></placeName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AvElb_AvantElb_300.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

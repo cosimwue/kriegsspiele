@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <!-- title of the resource -->
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+          <!-- Information about distribution of the resource -->
+        </p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <!-- Information about source from which the resource derives -->
+        </p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="meldezettel" xml:id="S1Inf_Kdr1ID_638">
+    <pb facs="S1Inf_Kdr1ID_638.pdf"/>
+    <front/>
+
+    <body>
+      <div type="address">
+        <p n="1"><label type="turn" subtype="18">Runde: 18</label></p>
+        <p n="2"><label type="time">Uhrzeit: <time when="16:15:00">16:15</time></label></p>
+        <p n="3"><label type="from">Von: <orgName type="ID1">Kdr 1. InfDiv</orgName></label></p>
+        <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="HQ">HQ
+                ""</settlement></placeName></label></p>
+        <p n="5"><label type="to">An: <orgName type="JgBrig3">Kdr JgBrig 3</orgName></label></p>
+        <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="HQ"
+              >HQ</settlement></placeName></label></p>
+      </div>
+
+      <div type="text_vor">
+        <head type="nachricht">Nachricht:</head>
+        <p n="7"> Befehl UstgWechsel - mit sofortiger Wirkung wird Ihnen <orgName
+            type="JgBtl2">JgBtl 2</orgName> zum bedarfsgerechten Vstk in den Stg bei <orgName
+            type="JgBtl3">JgBtl 3</orgName> und <orgName type="InfBtl11">InfBtl 11</orgName>
+          unterstellt - ich erwarte ein heranführen und die Aufnahme der Kräfte Ortskern
+              <placeName><settlement type="Niederprim">NIEDERPRIM</settlement></placeName>
+        </p>
+      </div>
+      <div type="text_rueck">
+        <pb facs="S1Inf_Kdr1ID_638.pdf"/>
+        <head/>
+        <p>(<span type="sketch">(Skizze)</span>)</p>
+      </div>
+    </body>
+  </text>
+</TEI>

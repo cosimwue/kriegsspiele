@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_KBG_391">
+        <pb facs="ElbOK_KBG_391.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="15">Runde: 15</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="15:15:00">15:15</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KBG">KB Goltz</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: 400 N-lich <placeName><settlement
+                                type="Techlowitz">Techlowitz</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OBK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Jehlitz"
+                                >Jehlitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">- Befehl zum Nehmen <placeName><settlement type="H717">Höhe
+                            717</settlement></placeName> N-lich <placeName><settlement type="Bibsko"
+                            >Bibsko</settlement></placeName> erhalten, keine fdl. Kräfte dort
+                    beobachtet. Ausführung mit 4 Esk <orgName type="HR7">HR7</orgName> - Meldung 6
+                    Esk zw. <placeName><settlement type="Stösser">Stösser</settlement></placeName>
+                    und Waldrand (R. 12) war falsch - </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_KBG_391.pdf"/>
+                <head/>
+                <p> waren 6 Regimenter in Nord- bewegung - <orgName type="HR1d">HR1d</orgName> und
+                        <orgName type="KBG">Kdr KB Goltz</orgName> verlegen auf
+                            <placeName><settlement type="H735">Höhe 735</settlement></placeName>
+                    O-lich <placeName><settlement type="Techlowitz"
+                        >Techlowitz</settlement></placeName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

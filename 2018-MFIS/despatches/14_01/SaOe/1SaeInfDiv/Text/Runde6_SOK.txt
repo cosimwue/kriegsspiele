@@ -1,0 +1,11 @@
+Runde: 6
+Uhrzeit: 11:30
+Von: SOK
+Von - Wo?: BOR
+An: 1.InfDiv
+An - Wo?: PROBLUS
+
+Nachricht:
+Ihnen wird die Artilleriereserve des Korps,
+bestehend aus ArtBrig 1 und 2, derzeit
+im Raum ostwärts NIEDERPRIM unterstellt.

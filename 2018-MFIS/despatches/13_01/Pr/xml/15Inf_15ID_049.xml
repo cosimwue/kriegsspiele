@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="Inf15_15ID_049">
+        <pb facs="15Inf_15ID_044.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="2">Runde: 2</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="11:35:00">11:35</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID15">15.ID</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: N <placeName><settlement type="Hradek"
+                                >HRADEK</settlement></placeName>
+                    </label></p>
+                <p n="5"><label type="to">An: <orgName type="DR7">Dragonerregiment
+                        7</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: N <placeName><settlement type="Hradek"
+                                >HRADEK</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Zwei Eskadrone klären auf mit 400 Schritt/min auf auf Route
+                            <placeName><settlement type="Hradek"
+                            >Hradek</settlement></placeName>-<placeName><settlement
+                            type="Radikowitz"
+                            >Radikowitz</settlement></placeName>-<placeName><settlement
+                            type="Techlowitz">Techlowitz</settlement></placeName>. Dort trennen!
+                    Eine Eskadron nach NO zur Aufklärung der feindlichen Spitzen im Raum
+                            <placeName><settlement type="Stezirek"
+                            >Stezirek</settlement></placeName>/<placeName><settlement type="Stösser"
+                            >Stösser</settlement></placeName>. Zweite Eska- dron nach SO bis östl.
+                            <placeName><settlement type="Bibsko">Bibsko</settlement></placeName>.
+                    Gefecht vermeiden! Meldung an <orgName type="ID15">15.ID</orgName>, die über
+                            <placeName><settlement type="Radikowitz"
+                        >Radikowitz</settlement></placeName>-Techlo- </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="15Inf_15ID_044.pdf"/>
+                <head/>
+                <p>witz folgen wird.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

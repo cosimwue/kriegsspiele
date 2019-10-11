@@ -1,0 +1,13 @@
+Runde: 10
+Uhrzeit: 13:10
+Von: 1. InfDiv
+Von - Wo?: Höhe südw. PROBLUS 
+An: OK
+An - Wo?: BOR
+
+Nachricht:
+
+FD Kräfte in BrigStärke
+in Waldstück ostw. POPOWITZ
+treten nicht weiter an, sondern ziehen
+sich in Waldstück zurück.

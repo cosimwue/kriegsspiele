@@ -1,0 +1,12 @@
+Runde: 11
+Uhrzeit: 13:52
+Von: Kavallerie = (ID15)
+Von - Wo?: Waldstraße 1000 südlich von OberPrim
+An: Kdr ID15
+An - Wo?: Hügel 175
+
+Nachricht:
+Feindmeldung:
++ Kavalleriepatrouille 900m östlich auf
+  Waldstr. gerichtet (hat sich in
+  Richtung Osten abgesetzt)

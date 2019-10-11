@@ -1,0 +1,12 @@
+Runde: 2
+Uhrzeit: 11:00
+Von: Oberkommando Elbarmee
+Von - Wo?: Nechanitz
+An: Avantgarde Elbarmee
+An - Wo?: Nördlich Jehlitz Ostwärts Lubno
+
+Nachricht:
+gibt ab zwei Batterien berittene Artillerie
+an Kavalleriebrigade Goltz
+um Auffangstellung im SÜDEN zu
+stärken

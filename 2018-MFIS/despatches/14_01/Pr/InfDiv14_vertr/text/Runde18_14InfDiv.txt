@@ -1,0 +1,12 @@
+Runde: 18
+Uhrzeit: 16:15
+Von: 14. InfDiv
+Von - Wo?: Jehlitz-NiederPrim
+An: Art Res (4Bttr)
+An - Wo?: Höhe Schäferei
+
+Nachricht:
+- Zielzuweisung:
+	1/3 Feuer auf Ortschaft Niederprim,
+	um Ort in Brand zu setzen
+	2/3 Feuer auf Feind zw. Ober & NiederPrim

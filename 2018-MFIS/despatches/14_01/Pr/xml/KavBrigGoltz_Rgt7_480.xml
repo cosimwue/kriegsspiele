@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavBrigGoltz_Rgt7_480">
+        <pb facs="KavBrigGoltz_Rgt7_480.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="13">Runde: 13</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:30:00">14:30</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="HR7">Rgt 7</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: 500 Ostwärts</label></p>
+                <p n="5"><label type="to">An: <orgName type="KdrKBG">Kdr KavBrig
+                        GOLTZ</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: 500 Nord <placeName><settlement
+                                type="Techlowitz">TECHLOWITZ</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Ankunft 14 - Info von selbstst Eskadron <orgName type="HR11">Rgt
+                        11</orgName> über Fd bei <placeName><settlement type="Stösser"
+                            >STÖSSER</settlement></placeName> - verbleibe mit Rgt 600 ostwärts
+                            <placeName><settlement type="Techlowitz"
+                        >TECHLOWITZ</settlement></placeName> - kläre mit 3 Patrouillen Richtung
+                            <placeName><settlement type="Stezirek"
+                    >STEZIREK</settlement></placeName>, <placeName><settlement type="Stösser"
+                            >STÖSSER</settlement></placeName>, <placeName><settlement type="Bibsko"
+                            >BIBSKO</settlement></placeName> auf </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavBrigGoltz_Rgt7_480.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

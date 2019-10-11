@@ -1,0 +1,14 @@
+Runde: 1
+Uhrzeit: 10:00
+Von: SOK
+Von - Wo?: BOR
+An: 8. Korps
+An - Wo?: BOR
+
+Nachricht:
+
+8. Korps(Ö)
+- Verlegt schnellstmöglich in den Raum nördlich STEZIREK
+- Nimmt auf Kontakt zu Nachbarn LDK(Ö), nach erreichen Einsatzraum.
+- Verteidigt anschließend in diesem Raum gegen Fein aus südwestlicher
+  Richtung.

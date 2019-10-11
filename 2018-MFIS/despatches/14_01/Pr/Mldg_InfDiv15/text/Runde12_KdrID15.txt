@@ -1,0 +1,17 @@
+Runde: 12
+Uhrzeit:
+Von: Kdr ID15
+Von - Wo?: 700m Südlich OberPrim
+An: Artillerie ID15
+An - Wo?: Waldweg NeuPrim-Stezirek
+
+Nachricht:
+Artillerie ID15
+Marschiert bis Waldkante 700m
+Westwärts Stezirek
+und bleibt dort im Wald
+Richtet sich darauf ein Auf Befehl
+Stellungen auf Feld vor Wald zu beziehen
+
+Rückseite
+Meldet eigenen Standort

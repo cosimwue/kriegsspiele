@@ -1,0 +1,16 @@
+Runde: 19
+Uhrzeit: 16:00
+Von: OK Avangarde
+Von - Wo?: Höhe 300
+An: Fhr Art, KürassKavRgt
+An - Wo?: PL u. JgBtl 8
+
+Nachricht:
+
+- Berittene Art verlegt sofort mit allen Kr auf 1000 Schritt
+  südwestlich, um fdl Art niederzuhalten
+- KürassKavRgt greift an nach Flügelwechsel auf
+  den eigenen rechten Flügel nördlich PROBLUS
+  und durchstößt Feind
+- PL folgt KürassRgt im Angriff
+- JgBtl verstärkt sofort Angr der Inf

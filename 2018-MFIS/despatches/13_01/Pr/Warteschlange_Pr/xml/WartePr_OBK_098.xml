@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="WartePr_OBK_098">
+        <pb facs="WartePr_OBK_098.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="18">Runde: 18</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="16:07:00">16:07</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="OBK">OBK</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: <placeName><settlement type="H695">Höhe
+                                695</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="ID14">14. ID</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: </label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Fd: Mit Kr auf <placeName><settlement type="H717">Höhe
+                        717</settlement></placeName> sowie Wegkreuzung 800 Schritt nördlich davon. 2
+                    weitere Eskadrons auf Strasse 900 Schritt westlich <placeName><settlement
+                            type="Stösser">STÖSSER</settlement></placeName> Eig Lg: <orgName
+                        type="Avantgarde">Avantgarde Armee</orgName> wurde im Raum
+                            <placeName><settlement type="Stresetitz"
+                        >STRESETITZ</settlement></placeName>- <placeName><settlement type="Problus"
+                            >PROBLUS</settlement></placeName> vernichtet Auftrag: <orgName
+                        type="ID15">ID15</orgName> greift an, mit Art-Feuer auf
+                            <placeName><settlement type="H717">Höhe 717</settlement></placeName>
+                    sowie Wegekreuzung 800 SChritt nördlich davon. Stellt nach Durchschreiten dieser
+                    Linie mit Kräften Flanken- schutz nach Osten. Greift dann weiter an Richtung
+                            <placeName><settlement type="Stezirek">STEZIREK</settlement></placeName>
+                    -> </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="WartePr_OBK_098.pdf"/>
+                <head/>
+                <p><orgName type="KBG">Kav-Brig Goltz</orgName>: Folgt zunächst dem Angr hinter
+                        <orgName type="ID15">ID15</orgName>, stellt sich darauf ein, in enger
+                    Absprache mit <orgName type="ID15">ID15</orgName>, Flankenangriffe auf ggf. vor
+                        <orgName type="ID15">ID15</orgName> gestauten Fd durchzuführen <orgName
+                        type="ID14">ID14</orgName>: Folgt zunächst <orgName type="KBG">KavBrig
+                        Goltz</orgName>, eingesetzt als Reserve Mir kommt es jetzt darauf an
+                    schnellstmöglich Angriffsschwung aufzunehmen und zu erhalten! Ich verlege nach
+                    Angr-Beginn auf <placeName><settlement type="H795">Höhe
+                        795</settlement></placeName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

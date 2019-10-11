@@ -1,0 +1,10 @@
+Runde: 2
+Uhrzeit: 12:15
+Von: 1. Kavallerie Rgt (Sachsen)
+Von - Wo?: südl. NeuPrim
+An: TrFhr 2. Div (Sachsen)
+An - Wo?: Nied Prim
+
+Nachricht:
+- Fdl. Bewegung Hradek Richtung Radikowitz
+- Stärke 1 Div (Inf + Art)

@@ -1,0 +1,15 @@
+Runde: 14
+Uhrzeit: 14:58
+Von: Art Bttr 1
+Von - Wo?: H 686
+An: Fhr Avantgarde Elb
+An - Wo?: Höhe 655 Wäldchen
+
+Nachricht:
+F: 2 Bttr vernichtet
+   Art Feuer auf eigene Stg eingestellt
+E: stehen unverändert mit 1.Bttr in
+   Feuerkampf gegen Inf weslt nieder Prim
+   keine eigene Gefährdung aber geringe
+   Wirkung auf Feind
+   siehe Teil 2

@@ -1,0 +1,14 @@
+Runde: 11
+Uhrzeit:
+Von: Kdr ID15
+Von - Wo?: Höhe 775 Auf Kreuzung Waldweg
+An: OBK
+An - Wo?: 900m westlich Jehlitz
+
+Nachricht: FEINDMELDUNG
+InfBtl 40 meldet Feind Westlicher Ortsrand OberPrim
+          meldet Feind südlicher Ortsrand OberPrim
+          Jeweils 1Btl
+          Weiteres Btl südlicher Ortsrand NiederPrim
+InfBtl 65 Steht unter Beschuss von südlich
+          OberPrim

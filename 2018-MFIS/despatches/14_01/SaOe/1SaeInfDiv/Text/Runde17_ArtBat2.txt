@@ -1,0 +1,10 @@
+Runde: 17
+Uhrzeit: 16:05
+Von: Art. Bat. 2
+Von - Wo?: unv
+An: Kdr 1.InfDiv
+An - Wo?: uv
+
+Nachricht:
+- weicht vor gegnerischem
+Inf.-Feuer aus.

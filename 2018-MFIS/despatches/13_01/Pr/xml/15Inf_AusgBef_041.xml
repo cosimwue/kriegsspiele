@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="ausgangsbefehl" xml:id="Inf15_AusgBef_041">
+        <pb facs="15Inf_AusgBef_041.pdf"/>
+        <front/>
+        <body>
+            <div type="text_vor">
+                <head type="einheit"><orgName type="ID15">Infanteriedivision 15</orgName>:</head>
+                <p> Greift an, im SP, mit GefAufkl voraus, sowie Artillerie, bindet Feindkräfte im
+                    Raum <placeName><settlement type="Stezirek">STEZIREK</settlement></placeName>
+                    frontal als Voraussetzung für den Flankenangr. der <orgName type="KBG">KavBrig
+                        Goltz</orgName>. Greift danach weiter an über <placeName><settlement
+                            type="Oberprim">OberPriem</settlement></placeName> auf
+                            <placeName><settlement type="Unterprim"
+                        >Unterpriem</settlement></placeName>. </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="15Inf_AusgBef_041.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

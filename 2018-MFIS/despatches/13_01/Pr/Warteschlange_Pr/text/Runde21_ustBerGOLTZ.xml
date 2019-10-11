@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>
+                <!-- title of the resource -->
+            </title>
+        </titleStmt>
+        <publicationStmt>
+            <p>
+                <!-- Information about distribution of the resource -->
+            </p>
+        </publicationStmt>
+        <sourceDesc>
+            <p>
+                <!-- Information about source from which the resource derives -->
+            </p>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+<text type="meldezettel">
+    <body>
+        Runde: 21
+Uhrzeit: 16:25
+Von: ust Ber GOLTZ
+Von - Wo?: bekannt
+An: GOLTZx
+An - Wo?: bekannt
+
+Nachricht:
+
+Spitzen in Ortschaft
+Techlowitz
+3a: folgen 15xx über Ortsausgang
+    TECHLOWITZ SÜD
+    </body>
+</text>
+</TEI>

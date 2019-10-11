@@ -1,0 +1,12 @@
+Runde: 3
+Uhrzeit: 12:04
+Von: ID15
+Von - Wo?: Südrand Hradek
+An: OK Elbarmee
+An - Wo?: Schloss Hradek
+
+Nachricht:
+Feindliche Eskadron gesehen 1700 Schritt
+östl. Hradek im Waldeinschnitt.
+Eigene Kräfte vmtl. aufgeklärt.
+15. ID marschiert weiter.

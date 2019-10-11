@@ -1,0 +1,14 @@
+Runde: 14
+Uhrzeit: 15:00
+Von: Kdr 1. InfDiv
+Von - Wo?: HQ (u)
+An: SOK
+An - Wo?: HQ (u)
+Nachricht: Lagemldg
+
+- grundsätzlich unverändert
+- Verluste: 1/4 InfBtl 11
+			-> wird befehlsgemäß sofort auf-
+				gefüllt durch JgBtl S3
+- - - - - - - - - - - - - - - - - - -
+- Absicht: unverändert

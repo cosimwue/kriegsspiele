@@ -1,0 +1,11 @@
+Runde: 14
+Uhrzeit:
+Von: ID14
+Von - Wo?: süd-südost Hradek
+An: OBK Elbe, Golz KBG, Ulanenregiment 5
+An - Wo?: süd-südost Hradek
+
+Nachricht:
+Angriff/Wirkungsschießen von Ulanenregiment 5 auf
+Feind südlich Neu Prim bei
+Entfernung 900 Schritt!

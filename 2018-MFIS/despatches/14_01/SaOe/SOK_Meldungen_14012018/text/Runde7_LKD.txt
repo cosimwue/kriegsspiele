@@ -1,0 +1,20 @@
+Runde: 7
+Uhrzeit: 12:30
+Von: LKD
+Von - Wo?: östl. OberPrim
+An: SOK
+An - Wo?: Problus
+Nachricht: Meldung
+1. 2 InfBtl Position im Wald südostl.
+	NeuPrim Bewgung ostwärts
+2. Kavallerie Einheit zwischen
+	Hradek - Radikowitz
+	Bewegung Richtung Radikowitz
+
+3. (ausgestrichen) 2 InfBtl nördlich von Jehlitz
+
+3. Kvl(ausgestrichen) Pos (aus) Btl Süd West von Neuprim ->
+
+(Rückseite)
+Bewegung Westwärts
+

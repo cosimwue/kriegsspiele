@@ -1,0 +1,10 @@
+Runde: 11
+Uhrzeit: 13:20
+Von: 2. InfDiv(Sä)
+Von - Wo?: OSTWÄRTS NIEDERPRIM
+An: JgBtl 1
+An - Wo?: SÜDLICH PROBLUS
+
+Nachricht:
+- verstärkt JgBtl 4 in OBERPRIM
+  bei Vtdg Richtung Süden

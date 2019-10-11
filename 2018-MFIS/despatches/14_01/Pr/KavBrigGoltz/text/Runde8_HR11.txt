@@ -1,0 +1,15 @@
+Runde: 8
+Uhrzeit: 12:30
+Von: HR 11
+Von - Wo?: Radikowitz
+An: 1. Eskadron HR 11
+An - Wo?: Radikowitz
+
+Nachricht:
+- Verfolgung feindliche Patrouille
+  aufnehmen und bekämpfen
+- max bis 800 Schritt o-wärts
+  Stadtrand von Techlowitz
+- anschließend Zurücverlegung zum
+  Hr 11/EndStellung 500 Schritt
+  nördl. Techlowitz

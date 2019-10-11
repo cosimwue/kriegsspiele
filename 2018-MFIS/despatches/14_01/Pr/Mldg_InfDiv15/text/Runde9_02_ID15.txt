@@ -1,0 +1,15 @@
+Runde: 9
+Uhrzeit: 12:50
+Von: Kdr ID15
+Von - Wo?: 750 SW ober-PRIM
+An: InfBrig 29
+An - Wo?: bei Kdr ID15
+
+Nachricht:
+- 40 bewegt sich Richtung nördl.
+  Waldkante*1 um aus Wald heraus nach N
+  aufzuklären. Stellung 500 südl-
+  Oberprim.
+- 65: bewegt sich so, dass an der Wald-
+  kante entlang bist STEZIREK Vbd zw.
+  40 + 68 gehalten werden kann, um *1 s.o. 

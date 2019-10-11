@@ -1,0 +1,13 @@
+Runde: 3
+Uhrzeit: 10:44
+Von: 40I
+Von - Wo?:
+An: Avantgarde Elb
+An - Wo?: 1300, SO Popowitz
+
+Nachricht:
+Stg Bezogen
+M: Fd Aufkl. Patrouille aufgeklärt
+   weicht aus auf eigene Stg
+   im Zuge -> Str Wald -> Problus
+N: 33II Verbindung hergestellt

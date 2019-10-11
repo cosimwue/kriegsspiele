@@ -1,0 +1,11 @@
+Runde: 9
+Uhrzeit: 12:55
+Von: ID15
+Von - Wo?: 700 Südl oberPRIM
+An: Kav Tr ID15
+An - Wo?: 500 südl NEU-PRIM
+
+Nachricht:
+Kav reitet im galopp nach Osten
+auf Waldweg bis Höhe 175 (1000 südl.
+Oberprim)

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavDivSa_SOK_590">
+        <pb facs="KavDivSa_SOK_590.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="14">Runde: 14</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="15:05:00">15:05</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="SOK">SOK</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="Problus"
+                                >PROBLUS</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="KavDivSa">KavDiv</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: ostw. <placeName><settlement
+                                type="Niederprim">NIEDERPRIM</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Auftrag: <orgName type="KavDivSa">KavDiv</orgName> verstärkt mit
+                    verbleibenden Kr bei <placeName><settlement type="Niederprim"
+                            >NIEDERPRIM</settlement></placeName> die <orgName type="ID2">2.
+                        InfDiv</orgName>. Absprachen mit <orgName type="ID2">2. InfDiv</orgName>
+                    sind dazu selbstständig zu treffen. Vollzug ist zu melden!</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavDivSa_SOK_590.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

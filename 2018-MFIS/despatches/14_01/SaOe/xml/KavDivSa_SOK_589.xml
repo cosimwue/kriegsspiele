@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavDivSa_SOK_589">
+        <pb facs="KavDivSa_SOK_589.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="12">Runde: 12</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="13:40:00">13:40</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="SOK">SOK</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="Problus"
+                                >PROBLUS</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="KavDivSa">SKD</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: ostwärts <placeName><settlement
+                                type="Niederprim">Niederprim</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">
+                    <orgName type="KavDivSa">SKD</orgName> führt mit einer Brig Gegenangriff über
+                            <placeName><settlement type="Stresetitz"
+                        >STRESELITZ</settlement></placeName>- <placeName><settlement type="Popowitz"
+                            >POPOWITZ</settlement></placeName> Richtung <placeName><settlement
+                            type="Jehlitz">JEHLITZ</settlement></placeName> in die Nordflanke des Fd
+                    um so die bei <placeName><settlement type="Oberprim"
+                        >OBERPRIM</settlement></placeName> angreifenden FD abzuschneiden</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavDivSa_SOK_589.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

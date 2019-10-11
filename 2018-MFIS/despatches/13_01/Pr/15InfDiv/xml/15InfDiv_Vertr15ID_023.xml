@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="InfDiv15_Vertr15ID_023">
+        <pb facs="15InfDiv_Vertr15ID_023.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="15">Runde: 15</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:30:00">14:30</time></label></p>
+                <p n="3"><label type="from">Von: Vertr. <orgName type="ID15">ID
+                    15</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="Techlowitz"
+                                >TECHLOWITZ</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="ID15">Kdr ID 15</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: dto.</label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">FDL Eskadrone auf <placeName><settlement type="H717">Höhe
+                        717</settlement></placeName> sowie an Kreuzung <placeName><settlement
+                            type="Stezirek">STEZIREK</settlement></placeName>/
+                            <placeName><settlement type="Stösser">STÖSSER</settlement></placeName>
+                    zwei weitere Eskadrone auf Straße nach <placeName><settlement type="Stösser"
+                            >STÖSSER</settlement></placeName> - Kavallerie in Btl-Stärke +
+                    Artillerie auf -> </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="15InfDiv_Vertr15ID_023.pdf"/>
+                <head/>
+                <p>dem Marsch von <placeName><settlement type="Stösser"
+                        >STÖSSER</settlement></placeName> süd- wärts</p>
+            </div>
+        </body>
+    </text>
+</TEI>

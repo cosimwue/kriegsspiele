@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AvantPr_none_072">
+        <pb facs="AvantPr_none_072.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="12">Runde: 12</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="13:44:00">13:44</time></label></p>
+                <p n="3"><label type="from">Von:</label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?:</label></p>
+                <p n="5"><label type="to">An: <orgName type="Avantgarde">Avantgarde
+                            ElbArmee</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?:</label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Feindlage: <orgName type="ID15">ID15</orgName> meldet: Starke Kavallerie
+                    (verm Btl-Stärke) bei <placeName><settlement type="Techlowitz"
+                            >TECHLOWITZ</settlement></placeName> aufgeklärt. Verhalten unklar.
+                    Nachbarn: - Eigene Absicht: -unverändert- Kampfaufträge: <orgName
+                        type="Avantgarde">1. Avantgarde Elbarmee</orgName>: - geht mit 2x FAR auf
+                            <placeName><settlement type="H700">Höhe 700</settlement></placeName> so
+                    in Stg, daß Richt <placeName><settlement type="Problus"
+                        >PROBUS</settlement></placeName> gewirkt werden kann. - greift dann nördlich
+                            <placeName><settlement type="Stresetitz"
+                        >STRESETITZ</settlement></placeName> richt. Süden auf <placeName><settlement
+                            type="Problus">PROBLUS</settlement></placeName> an <orgName type="KBG"
+                        >Kavalleriebrigade Goltz</orgName>: StO unbekannt! Verm hinter <orgName
+                        type="ID15">ID15</orgName>. Stellt sich darauf an, nach frontaler Bindung Fd
+                    durch <orgName type="ID15">ID15</orgName> rechts umfassend in linke Flanke Fd
+                    anzugreifen und zu zerschlagen. <orgName type="ID14">Infanteriedivision
+                        14</orgName>: Folgt unverändert<orgName type="KBG"> Brig Goltz</orgName>.
+                    Wird automatisch Reserve, sobald<orgName type="KBG"> Brig Goltz</orgName>
+                    angreift. <orgName type="ID15">Infanteriedivision 15</orgName>: Greift gem. eig
+                    Absicht aufgeklärten Fd Kavallerie <placeName><settlement type="Techlowitz"
+                            >TECHLOWITZ</settlement></placeName> an. Bindet diese frontal, so daß
+                        <orgName type="KBG">Brig Goltz</orgName> rechts umfassend angr. kann.
+                        <orgName type="ResKavBrig">Reservekavalleriebrigade</orgName>: Folgt
+                        <orgName type="Avantgarde">Avantgarde Elbarmee</orgName> unverändert weiter
+                    im Angr. Platz des Führers: Verlege jetzt auf <placeName><settlement type="H695"
+                            >Höhe 695</settlement></placeName> zwischen <placeName><settlement
+                            type="Hradek">HRADEK</settlement></placeName> und <placeName><settlement
+                            type="Radostow">RADOSTOW</settlement></placeName>. </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AvantPr_none_072.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

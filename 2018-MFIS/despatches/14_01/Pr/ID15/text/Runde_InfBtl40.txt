@@ -1,0 +1,17 @@
+Runde: 10
+Uhrzeit: 13:20
+Von: InfBtl 40
+Von - Wo?: Waldrand Höhe Straße Brunnen (südl)
+An: Kdr ID15
+An - Wo?: Höhe 175
+
+Nachricht:
+Feindmeldung:
++ InfBtl 40 nach Norden aufgeklärt; dabei
+	- 1 Bataillone südlicher Ortsrand
+	  OberPrim (Unter Beschuß) <- InfBtl 65
+	- 1 Bataillone westlicher Ortsrand
+	  OberPrim
+	- 1 Bataillone südöstlicher Ortsrand
+	  NiederPrim (vermutlich mit o.a. Kräften
+	              verbunden)

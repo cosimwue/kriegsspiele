@@ -1,0 +1,10 @@
+Runde: 1
+Uhrzeit: 10:00
+Von: Fhr InfDiv 14
+Von - Wo?: Nechanitz
+An: Fhr InfDiv 14
+An - Wo?: (Ausgangslage)
+
+Nachricht:
+DivArt Div15 (eigene) 1000 südl LUBNO
+KavBrig Goltz         1500 südostw NECHANITZ

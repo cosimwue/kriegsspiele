@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="Elb_I40_327">
+        <pb facs="Elb_I40_327.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="3">Runde: 3</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="10:44:00">10:44</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="40I">40I</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?:</label></p>
+                <p n="5"><label type="to">An: <orgName type="Avantgarde">Avantgarde
+                        Elb</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: 1300, SO <placeName><settlement
+                                type="Popowitz">Popowitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Stg Bezogen M: Fd Aufkl. Patrouille aufgeklärt weicht aus auf eigene Stg im
+                    Zuge -> Str Wald -> <placeName><settlement type="Problus"
+                        >Problus</settlement></placeName> N: <orgName type="33II">33II</orgName>
+                    Verbindung hergestellt </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="Elb_I40_327.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

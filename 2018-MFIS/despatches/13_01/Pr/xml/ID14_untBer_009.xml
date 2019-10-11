@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ID14_UntBer_009">
+        <pb facs="ID14_UntBer_009.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="14">Runde: 14</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:30:00">14:30</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Berater">unterstellter
+                            Ber.</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?:</label></p>
+                <p n="5"><label type="to">An: <orgName type="ID14">14. InfDiv</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: Ortsausgang SO <placeName><settlement
+                                type="Hradek">HRADEK</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"><orgName type="17I">16. I</orgName> in Reihe in <placeName><settlement
+                            type="Hradek">HRADEK</settlement></placeName>
+                    <orgName type="56I">56. I</orgName> in Reihe -""- dahinter <orgName type="57F"
+                        >57. F</orgName> -""- zw. <placeName><settlement type="Hradek"
+                            >HRADEK</settlement></placeName> und <placeName><settlement
+                            type="SchlossHradek">Schloss HRADEK</settlement></placeName>
+                    <orgName type="16II">16.II</orgName>, <orgName type="16III">16.III</orgName>,
+                        <orgName type="56F">56. F</orgName> auf Weg nördl. <placeName><settlement
+                            type="SchlossHradek">Schloss HRADEK</settlement></placeName> auf Weg v.
+                    O-W. <orgName type="DR7">7</orgName>, <orgName type="17I">17. I</orgName>,
+                        <orgName type="17II">17. II</orgName>, <orgName type="57I">57 I</orgName>
+                    auf Weg S-N, nördl. <placeName><settlement type="SchlossHradek">Schloss
+                            H.</settlement></placeName> b.w.! </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ID14_UntBer_009_2.pdf"/>
+                <head/>
+                <p> 5. westlich <placeName><settlement type="SchlossHradek">Schloss
+                            HRADEK</settlement></placeName> auf Weg nach O (<placeName><settlement
+                            type="SchlossHradek">Schloss HRADEK</settlement></placeName> - eig. StO
+                    = 500m) Absicht: Angriff Feind südl. <placeName><settlement type="Neuprim"
+                            >Neu-PRIM</settlement></placeName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

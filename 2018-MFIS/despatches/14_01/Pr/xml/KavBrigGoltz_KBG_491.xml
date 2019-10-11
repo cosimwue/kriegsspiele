@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavBrigGoltz_KBG_491">
+        <pb facs="KavBrigGoltz_KBG_491.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="5">Runde: 5</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="00:00:00"></time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KdrKBG">Kdr Goltz</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: </label></p>
+                <p n="5"><label type="to">An: <orgName type="KBG">selbst (eig Sicht)</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: </label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Spitzen <orgName type="HR11">11</orgName> am Nordrand <placeName><settlement type="Radikowitz">RADIKOWITZ</settlement></placeName>
+                Spitzen <orgName
+                        type="DR7">7</orgName> 500 dahinter
+                        <orgName type="ID15">ID15</orgName> geht in ostwärtiger Richtung in Wald vor (voll entfaltet)
+                        <orgName type="DR7">Dragoner</orgName> noch an Waldrand südlich <placeName><settlement type="Neuprim">NEU PRIM</settlement></placeName>
+
+                    </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavBrigGoltz_KBG_491.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

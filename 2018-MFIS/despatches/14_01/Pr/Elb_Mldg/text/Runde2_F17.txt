@@ -1,0 +1,14 @@
+Runde: 2
+Uhrzeit: 10:40
+Von: F 17
+Von - Wo?: Waldstück Popowitz Problus
+An: Fhr Avantgarde Elb
+An - Wo?: Wege T südl H686
+
+Nachricht:
+M: Aufkl Patrouille aufgeklärt
+   Waldweg zwischen Popowitz Problus
+   -> Fd weicht aus R Ost
+E: überschreiten Waldweg bez. Stg
+   im Wald N. Weg
+N: F28 bef. 300 hi. eigener

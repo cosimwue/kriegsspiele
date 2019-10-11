@@ -1,0 +1,11 @@
+Runde: 18
+Uhrzeit:
+Von: ID14
+Von - Wo?: südlich 700 Jehlitz 
+An: unterstellter Bereich
+An - Wo?: südlich 700 Jehlitz
+
+Nachricht:
+- kein Feindkontakt
+- ID14 verlegt Richtung
+Radikowitz

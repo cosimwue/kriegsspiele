@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="Inf15_15ID_050">
+        <pb facs="15Inf_15ID_050.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="2">Runde: 2</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="11:35:00">11:35</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID15">15.ID</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: N <placeName><settlement type="Hradek"
+                                >HRADEK</settlement></placeName>
+                    </label></p>
+                <p n="5"><label type="to">An: <orgName type="FAR8">FAR 8</orgName>
+                        <orgName type="FAR7">FAR 7</orgName>
+                        <orgName type="IR65">IR 65</orgName>
+                        <orgName type="IR40">IR 40</orgName>
+                        <orgName type="IR68">IR 68</orgName>, <orgName type="FAR8">FAR 8</orgName>,
+                            <orgName type="IR28">IR 28</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: N <placeName><settlement type="Hradek"
+                                >HRADEK</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Marschieren Sie mit 200 Schritt/ min über <placeName><settlement
+                            type="Radikowitz">Radikowitz</settlement></placeName> -
+                            <placeName><settlement type="Techlowitz"
+                        >Techlowitz</settlement></placeName>. Erwarten Sie Feind nicht vor
+                            <placeName><settlement type="Techlowitz"
+                        >Techlowitz</settlement></placeName>, Rest der <orgName type="ID15">15.
+                        ID</orgName> folgt, eigene Truppen voraus sind nur Drago- ner <orgName
+                        type="DR7">DR 7</orgName>. Es folgt die <orgName type="KBG">KavBrig
+                        Golz</orgName></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="15Inf_15ID_050.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

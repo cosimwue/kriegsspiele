@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>
+                <!-- title of the resource -->
+            </title>
+        </titleStmt>
+        <publicationStmt>
+            <p>
+                <!-- Information about distribution of the resource -->
+            </p>
+        </publicationStmt>
+        <sourceDesc>
+            <p>
+                <!-- Information about source from which the resource derives -->
+            </p>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+<text type="meldezettel" xml:id="InfDiv14_27InfBrig_287">
+<pb facs="14InfDiv_27InfBrig_287.pdf"/>
+<front/>
+<body><div type="address">
+        <p n="1"><label type="turn" subtype="18">Runde: 18</label></p>
+<p n="2"><label type="time">Uhrzeit: <time when="16:20:00">16:20</time></label></p>
+<p n="3"><label type="from">Von: <orgName type="IB27">InfBrig 27</orgName></label></p>
+    <p n="4"><label type="fromwhere">Von - Wo?: zw <placeName><settlement type="Niederprim">NIE</settlement></placeName>/<placeName><settlement type="Oberprim">OBERPRIM</settlement></placeName></label></p>
+<p n="5"><label type="to">An: <orgName type="KdrID14">Führer InfDiv 14</orgName></label></p>
+<p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Schäferberg">Schäferberg</settlement></placeName></label></p>
+
+</div><div type="text_vor"><head type="nachricht">Nachricht:</head><p n="7">
+- Angr gescheitert, zum Rückzug gezwungen
+- 2. Treffen greift in nächster Runde an
+- Wirkung eig Art auf gegner Art, aufgegn.
+  Inf in Stellung wegen Verzahnung mit eig Inf
+  nicht möglich
+- Verluste<orgName type="IR16"> Rgt 16</orgName> ~ 1kp / <orgName type="56I">I. Btl 56</orgName> 1/2kp</p></div>
+<div type="text_rueck">
+                <pb facs="14InfDiv_27InfBrig_287.pdf"></pb>
+               
+                <head/>
+                
+                <p/>
+            </div>
+    </body>
+</text>
+</TEI>

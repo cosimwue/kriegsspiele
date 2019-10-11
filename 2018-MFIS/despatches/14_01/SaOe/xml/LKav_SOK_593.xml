@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="LKav_SOK_593">
+        <pb facs="LKav_SOK_593.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="1">Runde: 1</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="10:00:00">10:00</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="SOK">SOK</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="LKD">LKD(Ö)</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Oberprim"
+                                >OBERPRIEM</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">
+                    <orgName type="LKD">LKD(Ö)</orgName> - Hält Linie <placeName><settlement
+                            type="Oberprim"
+                            >OBERPRIEM</settlement></placeName>-<placeName><settlement
+                            type="Stezirek">STEZIREK</settlement></placeName>-<placeName><settlement
+                            type="Stösser">STÖSSER</settlement></placeName>. - Stellt sich darauf
+                    ein, <orgName type="LKD">1. LKD(Ö)</orgName> beim Auffangen des Feindes zu
+                    unterstützen. - Hält enge Verbindung zum <orgName type="8AK">8.
+                        Korps(Ö)</orgName>.</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="LKav_SOK_593.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

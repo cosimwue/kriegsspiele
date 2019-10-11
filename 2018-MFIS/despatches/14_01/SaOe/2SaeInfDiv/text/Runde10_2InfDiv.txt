@@ -1,0 +1,12 @@
+Runde: 10
+Uhrzeit: 13:20
+Von: 2. InfDiv(Sä)
+Von - Wo?: OSTWÄRTS NIEDERPRIM
+An: ArtBttr Div(S9, S10)
+An - Wo?: NÖRDLICH OBERPRIM
+
+Nachricht:
+- bezieht Stellung in OBERPRIM
+  in Abstimmung mit JgBtl 4
+  so, dass Richtung Süden
+  gewirkt werden kann

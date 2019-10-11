@@ -1,0 +1,12 @@
+Runde: 16
+Uhrzeit: 15:20
+Von: URgt 5
+Von - Wo?: NEU-PRIM
+An: 14xx
+An - Wo?:
+
+Nachricht:
+Keine Fd-Aufklärung
+Absicht:
+URgt 5 klärt weiter Ri
+OBER-PRIM auf.

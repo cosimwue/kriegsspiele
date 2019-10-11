@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_1SID_194">
+        <pb facs="AKSA_1SID_194.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="19">Runde: 19</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="16:15:00">16:15</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="ID1">1. InfDiv</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: nördl. <placeName><settlement type="Problus"
+                                >Problus</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="SOK">Sächs AK</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> gegn. Kräfte geschlagen (ca. 2 Btl. weichen nach NW aus) eigene Stellung:
+                            <placeName><settlement type="Stresetitz"
+                        >Stresetitz</settlement></placeName> - <orgName type="InfBtl5">5.
+                        InfBat</orgName>|<orgName type="InfBtl7">7.InfBat</orgName>|<orgName
+                        type="InfBtl8">8.InfBat</orgName>|<orgName type="InfBtl6"
+                    >6.InfBat</orgName>| <orgName type="InfBtl11">11.InfBat</orgName>|<orgName
+                        type="InfBtl10">10.InfBat</orgName> - <placeName><settlement type="Problus"
+                            >Problus</settlement></placeName> eigene Verluste: 2 Kompanien des
+                        <orgName type="InfBtl5">5.InfBat</orgName></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_1SID_194.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

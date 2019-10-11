@@ -1,0 +1,13 @@
+Runde: 9
+Uhrzeit: 12:45
+Von: II33
+Von - Wo?: Süd Wäldchen 655
+An: Fhr Avantgarde Elb
+An - Wo?: Höhe 680
+
+Nachricht:
+M: Fd: Aufkl. Patrouille
+       H 680 500 W Brunnen
+       weicht aus auf Städtchen
+       Brunnnen.
+Eig: Beobachten weiter

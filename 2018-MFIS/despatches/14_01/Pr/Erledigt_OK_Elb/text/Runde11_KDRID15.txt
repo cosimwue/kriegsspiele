@@ -1,0 +1,12 @@
+Runde: 11
+Uhrzeit:
+Von: Kdr ID15
+Von - Wo?: Im Wlad 1000 südlich OberPrim
+An: OBK
+An - Wo?: Jehlitz
+
+Nachricht: Standortmeldung
+InfBrig linke Grenze 500m südlich Brunnen
+		rechte Grenze 500m südlich OberPriem
+		Beobachtungsrichtung norden
+		Westen 40 osten 65

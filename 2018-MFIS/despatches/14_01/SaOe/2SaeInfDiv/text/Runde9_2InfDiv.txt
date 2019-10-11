@@ -1,0 +1,11 @@
+Runde: 9
+Uhrzeit: 12:52
+Von: 2. InfDiv(Sä)
+Von - Wo?: OSTWÄRTS NIEDERPRIM
+An: ArtBttr Div (S9, S10)
+An - Wo?: OSTWÄRTS NIEDERPRIM
+
+Nachricht:
+- verlegt nach Nördlich OBERPRIM
+- wirkt Richtung SÜDEN
+- zur unmittelbaren Ustg JgBtl 4

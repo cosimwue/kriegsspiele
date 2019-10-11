@@ -1,0 +1,16 @@
+Runde: 10
+Uhrzeit: 13:05
+Von: 2. InfDiv (sä)
+Von - Wo?: OSTWÄRTS NIEDERPRIEM
+An: SOK
+An - Wo?: PROBLUS
+Nachricht:
+FDlage: Unverändert 2 InfBtl im Wlad
+		südlich OBERPRIM
+		Neu aufgeklärt eine Patrouille Kavallerie
+		auf Höhe Nordostwärts NEUPRIM
+
+Eigene Lage: Infanterie div 4. Brig unverändert
+	entfaltet zw. NIEDERPRIM-OBERPRIM
+	JgBtl 4 und Art jetzt Verteidigung
+	zug OBERPRIM Richtung Süden

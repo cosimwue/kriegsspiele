@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SID2_2SID_563">
+        <pb facs="2SID_2SID_563.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="8">Runde: 8</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="12:30:00">12:30</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID2">2.
+                    InfDiv(Sä)</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Ostwärts <placeName><settlement
+                                type="Niederprim">NIEDERPRIM</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="EskKR1">I. Eskadron
+                        KR1</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: Patrouille bei <placeName><settlement
+                                type="Jehlitz">JEHLITZ</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - setzt Aufklärung weiter Richtung WESTEN auf <placeName><settlement
+                            type="Hradek">HRADEK</settlement></placeName> über SCHLOß
+                            <placeName><settlement type="Hradek">HRADEK</settlement></placeName></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="2SID_2SID_563.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ID14IB_2SID_143">
+        <pb facs="1ID4IB_2SID_143.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="12">Runde: 12</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="13:30:00">13:30</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="ID2">2xx</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: <placeName><settlement type="Oberprim"
+                                >Oberprim</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="InfBrig1">1.InfBrig inkl
+                        Art(10)</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: Raum <placeName><settlement type="Stezirek">Stetzirek</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Befehl VtdgLinie zw <placeName><settlement type="Oberprim"
+                            >Oberprim</settlement></placeName> und <placeName><settlement
+                            type="Stezirek">Stezirek</settlement></placeName> einnehmen. Linke
+                    Grenze ist durch <orgName type="JgBtl1">1. JgBtl</orgName> einzunehmen mitte
+                            <placeName><settlement type="Stezirek"
+                    >Stezirek</settlement></placeName>, Schützen- züge ausbringen. Feind wird aus
+                    Wald westlich <placeName><settlement type="Stezirek"
+                        >Stezirek</settlement></placeName> erwartet, Ausrichtung dementsprechend
+                    wählen. ABSTAND ZU WALD 300 SCHRITT </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="1ID4IB_2SID_143.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

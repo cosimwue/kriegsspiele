@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ID14vertr_14ID_440">
+        <pb facs="ID14vertr_14ID_440.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="1">Runde: 1</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="09:50:00">09:50</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID14">14.
+                    InfDiv</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="Nechanitz"
+                                >Nechanitz</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="IB27">27. InfBrig</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: ostw. <placeName><settlement
+                                type="Nechanitz">Nechanitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Marsch über <placeName><settlement type="Lubno"
+                        >Lubno</settlement></placeName> nach <placeName><settlement type="Jehlitz"
+                            >Jehlitz</settlement></placeName>. Bezieht Raum ostw.
+                            <placeName><settlement type="Jehlitz">Jehlitz</settlement></placeName>.
+                    Dort umgliedern in 2 Rgt nebeneinander Richtung Ost, <orgName type="JgBtl7"
+                        >JägerBtl</orgName> folgt. stellt sich darauf ein a.B. mit 2 Rgt
+                    nebeneinander <orgName type="JgBtl7">JägerBtl 7</orgName> folgend Richtung osten
+                    auf ZZ1 [<placeName><settlement type="Schäferei">Höhe
+                        Schäferei</settlement></placeName>] anzugreifen um dann weiter auf Enge
+                            <placeName><settlement type="Niederprim"
+                        >NiederPrim</settlement></placeName> und <placeName><settlement
+                            type="Oberprim">OberPrim</settlement></placeName> ins Angriffsziel
+                    ostwärts <placeName><settlement type="Niederprim"
+                        >NiederPrim</settlement></placeName> anzugreifen. </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ID14vertr_14ID_440.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

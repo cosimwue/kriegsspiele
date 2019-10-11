@@ -1,0 +1,14 @@
+Runde: 14
+Uhrzeit: 14:40
+Von: Avantgarde
+Von - Wo?: Höhe 655
+An: 17 F
+An - Wo?: Waldstück Popowitz
+
+Nachricht:
+Aufklärung aus dem Waldstück
+in Richtung Stresetitz und Problus.
+Danach zurück in Wald.
+Wenn 8. Fußartillerie eintrifft, soll
+Stellung an Waldkante Richtung Problus/Nieder
+Prim bezogen werden.

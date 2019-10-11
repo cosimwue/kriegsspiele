@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AlterZettel_01">
+        <pb facs="AlterZettel_01.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="number" subtype="none">te Meldung</label></p>
+                <p n="2"><label type="from">Absender <orgName type="DctMarx">Dct
+                        Marxheim</orgName></label></p>
+                <p n="3"><label type="fromwhere">Abgeg. Ort:</label></p>
+                <p n="4"><label type="fromdate">Dat.: <date when="1914-12-05"
+                    >12.5</date></label></p>
+                <p n="5"><label type="fromtime">Zeit: <time when="07:00:00">7°U.</time></label></p>
+                <p n="6"><label type="to">An: <orgName type="1AK">1. A.K.</orgName></label></p>
+                <p n="7"><label type="towhere">Angek. Ort:</label></p>
+                <p n="8"><label type="todate">Dat.: <date when="1914-12-05">12.5</date></label></p>
+                <p n="9"><label type="fromtime">Zeit: <time when="08:00:00">8°U.</time></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">An: I.A.K.</head>
+                <p n="10">
+                    <orgName type="WürtGMaren">Württenb. gelbe Maren</orgName> und <orgName
+                        type="GDragPat">gelbe Dragonerpatrouillen</orgName> wiederholt in Sicht</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AlterZettel_01.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

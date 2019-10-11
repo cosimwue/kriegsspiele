@@ -1,0 +1,15 @@
+Runde: 16
+Uhrzeit: 15:02
+Von: Vertr. ID 15
+Von - Wo?: TECHLOWITZ
+An: Kdr ID 15
+An - Wo?: dto.
+
+Nachricht:
+- IR 68 entfaltet sich in der Spitze
+  der Division in einer Breite von 600
+  Schritt
+- Artillerie: 1 Batt. entfaltet hinter
+  IR 68
+- Rest Div folgt in Reihe
+- Dragonen stehen östl. TECHLOWITZ

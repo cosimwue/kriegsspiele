@@ -1,0 +1,15 @@
+Runde: 1
+Uhrzeit: 10:00
+Von: SOK
+Von - Wo?: BOR
+An: 1.InfDiv
+An - Wo?: PROBLUS
+
+Nachricht:
+
+1.InfDiv (Sä)
+
+- hält weiterhin Linie PROBLUS-NIEDERPRIEM.
+- stellt sich darauf ein, eigene Art a.B. zu verlegen.
+- stellt sich darauf ein, im GefAbschnitt NIEDERPRIEM-OBERPRIEM-
+STEZIREK das auffangen des Feindes a.B. zu unterstützen.

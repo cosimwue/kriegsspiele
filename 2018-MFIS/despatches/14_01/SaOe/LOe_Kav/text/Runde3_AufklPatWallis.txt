@@ -1,0 +1,10 @@
+Runde: 3
+Uhrzeit: 10:35
+Von: Aufklärungspatrouille Wallis
+Von - Wo?: östl. OberPrim
+An: Brigade Wallis
+An - Wo?: östl. Oberprim
+
+Nachricht:
+Patrouille in Marsch gesetzt.
+Keine Feindverbände in Sicht.

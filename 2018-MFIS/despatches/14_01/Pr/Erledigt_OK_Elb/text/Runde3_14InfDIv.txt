@@ -1,0 +1,15 @@
+Runde: 3
+Uhrzeit: 11:00
+Von: 14. InfDiv
+Von - Wo?: Nechanitz
+An: OBK
+An - Wo?: Nechanitz
+
+Nachricht:
+Lagemeldung: 14. InfDiv im Raum Nechanitz n. Ostw.
+			 auf dem Marsch
+			 - ETA 5. KavBrig im Raum nördl. NeuPrim
+			   	   in Runde 9
+			 - ETA InfBrig 27/28 im Raum Jehlitz in Runde 12
+			 - ETA DIvArt im Raum westl. Jehlitz in
+			   Runde 12

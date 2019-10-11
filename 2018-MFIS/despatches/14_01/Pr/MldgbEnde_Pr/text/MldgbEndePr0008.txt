@@ -1,0 +1,15 @@
+Runde: 19
+Uhrzeit: 16:40
+Von: U28 + U17
+Von - Wo?: unverändert
+An: Fhr Avantgarde Elb
+An - Wo?: Höhe 655
+
+Nachricht:
+
+Dringend
+	KavDiv in Streselitz aufgeklärt
+	Marschrichtung w kl. Wäldchen
+
+Auftrag:
+	Fd Abdrängen oder im Wald vernichten

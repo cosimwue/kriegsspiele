@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="LD1_SOK_245">
+        <pb facs="LD1_SOK_245.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="12">Runde: 12</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="13:40:00">13:40</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="SOK">OK SAC</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="LKD">1. AUT LeKavDiv</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: Waldrand <placeName><settlement type="Stösser"
+                                >Stösser</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - Kräfte waren wie im Einsatzbefehl im Rm <placeName><settlement
+                            type="Stösser">STÖSSER</settlement></placeName> zusammenzuziehen nicht
+                    ostw! - Folgeauftrag: - halten mit Teilen Raum <placeName><settlement
+                            type="Techlowitz">TECHLOWITZ</settlement></placeName> - mit
+                    Hauptkräften, Angriff weit südlich ausholend über Raum <placeName><settlement
+                            type="wosnitz">WOSNITZ</settlement></placeName>-<placeName><settlement
+                            type="Libcan">LIBCAN</settlement></placeName> auf anmarschierende ->
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="LD1_SOK_245.pdf"/>
+                <head/>
+                <p>Kräfte im Raum <placeName><settlement type="Radikowitz"
+                        >RADIKOWITZ</settlement></placeName> sicherstellen - Kräfte in
+                            <placeName><settlement type="Techlowitz"
+                        >TECHLOWITZ</settlement></placeName> nicht binden lassen, und bei zu starkem
+                    gegnerischen Druck ausweichen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

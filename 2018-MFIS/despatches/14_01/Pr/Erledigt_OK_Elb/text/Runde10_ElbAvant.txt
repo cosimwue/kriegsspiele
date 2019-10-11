@@ -1,0 +1,18 @@
+Runde: 10
+Uhrzeit: 13:15
+Von: Elb Av
+Von - Wo?: Höhe 655
+An: OBK
+An - Wo?: Batterie ostw. Höhe 657
+
+Nachricht:
++ 17. Pos. unverändert
++ 28. ""      ""      , 1Kp um 1/3 bekämpft
++ 8 (ber. Art) auf Höhe 868 wirkt auf NIEDERPRIEM
+			   und bekämpft Fd in NIEDERPRIEM
++ 33 
++ 40 } Pos. unverändert
++ FußArt von ID15 auf Höhe 645 und wirkt auf
+         Verb.Str. von JEHLITZ nach OBERPRIEM
++ 8 unverändert
++ FußArt auf Marsch zu 17 + 28 

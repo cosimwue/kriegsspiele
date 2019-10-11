@@ -1,0 +1,10 @@
+Runde: 9
+Uhrzeit: 13:00
+Von: 8. ÖAL
+Von - Wo?: BOR
+An: Armee-OK
+An - Wo?: PROBLUS
+Nachricht:
+Meldung: 8.OAK verlegt Gefechtstand
+nach CHARBUSITZ
+

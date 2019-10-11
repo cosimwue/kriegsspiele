@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="ausgangsbefehl" xml:id="Inf14_AusgBef_031">
+        <pb facs="14Inf_AusgBef_031.pdf"/>
+        <front/>
+        <body>
+            <div type="text_vor">
+                <head type="einheit"><orgName type="ID14">Infanteriedivision 14</orgName>:</head>
+                <p> Folgt <orgName type="KBG">KavBrig Goltz</orgName> im Angriff, stellt sich darauf
+                    ein als Reserve den eigenen Angriff zu verstärken. Bleibt dazu zunächst
+                    ungebunden </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="14Inf_AusgBef_031.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

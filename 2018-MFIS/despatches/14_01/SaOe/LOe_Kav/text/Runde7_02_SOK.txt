@@ -1,0 +1,12 @@
+Runde: 7
+Uhrzeit: 12:35
+Von: SOK
+Von - Wo?: PROBLUS
+An: LKD
+An - Wo?: STEZIREK
+
+Nachricht:
+Feindlage:
+	zwei fdl. InfBtl im Wald S-O
+	NEUPRIM Richtung STEZIREK
+	auf dem Marsch.

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_2SID_187">
+        <pb facs="AKSA_2SID_187.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="16">Runde: 16</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="15:12:00">15:12</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="ID2">2xx</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: <placeName><settlement type="Oberprim"
+                                >Oberprim</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="SOK">AOK</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <placeName><settlement type="Bor"
+                                >Bor</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">
+                    <orgName type="ID2">2 InfDiv</orgName> komplett in Stellung von
+                            <placeName><settlement type="Niederprim"
+                        >NiederPrim</settlement></placeName>/<orgName type="InfBrig4">4. Inf
+                        Brig</orgName>/<placeName><settlement type="Oberprim"
+                        >Oberprim</settlement></placeName>/<orgName type="InfBrig1">I.
+                        InfBrig</orgName>/ <placeName><settlement type="Stezirek"
+                            >Stezireck</settlement></placeName> mit ausgebrachten Schützenzügen wo
+                    möglich. Grüße! Frage: Wer schützt <orgName type="ArtBttr1">1. ArtBttr
+                        zwischen</orgName>
+                    <placeName><settlement type="Stezirek">Stezirek</settlement></placeName> und
+                            <placeName><settlement type="Charbusitz"
+                        >Charbusitz</settlement></placeName>?</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_2SID_187.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

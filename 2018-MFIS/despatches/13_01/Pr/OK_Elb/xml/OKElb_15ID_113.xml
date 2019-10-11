@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?><?xml-model href="../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="OKElb_15ID_113">
+        <pb facs="OKElb_15ID_113.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="3">Runde: 3</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="12:04:00">12:04</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID15">ID15</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Südrand <placeName><settlement
+                                type="Hradek">Hradek</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OK Elbarmee</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="SchlossHradek"
+                                >Schloss Hradek</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Feindliche Eskadron gesehen 1700 Schritt östl. <placeName><settlement
+                            type="Hradek">Hradek</settlement></placeName> im Waldeinschnitt. Eigene
+                    Kräfte vmtl. aufgeklärt. <orgName type="ID15">15. ID</orgName> marschiert
+                    weiter. </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="OKElb_15ID_113.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

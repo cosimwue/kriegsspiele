@@ -1,0 +1,12 @@
+Runde: 8
+Uhrzeit:
+Von: Kdr ID15
+Von - Wo?: 900m Südwest Oberprim
+An: OBK
+An - Wo?: 1000m Westwärts Jehlitz
+
+Nachricht:
+Abgabe einer ArtBttr aus
+NeuPrim an Avangarde -> InfRgt 33
+2 ArtBttr folgen über Waldweg
+NeuPrim - Stezirek. IntBtl 65

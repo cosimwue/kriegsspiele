@@ -1,0 +1,15 @@
+Runde: 6
+Uhrzeit: 12:11
+Von: F28
+Von - Wo?: Süd Wäldchen SO Popowitz
+An: Fhr Avantgarde Elb
+An - Wo?: Höhe 680
+
+Nachricht:
+F: ArtFeuer auf eigenen li Flügel
+   (N)
+Eig: 1/3 1.Kp verloren
+     - weichen mit li Flügel aus
+       300m w hinter letzte Stg.
+     - keine direkte Fühlung zu F17
+       -> Vb besteht innerhlab 1 Runde

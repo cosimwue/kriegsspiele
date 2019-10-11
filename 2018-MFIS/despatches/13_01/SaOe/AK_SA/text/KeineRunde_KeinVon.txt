@@ -1,0 +1,12 @@
+Runde:
+Uhrzeit:
+Von:
+Von - Wo?:
+An:
+An - Wo?:
+
+Nachricht:
+
+K: siehe Absicht
+I: Bor, ab Runde 23 bei Waldrand,
+   600 Schritt nördlich CHARBUSITZ

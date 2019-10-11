@@ -1,0 +1,10 @@
+Runde: 16
+Uhrzeit: 15:40
+Von: III/68
+Von - Wo?: Waldrand südl. von OberPrim
+An: Kdr ID15
+An - Wo?: Hügel 750
+
+Nachricht:
+Meldung Feuergefecht mit feindl. InfBtl.
+  + 8 Verluste

@@ -1,0 +1,11 @@
+Runde: 13
+Uhrzeit: 14:25
+Von: S5,S6,S7,S8,S2
+Von - Wo?: unv.
+An: Kdr 1.InfDiv
+An - Wo?: unv.
+
+Nachricht:
+Befehl zur Verlegung
+nicht ausführbar, kein
+Platz

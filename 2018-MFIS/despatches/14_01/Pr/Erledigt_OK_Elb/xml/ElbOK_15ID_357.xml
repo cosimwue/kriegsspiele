@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_15ID_357">
+        <pb facs="ElbOK_15ID_357.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="5">Runde: 5</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="11:17:00">11:17</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID15">ID15</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Waldkante WEST, südl.
+                                <placeName><settlement type="Neuprim"
+                            >NEUPRIM</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OK Preußen</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: Nähe <placeName><settlement
+                                type="Nechanitz">Nechanitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">FEINDMELDUNG KavPatr. auf Kreuzung Waldstraße 1100 südl.
+                            <placeName><settlement type="Brunnen">BRUNNEN</settlement></placeName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_15ID_357.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

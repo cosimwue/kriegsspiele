@@ -1,0 +1,12 @@
+Runde: 10
+Uhrzeit: 13:10
+Von: LDK
+Von - Wo?: südl. Stezirek
+An: Wallis
+An - Wo?: südl. Stezirek
+
+Nachricht:
+Befehl Aufklärungspatrouille
+Wald westl. Stezirek
+Straße in ost-west Richtung
+Bei Feindkontakt Rückzug

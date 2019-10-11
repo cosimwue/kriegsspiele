@@ -1,0 +1,11 @@
+Runde: 1
+Uhrzeit: 09:50
+Von: 14. InfDiv
+Von - Wo?: Nechanitz
+An: Armee ArtRes
+An - Wo?: westl. Nechanitz
+
+Nachricht:
+Bezieht schnellstmöglich Raum westl. Jehlitz.
+Nimmt dort Vbdg mit DivArt 14. InfDiv auf und
+wird DivArt 14. InfDiv unterstellt.

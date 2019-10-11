@@ -1,0 +1,11 @@
+Runde: 17
+Uhrzeit: 15:50
+Von: Kdr ID15
+Von - Wo?: T-Kreuzung
+An: Kav.div Id15
+An - Wo?:Kreuzung 1000 südl. OBERPRIM
+
+Nachricht:
+- Kav. 7 folgt InfBtl 40 und greift
+  nach NORDEN weiter an
+  um fdl. Art zu vernichten.

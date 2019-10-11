@@ -1,0 +1,14 @@
+Runde: 12
+Uhrzeit: 14:05
+Von: Fhr ResKavBri
+Von - Wo?: südl. NeuPrim
+An: ResKavBri
+An - Wo?: südl. NeuPrim
+
+Nachricht:
+Befehl:
+	- durch Waldstück verlegen und im
+	  Bereich OberPrim angreifen
+	- anschl. Richtung Norden die
+	  Höhe 780 südlich Problus gewinnen
+	  und einnehmen

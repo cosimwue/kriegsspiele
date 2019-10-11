@@ -1,0 +1,28 @@
+Runde: 19
+Uhrzeit: 16:20
+Von: OK SAC
+Von - Wo?: Bor
+An: Alle Unterstellten
+An - Wo?: Alle HQ
+
+Nachricht: Lage Update:
+Feind: Norden: greifen Preussen in Brig Stärke an, 1. InfDiv hält
+       Mitte: keine Feststellungen
+       Süden: preussischer Hauptstoss in Div Stärke
+              Spitze 1000 Schritt östlich TECHLOWITZ
+              -> 1. AUT LeKavDiv wurde zurückgedrängt
+Nachbarn: --- 							->
+
+(Rückseite)
+
+Absicht: - Linie zwischen Stresetitz und Stezirek wird
+           durch 1. + 2. InfDiv gehalten
+         - 8. AUT Korps schliesst Linie von STEZIREK nach
+           CHARBUSITZ und hält Reserve nördlich CHARBUSITZ
+         - 1. AUT LeKaDiv bereitet Gegenangriff auf
+           anggreifende preussische Kräfte westlich STÖSSER vor
+         - 1. SAC KavDiv sammelt sich im Rm KLACOW
+           und bereitet Gegenangriff in den Rm südlich
+           CHARBUSITZ - STEZIREK,
+         - KorpsArt unterstützt weiterhin nördlich PROBLUS,
+           und neuer Fsp südlich STEZIREK-CHARBUSITZ

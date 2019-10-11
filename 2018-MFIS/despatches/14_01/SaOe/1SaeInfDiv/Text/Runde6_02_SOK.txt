@@ -1,0 +1,15 @@
+Runde: 6
+Uhrzeit: 12:05
+Von: SOK
+Von - Wo?: BOR
+An: 1.InfDiv
+An - Wo?: PROBLUS
+
+Nachricht:
+
+Feindlage:
+- Fd mit zwei InfBtl 2500 Schritt ostwärts
+Popowitz am Ostrand Wald, Bewegungsri-
+chtung ost aufgeklärt
+- Fd mit zwei InfBtl 1000 Schritt Nördlich
+Jehlitz, Bewegungsrichtung Süd aufgeklärt

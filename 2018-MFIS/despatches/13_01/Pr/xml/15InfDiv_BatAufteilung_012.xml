@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="InfDiv15_BatAufteilung_012">
+        <pb facs="15InfDiv_BatAufteilung_012.pdf"/>
+        <front/>
+        <body>
+            <div type="text_vor">
+                <head type="other"/>
+                <p n="7">
+                    <orgName type="IR68">IR 68</orgName> 1./2./3. Batt -17 <orgName type="IR28">IR
+                        28</orgName> 1./2. Batt <orgName type="IR65">IR 65</orgName> F./2. Batt
+                        <orgName type="IR40">IR 40</orgName> 2./3. Batt <orgName type="DR7">DR
+                        7</orgName> 4 Esk <orgName type="8FAR">8 Far 1.-3. Batt</orgName>
+                    ______________________ +3x FAR 8 +3x FAR 7 </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="15InfDiv_BatAufteilung_012.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

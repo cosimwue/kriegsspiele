@@ -1,0 +1,10 @@
+Runde: 10
+Uhrzeit: 13:17
+Von: Avantgarde
+Von - Wo?: H 655, O Jehlitz
+An: Unterstellte Teile / 8. Batterie der ID15
+An - Wo?: Höhe 645, O Jehlitz
+
+Nachricht:
+ID 14 greift an, Angriff vorbereiten,
+Feuer auf klar erkannten Feind.

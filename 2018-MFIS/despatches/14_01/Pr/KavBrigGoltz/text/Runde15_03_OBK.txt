@@ -1,0 +1,11 @@
+Runde: 15
+Uhrzeit: 15:15
+Von: KB Goltz
+Von - Wo?: 400 N-lich Techlowitz
+An: HR 11
+An - Wo?: 400 N-lich Techlowitz
+
+Nachricht:
+- Verlegen auf Höhe 735 O-lich
+  Techlowitz (ggw. Stellung HR 7), um
+  HR 7 unterstützen zu können

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_KavDivSa_147">
+        <pb facs="AKSA_KavDivSa_147.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="none">Runde:</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="10:45:00">10:45</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="KavDivSa">SAC KavDiv</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: HptKr 900 Schritt SO <placeName><settlement
+                                type="Niederprim">Niederprim</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="SOK">ArmeeKdo</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Lagemeldung <orgName type="KavDivSa">SAC KavDiv</orgName> - hat 1 Esk an
+                        <orgName type="ID2">2. InfDiv</orgName> abgegeben - klärt mit 1 Esk im R
+                    (900 Schritt NW <placeName><settlement type="Niederprim"
+                        >Niederprim</settlement></placeName>) auf - steht mit restl. Kr im R 900
+                    Schritt So <placeName><settlement type="Niederprim">Nieder
+                        Prim</settlement></placeName>. und hält sich als Res bereit</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_KavDivSa_147.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

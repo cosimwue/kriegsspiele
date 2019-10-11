@@ -1,0 +1,14 @@
+Runde: 6
+Uhrzeit: 12:25
+Von: Elb-Avantgarde
+Von - Wo?: Höhe 680
+An: OBK
+An - Wo?: Bttr ostw Höhe 657
+
+Nachricht:
++ verlegen GefStd R JEHLITZ* bei
+  InfBtl 33/40, nimmt anschl. Verb zu InfBt8 auf
+  um "Einklappen des re Flügel" besser
+  zu koordinieren
+
+* Waldstück 655

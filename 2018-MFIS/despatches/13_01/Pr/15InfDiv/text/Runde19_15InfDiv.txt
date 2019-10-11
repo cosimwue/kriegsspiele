@@ -1,0 +1,13 @@
+Runde: 9
+Uhrzeit: 16:04
+Von: Vertr. ID 15
+Von - Wo?: Höhe 717
+An: Kdr ID 15
+An - Wo?: dto.
+
+Nachricht:
+Art Gefecht Höhe 717 auf Stösser
+mit gegenseitiger Wirkung
+
+Feind steht in geschlossener Formation
+von Südl. STÖSSER bis OBERPRIM

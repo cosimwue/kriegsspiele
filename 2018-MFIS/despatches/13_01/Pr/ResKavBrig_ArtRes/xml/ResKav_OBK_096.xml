@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ResKav_OBK_96">
+        <pb facs="ResKav_OBK_96.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="2">Runde: 2</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="12:21:00">12:21</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="OBK">OBK</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement
+                                type="SchlossHradek">Schloß
+                    HRADEK</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="ArtRes">Art Res</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: nördl. <placeName><settlement
+                                type="Kuncitz">KUNCITZ</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Auftrag gem. Bef Ausg unverändert. Ich wiederhole: - 6 Fuß Haubitze folgt
+                    hinter <orgName type="ID15">IDiv 15.</orgName> - 4x berittene 6-Pfünder + 2x Fuß
+                    12-Pfünder folgen <orgName type="Avantgarde">Avantgarde-Elbarmee</orgName> =>
+                    Unterstellungswechsel! </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ResKav_OBK_96.pdf"/>
+                <head/>
+                <p>erhalten: Runde 12</p>
+            </div>
+        </body>
+    </text>
+</TEI>

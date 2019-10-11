@@ -1,0 +1,11 @@
+Runde: 14
+Uhrzeit: 14:25
+Von: 1 Eskadron 1. KavRgt (Sachsen)
+Von - Wo?: Waldrand südl. Neu-Prim
+An: Fhr 2xx
+An - Wo?: Ober-Prim
+
+Nachricht:
+- Aufklärung von 1 Husaren Rgt entfaltet in Angriffsrichtung
+  Waldeinschnitt 1000 südl. Neu Prim
+- eig. Absicht: ausweichen Ri Ober-Prim

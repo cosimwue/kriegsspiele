@@ -1,0 +1,11 @@
+Runde: 3
+Uhrzeit: 11:00
+Von: OBK
+Von - Wo?: NECHANITZ
+An: 14 InfDiv
+An - Wo?: NECHANITZ
+
+Nachricht:
+ArtRes Elbarmee
+ - 8 Batterien(zu Fuß) zur 14 InfDiv
+ - keine zur 15 InfDiv

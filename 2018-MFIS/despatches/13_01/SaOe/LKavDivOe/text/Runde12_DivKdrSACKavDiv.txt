@@ -1,0 +1,15 @@
+Runde: 12
+Uhrzeit: 13:23
+Von: Div Kdr SAC KavDiv
+Von - Wo?: DivGefStd südostwärts PROBLUS
+An: Eskadron Aufklärung
+An - Wo?: 900 Schritt nordwestlich NIEDER-PRIM
+
+Befehl: 
+
+Eskadron Aufklärung, 900 Schritt nordwestlich NIEDER-PRIM
+- hält Fühlung zu aufgeklärtem Feind
+- meldet weiter Art, Stärke und
+  Bewegungsrichtung des Feindes
+- weicht aus bei Angriff des Gegners
+- kampft nicht sondern klärt weiter auf

@@ -1,0 +1,14 @@
+Runde: 11
+Uhrzeit: 13:25
+Von: OK SAC
+Von - Wo?: BOR
+An: 1. InfDiv
+An - Wo?: SW-Problus
+
+Nachricht:
+Zu Artillerie
+- OK SAC Artillerie bleibt bei Problus und
+  kann dort Feuerunterstützung zG 1. Inf Br
+  sicherstellen
+- Art der 1. Inf Br kann für Feuerunterstützung
+  zG des eigenen Kampfraum NORD verwendet werden.

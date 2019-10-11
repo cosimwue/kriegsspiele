@@ -1,0 +1,12 @@
+Runde: 4
+Uhrzeit: 11:13
+Von: Kdr ID15
+Von - Wo?: Waldstraße südlich-östlich (250 Meter) von NeuPrim
+An: Kdr ID15
+An - Wo?: ""
+
+Nachricht:
+Feindmeldung
++ Kavalleriepatrouille auf Kreuzung Wald-
+  straßen (südlich NeuPrim -> Stezirek und
+  Straße von Brunnen kommend)

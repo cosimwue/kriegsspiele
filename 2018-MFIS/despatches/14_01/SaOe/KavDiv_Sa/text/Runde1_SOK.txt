@@ -1,0 +1,15 @@
+Runde: 1
+Uhrzeit: 10:00
+Von: SOK
+Von - Wo?: BOR
+An: KavDiv(Sa)
+An - Wo?: südl BOR
+
+Nachricht:
+
+KavDiv(Sa)
+- Bildet Korpsres.
+- Stellt sich darauf ein, 1. & 2. InfDiv(Sä) a.B. zu verstärken.
+- Hält sich bereit für Gegenangriff im Raum PRIEM.
+- Stellt sich darauf ein, durchgebrochenen Feind spätestens auf der Linie BOR-
+  CHARBUSITZ STÖSSER aufzufangen.

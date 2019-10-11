@@ -1,0 +1,17 @@
+Runde: 14
+Uhrzeit: 14:55
+Von: Fhr ResKavBri
+Von - Wo?: Eigene Waldstück südl. NeuPrim
+An: OBK Elbarmee
+An - Wo?: Jehlitz
+
+Nachricht:
+Meldung
+	- ResKavBri passiert Waldeingang
+	  südl NeuPrim in östliche Richtung
+	- Vorschlag:
+		ResKavBri schlägt südlichen
+		Weg durch Waldstück ein,
+		um Truppen ID15 zu umgehen
+		und stößt östlich OberPrim durch
+		den Wald zum Angriff

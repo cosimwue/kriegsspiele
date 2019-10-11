@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_2SID_151">
+        <pb facs="AKSA_2SID_151.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="1">Runde: 1</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="10:51:00">10:51</time>
+                        (12:00)?</label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID2">II. SACHSISCHE
+                        INFD.</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: 600 SCHRITT WESTL. VON
+                                <placeName><settlement type="Niederprim"
+                            >NIEDERPRIM</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="SOK">OBERKDO SÄCHS.
+                        KORPS</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: NÖRDL WALD <placeName><settlement
+                                type="Bor">BOR</settlement></placeName> 100 SCHRITT SÜD ÖSTL VON
+                        T-KREUZUNG NORDWEST ECKE <placeName><settlement type="Bor"
+                            >BOR</settlement></placeName>-WALD</label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">
+                    <orgName type="InfBrig1">INF BRIG 1</orgName> + <orgName type="ArtBttr10">10.
+                        ART BATTERIE</orgName> IM MARSCH NACH <placeName><settlement type="Stezirek"
+                            >STEZIREK</settlement></placeName> ERWARTETE ANKUNFT IN 10 ZÜGEN
+                        <orgName type="InfBrig4">INFBRIG 4</orgName> + <orgName type="ArtBttr9">9.
+                        ART BTTR</orgName> IM RAUM <placeName><settlement type="Niederprim"
+                            >NIEDER</settlement></placeName> UND <placeName><settlement
+                            type="Oberprim">OBERPRIM</settlement></placeName>. WEST UND SÜDWESTL
+                    VERTEIDIGUNGS BEREIT KAV ESK IN AUFKLARUNGSSTELLUNG WALD ZWISCHEN
+                            <placeName><settlement type="Techlowitz"
+                        >TECHLOWITZ</settlement></placeName> + <placeName><settlement
+                            type="Oberprim">OBERPRIM</settlement></placeName></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_2SID_151.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

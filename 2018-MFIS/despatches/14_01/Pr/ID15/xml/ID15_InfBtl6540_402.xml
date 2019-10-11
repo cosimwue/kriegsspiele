@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ID15_InfBtl6540_402">
+        <pb facs="ID15_InfBtl6540_402.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="11">Runde: 11</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="13:52:00">13:52</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="IBtl65">InfBtl 65</orgName>/<orgName
+                            type="IBtl40">40</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Waldrand südlich <placeName><settlement
+                                type="Oberprim">Ober-Prim</settlement></placeName> (östlich
+                        angrenzende Waldstr.)</label></p>
+                <p n="5"><label type="to">An: <orgName type="ID15">Kdr ID15</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="H175">Hügel
+                                175</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Meldung: + Kontakt mit <orgName type="68I">68/I</orgName> hergestellt
+                        <orgName type="68II">68/II</orgName> und <orgName type="68III">III</orgName>
+                    beziehen in keine Stellung + <orgName type="65F">F/65</orgName> + <orgName
+                        type="65II">II/65</orgName> bilden Schützenlinie + <orgName type="40II"
+                        >II/40</orgName> + <orgName type="40III">III/40</orgName> "" -> Frontbreite
+                    3Btl.e (1 Reserve) Feindmeldung: Batallion südlicher Ortsrand
+                            <placeName><settlement type="Oberprim">OberPrim</settlement></placeName>
+                    hat Schützenlinie gebildet (1 Btl. Breite) </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ID15_InfBtl6540_402.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

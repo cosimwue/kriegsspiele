@@ -1,0 +1,13 @@
+Runde: 14
+Uhrzeit: 14:50
+Von: 2. InfDiv(Sä)
+Von - Wo?: OSTWÄRTS NIEDERPRIM
+An: Art (S9, S10) und JgBtl 1
+An - Wo?: OBERPRIM
+
+Nachricht:
+Art weicht aus nach nördlich
+	OBERPRIM
+JgBtl 1 geht in Stellung nach
+	OBERRIM und verteidigt
+	links neben JgBtl 4

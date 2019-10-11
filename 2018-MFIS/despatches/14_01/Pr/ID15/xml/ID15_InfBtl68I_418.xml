@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ID15_InfBtl68I_418">
+        <pb facs="ID15_InfBtl68I_418.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="16">Runde: 16</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="15:40:00">15:40</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="68I">I/ 68</orgName>
+                        (InfBtl.)</label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Waldrand südlich von
+                                <placeName><settlement type="Oberprim"
+                            >OberPrim</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="ID15">Kdr ID15</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="H750">Hügel
+                                750</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Feuergefecht mit feindl. InfBtl. + 6 Verluste </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ID15_InfBtl68I_418.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

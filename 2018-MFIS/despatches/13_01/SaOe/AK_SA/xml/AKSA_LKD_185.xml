@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_LKD_185">
+        <pb facs="AKSA_LKD_185.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="16">Runde: 16</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="15:10:00">15:10</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="LKD">1. ÖLD</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: Südrand <placeName><settlement type="Stösser"
+                                >Stösser</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="SOK">OK</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Lagemeldung <orgName type="LKD">1.ÖLD</orgName>: Fd mit InfDiv auf dem
+                    Marsch zw. <placeName><settlement type="Techlowitz"
+                        >Techlowitz</settlement></placeName> und <placeName><settlement
+                            type="Stösser">Stösser</settlement></placeName>. Spitzen derzeit bei
+                    1000 ostw <placeName><settlement type="Techlowitz"
+                        >Techlowitz</settlement></placeName>. Eig Lg. mit 1. und 2. Rgt derzeit von
+                    1000 südl. <placeName><settlement type="Stösser"
+                        >Stösser</settlement></placeName> auf dem Marsch zur Stg SP
+                            <placeName><settlement type="Stösser">Stösser</settlement></placeName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_LKD_185.pdf"/>
+                <head/>
+                <p><orgName type="HR8">8'''</orgName> in Stg auf <placeName><settlement type="H717"
+                            >Höhe 717</settlement></placeName> und nördl. davon weicht vor fdl.
+                    InfDiv und <placeName><settlement type="Stösser"
+                        >Stösser</settlement></placeName> aus. Mit <orgName type="HR5"
+                        >5'''</orgName> in Stg zw. <placeName><settlement type="Stösser"
+                            >Stösser</settlement></placeName> und <placeName><settlement
+                            type="Charbusitz">Charbusitz</settlement></placeName>
+                    <orgName type="HR9">9'''</orgName> in Stg SO <placeName><settlement
+                            type="Stösser">Stösser</settlement></placeName> parallel zu Straße nach
+                    Süden Eig Abs: Mit <orgName type="BrigAppel">Appel</orgName> und <orgName
+                        type="BrigWallis">Wallis</orgName> aus dem Raum SO <placeName><settlement
+                            type="Stösser">Stösser</settlement></placeName> und <orgName
+                        type="BrigFrat">Frat.</orgName> als Res fdl. InfDiv im Raum 1000 - 1500
+                    westl. <placeName><settlement type="Stösser">Stösser</settlement></placeName>
+                    zsl. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

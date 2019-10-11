@@ -1,0 +1,10 @@
+Runde: 10
+Uhrzeit: 12:20
+Von: ID15
+Von - Wo?: 500 Schritt NW Radikowitz
+An: OK Elbarmee
+An - Wo?: Schloss Hradek
+
+Nachricht:
+Feindl. Eskadron bei Techlowitz weicht
+nach NO aus

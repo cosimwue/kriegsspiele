@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="ausgangsbefehl" xml:id="Ausgangsbefehl_706">
+        <pb facs="Ausgangsbefehl_706.pdf"/>
+        <front/>
+        <body>
+            <div type="text_vor">
+                <head>Befehl Nr.1 für die Verteidigung linker Flügel KÖNIGGRÄTZ</head>
+                <p>1. Lage
+                    a. Feindlage:
+                    1) Überblick
+                    Die Preußen sind im Vormarsch auf KÖNIGGRÄTZ:
+                        - von Norden kommend mit: 2. Armee links unter Führung des
+                          Kronprinzen Friedrich Wilhelm (im Zuge der ELBE-KÖNIGGRÄTZ),
+                          hier vermutlich SP
+                        - von Westen kommend mit 1. Armee in der Mitte unter Führung von
+                          Prinz Karl (Achse TURNAU-KÖNIGGRÄTZ)
+                        - ebenfalls von Westen kommend mit Elb-Armee rechts unter Führung
+                          von General Herwart von Bittenfeld (Achse MÜNCHENGRÄTZ-NECHANICE-KÖNIGGRÄTZ)
+                    Absicht der Preußen unter General von Moltke wird es sein, unsere Nord-
+                    Armee nordwestl. KÖNIGGRÄTZ zu stellen, in offener Feldschlacht
+                    einzuschließen und zu zerschlagen, um so BÖHMEN zu nehmen und
+                    anschließend das österreichische Kernland zu bedrohen. Der
+                    Kriegseintritt Italiens gegen Österreich soll ebenfalls begünstigt werden.
+                    2. Elb-Armee
+                    Dem SAC Armeekorps "KÖNIG JOHANN" steht mit Masse die Elb-Armee
+                    gegenüber. Deren Auftrag wird es vermutlich sein, den linken Flügel der
+                    Nord-Armee zu umfassen, mindestens aber zu binden, zum Ausweichen zu
+                    zwingen und so die Voraussetzungen zu schaffen für den Stoß des linken
+                    Nachbarn 1. Armee auf das Schlüsselgelände um CHLUM.
+                    Aufgeklärt wurden bis 031200 jul:
+                    - Die Avantgarde der Elb-Armee ist mit Masse in den Raum zwischen NIEDER-PRIM und POPOWITZ vorgestoßen.
+                    Das FüsBtl/InfRgt 17, das FüsBtl/InfRgt 28 und das JgBtl 8 stehen
+                    am Südhang des Hügels NIEDER-PRIM und POPOWITZ. Das 1. Btl/InfRgt 40
+                    und das II.Btl/InfRgt 33 stehen im Wald nordostwärts der
+                    Fasanerie an der Straße JEHLITZ-NIEDER-PRIM.
+                    - Die 14. InfDiv steht mit Masse im Raum NECHANITZ.
+                        - Die zugehörige InfBrig 28 (InfRgt 16, FüsBtl/InfRgt 56, 1. Btl/InfRgt 56, JgBtl 7) befindet sich zusammen mit auf der Straße
+                        NECHANITZ-LUBNO,
+                        - die InfBrig 27 (I. und II. Btl/InfRgt 17. FüsBtl/InfRgt 57, I.Btl/InfRgt 57) dahinter</p>
+
+            </div>
+            <div type="text_vor_">
+                <head/>
+                <p>- zusammen mit UlanRgt 5
+                    - und der Divisionsartillerie in Stärke von 3 Batterien in
+                      NECHANITZ
+                - Die 15. InfDiv steht im Raum HRADEK.
+                    - Die zugehörige IB 29(FüsBtl/InfRgt 65, II. Btl/InfRgt 65, II.
+                      und III. Btl/InfRgt 40) steht südlich JEHLITZ an der Höhe
+                      gegenüber NEU-PRIM.
+                    - Die InfBrig 30 (InfRgt 68, I. und II. Btl/InfRgt 28) steht südlich
+                      der InfBrig 29 ostwärts von HRADEK gegenpber dem OBERPRIMER WALD
+                    - Das DragRgt 7 steht auf der Straße am SCHLOSS HRADEK
+                    - Die Divisionsartillerie in Stärke von 3 Batterien steht
+                      zusammen mit der Artillerie der Avantgarde Elb-Armee in
+                      Stärke von 2 Batterien auf dem Hügel westlich JEHLITZ.
+                - Die 16. InfDiv vmtl noch weiter westlich NECHANITZ und wird
+                  kurzfristig nicht mehr wirksam
+                - Die KavBrig Goltz (HusRgt 7, HusRgt 11, 1 Batterie) steht auf der
+                  Straße westlich SCHLOSS HRADEK außerhalb des HRADEKER
+                  TIERGARTENS.
+                - Die Reserve-Kavalleriebrigade (KürRgt 8, I.-III. Esk/PSLR) steht in
+                  ALT-NECHANITZ.
+                - Die Artilleriereserve Elb-Armee in Stärke von 12 Batterien ist auf
+                  dem Weg nach NECHANITZ derzeit auf der Straße ALT-NECHANITZ-NECHANITZ.
+            b. Eigene Lage
+                1) Lage und Absicht der Nord-Armee
+                    FZM Ritter von Benedek hat nach vorangegangenen
+                    Verzögerungsgefechten die Nord-Armee geschlossen auf den Höhen
+                    nordwestlich KÖNIGGRÄTZ zur Verteidigung in Stellung gehen lassen.
+                    Absicht ist es, durch Operationen auf der inneren Linie den Angriff der
+                    Preußen abzuweheren und sie dann mit zwei Korps aus der Reserve
+                    nachhaltig so zu schlagen, dass ihnen weitere offensive Operationen
+                    verwehrt werden.
+                2)  Lage AK König Johann
+                    Das verstärkte sächsische Armeekorps "König Johann" unter Führung von
+                    Kronprinz Albert von Sachsen bildet den linken Flügel der Nord-Armee
+                    und bereitet sich auf die Verteidigung vor.
+                3)  Rechter Nachbar
+                    III. und X. AUT Korps halten in der Mitte.
+            c. Unterstellungen
+                VIII. (AUT) Korps (2 Brig)
+                1. (AUT) LeKavDiv
+        2. Auftrag
+            Verstärktes Sächsisches Armeekorps "König Johann" verteidigt im Raum PROBLUS-
+            NIEDER-PRIM-OBER-PRIM-STezirek und hält linken Flügel der Nord-Armee, so
+            dass PRE Elb-Armee nachhaltig geschlagen wird und ausweichen muss.</p>
+            </div>
+            <div>
+                <head/>
+                <p>
+        3. Durchführung
+            a. Eigene Absicht
+                Ich will
+                mit meinen beiden sächsischen Divisionen auf der Linie STEZIREK-STRESELITZ, SP links, unter gleichzeitiger Überwachung der tiefen linken Flanke im Raum STÖSSER-TECHLOWITZ - so beweglich verteidigen, dass die Doppelhöhe 780 als Schlüsselgelände gehalten wird. Dabei soll angreifender Feind wo möglich frontal gebunden und dann durch flankierende Gegenangriffe durch die Kavallerie und die Korpsreserve zerschlagen werden.
+            b. Einzelaufträge
+                </p>
+            </div>
+            <div type="ausgangsbefehl">
+                <head type ="einheit"><orgName type="8AK">3) Tle VIII. (AUT) Korps</orgName></head>
+                <p>- stellt die Reserve mit 2 Brig
+                   - stellt sich darauf ein:
+                        + vstk 2. InfDiv
+                        + vstk 1. InfDiv
+                        + auff Fd im Raum STÖSSER</p>
+            </div>
+            <div type="ausgangsbefehl">
+                <head type ="einheit"><orgName type="KavDivSa">4) SAC KavDiv</orgName></head>
+                <p>- gibt ab 1 Esk an 2. InfDiv zur Übw OBER-PRIMER WALD
+                   - klärt gegen PRE Elb-Armee Avantgarde
+                   - hält Masse der Kräfte in Res für flankierende Gegenangriffe vor die
+                     beiden vtdg in InfDiv
+                </p>
+            </div>
+            <div type="ausgangsbefehl">
+                <head type ="einheit"><orgName type="LKD">5) 1. AUT LeKavDiv</orgName></head>
+                <p>- verlegt nach Ablösung durch 2. InfDiv im Raum STEZIREK Masse der
+                     Kräfte in den Raum STÖSSER
+                   - übw unsere tiefe li Flanke bis in den Raum TECHLOWITZ
+                   - stellt sich als KorpsRes darauf ein
+                        + weit ausholender Gegenangriff gegen anmarschierenden Fd
+                          südwestl STÖSSER
+                        + flankierenden Gegenangriff vor 2. InfDiv</p>
+            </div>
+            <div type="ausgangsbefehl">
+                <head type ="einheit"><orgName type="KorpsRes">6) KorpsArt</orgName></head>
+                <p>- führt gesamte Art (ohne KavArt)
+                   - unterstützt beide vtdg InfDiv
+                   - stellt sich daruf ein, rasch Teile weiter südl zu verlegen und Vtdg im
+                     Raum STEZIREK-STÖSSER zu unterstützen</p>
+            </div>
+            <div>
+                <head/>
+                <p>
+        4. Versorgung
+            - SAC KavDiv
+            - 1. AUT LeKavDiv
+            - KorpsArt
+            Zur Kenntnis an den Oberbefehlshaber
+                </p>
+            </div>
+            <div type="text_rueck">
+
+                <pb facs="Ausgangsbefehl_706.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

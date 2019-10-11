@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_14ID_395">
+        <pb facs="ElbOK_14ID_395.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="17">Runde: 17</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="16:10:00">16:10</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID14">InfDiv
+                    14</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: ostwärts <placeName><settlement
+                                type="Schäferei">Höhe Schäferei</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OBK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Jehlitz"
+                                >Jehlitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">fdl. ArtFeuer auf eigenen Angriff: <orgName type="16II">Btl II/16</orgName>
+                    - 2Kp Verlust <orgName type="16I">Btl I/16</orgName> ] je ca. 1. Zg Verlust
+                        <orgName type="16III">Btl III/16</orgName> ] - Angriff wird weiter fort </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_14ID_395.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SID1_1SID_212">
+        <pb facs="1SID_1SID_212.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="19">Runde: 19</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="16:10:00">16:10</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="ID1">KRÄFTE. 1. Inf DIV</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: <placeName><settlement type="Stresetitz"
+                                >STRESETITZ</settlement></placeName>-<placeName><settlement
+                                type="Problus">PROBLUS</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="ID1">1. INF DIV SACHSEN</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: SÜDL. <placeName><settlement type="Problus"
+                                >PROBLUS</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - GEGNERISCHE KRÄFTE SIND GESCHLAGEN -> CA. 2 Btl WEICHEN RICHTUNG NW AUS
+                    EIGENE AUF STELLUNG <placeName><settlement type="Stresetitz"
+                            >STRESETITZ</settlement></placeName> -> <orgName type="InfBtl5">5.
+                        InfBtl</orgName> -> <orgName type="InfBtl7">7. InfBtl</orgName> -> <orgName
+                        type="InfBtl8">8. InfBtl</orgName> -> <orgName type="InfBtl6">6.
+                        InfBtl</orgName> -> <orgName type="InfBtl11">11. InfBtl</orgName> ->
+                        <orgName type="InfBtl10">10. InfBtl</orgName> -> <placeName><settlement
+                            type="Problus">PROBLUS</settlement></placeName> BW gemeldet 16:13 </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="1SID_1SID_212.pdf"/>
+                <head/>
+                <p>EIGENE VERLUSTE: 2 KOMPANIEN VON <orgName type="InfBtl5">5. InfBtl</orgName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

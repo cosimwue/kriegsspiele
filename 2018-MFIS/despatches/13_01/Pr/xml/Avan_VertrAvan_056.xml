@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="Avan_VertrAvan_056">
+        <pb facs="Avan_VertrAvan_056.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="14">Runde: 14</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:20:00">14:20</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="VertrAvantgarde">Vertr.
+                            Avgarde</orgName> blau</label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?:</label></p>
+                <p n="5"><label type="to">An: <orgName type="KdrAvantgarde">TrFhr
+                        Avantg</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?:<placeName><settlement type="H702"
+                                >H702</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - Art. eingetroffen und übernommen. - Sturmausg Stg bezogen - beritt. Art.
+                    auf <placeName><settlement type="H700">H700</settlement></placeName> - <orgName
+                        type="JgBtl8">JgBtl. 8</orgName> bei Art. als Res. (ungebunden) - Inf. breit
+                    vor <placeName><settlement type="H700">H700</settlement></placeName> -
+                    Kavallerie auf li Flügel bereit zu Angriff (<orgName type="KR8">8KRgt</orgName>)
+                    - Inf in Wirkweite Art. rot </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="Avan_VertrAvan_056.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

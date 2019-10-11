@@ -1,0 +1,14 @@
+Runde: 10
+Uhrzeit: 13:10
+Von: selbstst Eskadron 11
+Von - Wo?: 250 Ostwärts TECHLOWITZ
+An: Kdr KavBrig GOLTZ
+An - Wo?: 600 Nord TECHLOWITZ
+
+Nachricht
+-> Runde 10; Position 250 Ostwärts Ortsrand
+   TECHLOWITZ; verfolg KavPatr in NO-Richtung
+-> Runde 10; fdl. Kav Patrouille Höhe 717
+   1300 Ostwärts TECHLOWITZ; weicht nicht aus
+   solange nicht bedroht -> nächstes Angriffsziel
+-> Ankunft Runde 11

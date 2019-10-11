@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_AvantElb_372">
+        <pb facs="ElbOK_AvantElb_372.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="10">Runde: 10</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="13:15:00">13:15</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Avantgarde">Elb
+                    Av</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="H655">Höhe
+                                655</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OBK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: Batterie ostw. <placeName><settlement
+                                type="H657">Höhe 657</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">+ <orgName type="IBtl17">17.</orgName> Pos. unverändert + <orgName
+                        type="IBtl28">28.</orgName> "" "" , 1Kp um 1/3 bekämpft + <orgName
+                        type="8BAR">8 (ber. Art)</orgName> auf <placeName><settlement type="H868"
+                            >Höhe 868</settlement></placeName> wirkt auf <placeName><settlement
+                            type="Niederprim">NIEDERPRIEM</settlement></placeName> und bekämpft Fd
+                    in <placeName><settlement type="Niederprim">NIEDERPRIEM</settlement></placeName>
+                    + <orgName type="IBtl33">33</orgName> + <orgName type="IBtl40">40</orgName> }
+                    Pos. unverändert + FußArt von <orgName type="ID15">ID15</orgName> auf
+                            <placeName><settlement type="H645">Höhe 645</settlement></placeName> und
+                    wirkt auf Verb.Str. von <placeName><settlement type="Jehlitz"
+                            >JEHLITZ</settlement></placeName> nach <placeName><settlement
+                            type="Oberprim">OBERPRIEM</settlement></placeName> + <orgName
+                        type="JgBtl8">8</orgName> unverändert + FußArt auf Marsch zu <orgName
+                        type="IBtl17">17</orgName> + <orgName type="IBtl28">28</orgName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_AvantElb_372.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

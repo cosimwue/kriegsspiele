@@ -1,0 +1,14 @@
+Runde: 10
+Uhrzeit: 12:10
+Von: 14. InfDiv
+Von - Wo?: Jehlitz
+An: ArtRes (8Btr)
+An - Wo?: Jehlitz
+
+Nachricht:
+- Bezieht nach Angriff 27, & 28. InfBrig Stellung
+auf Höhe Schäferei, wirkt auf erkannten Feind
+in enger Aufstellung.
+- Folgt selbstständig auf Angriffsachse Jehlitz-
+  NeuPrim-zwischen Nieder und OberPrim auf Bor
+  hinter 27. und 28. InfBrig.

@@ -1,0 +1,15 @@
+Runde: 10
+Uhrzeit: 12:10
+Von: 14. InfDiv
+Von - Wo?: Jehlitz
+An: OBK
+An - Wo?: Batterie
+
+Nachricht: Verstanden: Angriff!
+14. InfDiv verlegt Gefechtsstand auf Angriffs-
+achse Jehlitz-NeuPrim- zwischen Nieder und OberPrim
+auf Bor hinter 28. InfBrig.
+nach Beherrschen Höhe Schäferei dort neuer
+GefStd.
+Warten auf Feindmeldung
+5. KavRgt bildet Reserve hinter 28InfBrig

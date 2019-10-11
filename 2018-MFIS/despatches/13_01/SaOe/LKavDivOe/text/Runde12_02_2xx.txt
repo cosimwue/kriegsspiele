@@ -1,0 +1,14 @@
+Runde: 12
+Uhrzeit: 13:34
+Von: 2xx
+Von - Wo?: OK
+An: 1. ÖLD
+An - Wo?: Stösser
+
+Nachricht:
+
+Lageinformation
+Verlege 1 InfBrig weiter nach Westen,
+um Fd aus Wald W Stezirek zu
+bekämpfen.
+Neue linke Grenze eig Stg Mitte Stezirek

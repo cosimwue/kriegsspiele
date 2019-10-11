@@ -1,0 +1,14 @@
+Runde: 2
+Uhrzeit: 11:30
+Von: ID15
+Von - Wo?: NORDRAND HRADEK
+An: OK Elbarmee
+An - Wo?: Schloss Hradek
+
+Nachricht:
+ID15 marschiert ostwärts über Radikowitz,
+Techlowitz. Dragonereskadrone klären
+voraus auf in Richtung Stezirek, Stösser
+und Bibsko zur Bestimmung der feind-
+lichen Spitzen unter Vermeidung
+des Gefechts.

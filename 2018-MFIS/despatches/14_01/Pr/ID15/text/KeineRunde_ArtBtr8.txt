@@ -1,0 +1,15 @@
+Runde:
+Uhrzeit:
+Von: ArtBtr 8 (ID15)
+Von - Wo?: Waldrand Straße westl. von Stezirek
+An: Kdr ID15
+An - Wo?: Hügel 750
+
+Nachricht:
++ Meldung:
+	-> Stellung auf Straße an Waldrand 700
+	   Meter westlich von Stezirek bezogen
+	   (aufgeprotzt, um vor Wald - auf
+	   Befehl - vorzurücken)
+	-> Melde Bewegungsbehinderung durch
+	   Schützenlinie

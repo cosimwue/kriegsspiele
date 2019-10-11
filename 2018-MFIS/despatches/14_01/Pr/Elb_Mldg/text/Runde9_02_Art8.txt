@@ -1,0 +1,13 @@
+Runde: 9
+Uhrzeit: 12:55
+Von: Art Batterie 8 (ID15)
+Von - Wo?: NeuPrim
+An: Kdr Avangard
+An - Wo?: Höhe 680
+
+Nachricht:
++ Unterstellungswechsel einer ArtBtr der
+  Batterie 8 (ID15) an Avangarde
++ Marschiert jetzt in Richtung Höhe 645 um
+  auf Verbindungsstraße Jehlitz-OberPrim zu
+  wirken (Ankunft ca. in 2 Runden)

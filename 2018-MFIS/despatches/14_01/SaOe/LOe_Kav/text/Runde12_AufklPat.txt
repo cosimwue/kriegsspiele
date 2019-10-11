@@ -1,0 +1,11 @@
+Runde: 12
+Uhrzeit: 14:00
+Von: Aufkl. Pat
+Von - Wo?: S STEZIREK an Kreuzung STEZIREK, TECHLOWITZ, STÖSSER
+An: LKD
+An - Wo?: S STEZIREK
+
+Nachricht:
+aktiv Runde 11
+- 1x KavEsc. nimmt Höhe 717
+- Kav.Rgt bezieht Stellung Nord-und Ostrand TECHLOWITZ

@@ -1,0 +1,39 @@
+Runde: 12
+Uhrzeit: 13:44
+Von:
+Von - Wo?:
+An: 15. ID
+
+Feindlage: ID15 meldet: Starke Kavallerie (verm Btl-Stärke)
+		   bei TECHLOWITZ aufgeklärt. Verhalten unklar.
+
+Nachbarn: -
+
+Eigene Absicht: -unverändert-
+
+Kampfaufträge:
+1. Avantgarde Elbarmee
+- Geht mit 2x FAR auf Höhe 700 so in Stg, dass Richt PROBUS
+  gewirkt werden kann.
+- greift dann nördlich STRESETITZ richt. Süden auf PROBLUS an
+
+Kavalleriebrigade Goltz:
+StO unbekannt! Verm hinter ID15. Stellt sich darauf ein, nach
+frontaler Bindung Fd durch ID15 rechts umfassend in linke Flanke
+Fd anzugreifen und zu zerschlagen.
+
+Infanteriedivision 14:
+Folgt unverändert Brig Goltz. Wird automatisch Reserve,
+sobald Brig Goltz angreift.
+
+Infanteriedivision 15:
+Greift gem. eig Absicht aufgeklärten Fd Kavallerie TECHLOWITZ an.
+Bindet diese frontal, so dass Brig Goltz rechts umfassend
+angr kann.
+
+Reservekavalleriebrigade:
+Folgt Avantgarde Elbarmee unverändert weiter im Angr.
+
+Platz des Führers:
+Verlege jetzt auf Höhe 695 zwischen HRADEK
+und RADOSTOW.

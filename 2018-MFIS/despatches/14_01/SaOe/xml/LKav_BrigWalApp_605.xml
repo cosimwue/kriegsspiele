@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="LKav_BrigWalApp_605">
+        <pb facs="LKav_BrigWalApp_605.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="9">Runde: 9</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="12:55:00">12:55</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="BrigWallis">Brig Wallis</orgName> +
+                            <orgName type="BrigAppel">Appel</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Westrand <placeName><settlement
+                                type="Stezirek">STEZIREK</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="LKD">LKD</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: östl. <placeName><settlement
+                                type="Oberprim">OBERPRIM</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> aktiv Runde 10 - beide Brigaden im Marsch, jetzt Position Westrand
+                            <placeName><settlement type="Stezirek">STEZIREK</settlement></placeName>
+                    - <orgName type="BrigFrat">BRIG FRAT</orgName> wird weiteren Weg Richtung
+                            <placeName><settlement type="Techlowitz"
+                        >TECHLOWITZ</settlement></placeName> versperren! - Bleibt Kdr östl.
+                            <placeName><settlement type="Oberprim"
+                        >OBER-PRIM</settlement></placeName>??? - AufklärungsPatrouille auf Rückzug
+                    aus Wald gliedert wieder ein</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="LKav_BrigWalApp_605.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,14 @@
+Runde: 6
+Uhrzeit: 12:05
+Von: SOK
+Von - Wo?: PROBLUS
+An: KavDiv(SA)
+An - Wo?: ostw. NIEDERPRIM
+
+Nachricht:
+Feindlage:
+- Fd mit zwei InfBtl 2500 Schritt ostwärts
+  POPOWITZ am Ostrand Wald, Bewegungsrichtung
+  ost aufgeklärt
+- Fd mit zwei InftBtl 1000 Schritt Nördlich
+  Jehlitz, Bewegungsrichtung SÜD aufgeklärt.

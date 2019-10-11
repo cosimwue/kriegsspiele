@@ -1,0 +1,13 @@
+Runde: 11
+Uhrzeit: 13:20
+Von: SKD
+Von - Wo?: Ostw. Niederprim
+An: SOK
+An - Wo?: Problus
+Nachricht:
+
+Greife südl. <- Oberprim auftretenden Fd
+mit Art-Batterie an, dabei
+eig. Stellung unverändert.
+Art-Batterie feuert ab jetzt
+selbständig bei erkanntem Fd

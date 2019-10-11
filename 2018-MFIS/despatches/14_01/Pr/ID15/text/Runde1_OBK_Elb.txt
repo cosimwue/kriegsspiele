@@ -1,0 +1,11 @@
+Runde: 1
+Uhrzeit: 10:00
+Von: OBK Elbarmee
+Von - Wo?: Nechanitz
+An: Infanteriedivision 15
+An - Wo?: Raum Hradek
+
+Nachricht:
+- gewinnt Waldstück südl. OBERPRIM
+- bindet Feind auf der Linie
+NEU-PRIM/OBERPRIM/STEZIREK

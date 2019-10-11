@@ -1,0 +1,13 @@
+Runde: 11
+Uhrzeit: 13:40
+Von: Oberkommando Elbarmee
+Von - Wo?: JEHLITZ
+An: Fhr Avantgarde Elbarmee
+An - Wo?: H 655
+
+Nachricht:
+Fd: Bei H700 1200 ostw POPOWITZ
+    fdl. KavPatr aufgeklärt
+=> Avantgarde nutz eig Art und
+   sichert rechte Flanke => Gegenstoß
+   verhindern

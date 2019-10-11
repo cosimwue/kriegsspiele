@@ -1,0 +1,13 @@
+Runde: 16
+Uhrzeit: 15:40
+Von: 14 InfDiv
+Von - Wo?: Höhe Schäferei
+An: OBK
+An - Wo?: Jehlitz
+
+Nachricht:
+- Verlust 1/2 Kompanie durch ArtFeuer
+  bei Btl II/16 (linke Flanke)
+- setzen AngrBewegung weiter fort
+- feindl. Art zw. Nieder und Oberprim
+  ca. 4 Btr.

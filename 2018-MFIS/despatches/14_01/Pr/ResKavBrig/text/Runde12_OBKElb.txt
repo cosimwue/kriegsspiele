@@ -1,0 +1,12 @@
+Runde: 12
+Uhrzeit: 13:45
+Von: Oberkommando Elbarmee
+Von - Wo?: Jehlitz
+An: Reserve Kavalleriebrigade
+An - Wo?: Jehlitz
+
+Nachricht:
+greif südlich NeuPrim durch
+Waldstück in den Beichen
+Oberprim an, danach Höhe 780
+südlich Problus gewinnen/nehmen

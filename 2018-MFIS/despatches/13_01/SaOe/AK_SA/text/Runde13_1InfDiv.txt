@@ -1,0 +1,16 @@
+Runde: 13
+Uhrzeit: 13:52
+Von: 1. InfDiv
+Von - Wo?: Höhe südw. PROBLUS
+An: OK
+An - Wo?: BOR
+
+Nachricht:
+
+- Verlegg 2 Batterien von
+  Höhe sw. PROBLUS
+  nach Ortsrand nördl.
+  PROBLUS (im Galopp = 800 Schritt)
+  Zur Ustg InfBrig 2
+- Vergung eig. StO nac Ortsrand nördl.
+  PROBLUS

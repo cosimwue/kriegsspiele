@@ -1,0 +1,13 @@
+Runde: 11
+Uhrzeit: 13:30
+Von: LDK
+Von - Wo?: südl. Stezirek
+An: Appel& Wallis & Fratricevies
+An - Wo?: südl. Stezirek
+
+Nachricht:
+Befehl: Verlegen der 3 Brigaden
+		und Befehlsstand
+		nördlich Stezirek (Schließen
+		der Lücke zwischen den
+		Brigaden VIII Korps)

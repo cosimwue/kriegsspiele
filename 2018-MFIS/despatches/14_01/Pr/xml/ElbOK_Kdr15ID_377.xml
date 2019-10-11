@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_Kdr15ID_377">
+        <pb facs="ElbOK_Kdr15ID_377.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="11">Runde: 11</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="00:00:00"/></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KdrID15">KDr ID15</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Im Wald 1000 südlich
+                                <placeName><settlement type="Oberprim"
+                            >OberPrim</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OBK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Jehlitz"
+                                >Jehlitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Standortmeldung InfBrig linke Grenze 500m südlich <placeName><settlement
+                            type="Brunnen">Brunnen</settlement></placeName> rechte Grenze 500m
+                    südlich <placeName><settlement type="Oberprim"
+                        >OberPriem</settlement></placeName> Beobachtungsrichtung norden Westen 40
+                    osten 65</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_Kdr15ID_377.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

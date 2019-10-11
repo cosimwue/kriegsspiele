@@ -1,0 +1,16 @@
+Runde: 11
+Uhrzeit: 13:52
+Von: InfBtl 65/40
+Von - Wo?: Waldrand südlich Ober-Prim (östlich angrenzende Waldstr.)
+An: Kdr ID15
+An - Wo?: Hügel 175
+
+Nachricht:
+Meldung:
+	+ Kontakt mit 68/I hergestellt
+	  68/II und III beziehen in keine Stellung
+	+ F/65 + II/65 bilden Schützenlinie
+	+ II/40 + III/40 ""
+	-> Frontbreite 3Btl.e (1 Reserve)
+	Feindmeldung: Batallion südlicher Ortsrand OberPrim
+				  hat Schützenlinie gebildet (1 Btl. Breite)

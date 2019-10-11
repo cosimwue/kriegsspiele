@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavBrigGoltz_KBG_466">
+        <pb facs="KavBrigGoltz_KBG_466.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="5">Runde: 5</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="11:15:00">11:15</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KBG">KB Goltz</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: SO-lich <placeName><settlement
+                                type="Hradek">Hradek</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="ArtBttrGoltz">Batterie
+                        Goltz</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: Straße <placeName><settlement type="Hradek"
+                                >Hradek</settlement></placeName>-<placeName><settlement
+                                type="Nechanitz">Nechanitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"><orgName type="ArtBttrGoltz">Batterie Goltz</orgName> erhöht Marschgeschw.
+                    auf Trab, um befohlene Stellung zügig zu beziehen -> Eingang bei <orgName
+                        type="ArtBttrGoltz">Batterie GOLTZ</orgName> in Runde 7 </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavBrigGoltz_KBG_466.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

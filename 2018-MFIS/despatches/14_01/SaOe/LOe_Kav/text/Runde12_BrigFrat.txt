@@ -1,0 +1,13 @@
+Runde: 12
+Uhrzeit: 14:15
+Von: Brig FRAT
+Von - Wo?: Ostrand STEZIREK
+An: LKD
+An - Wo?: NO STEZIREK
+
+Nachricht:
+- Auf Verlegung, wie befohlen
+  -> voraussichtlich in Position Ende Runde 13
+- Brig Wallis + Appel folgen
+  -> voraussichtlich in Position Kampfbereit
+     nicht später als Runde 15

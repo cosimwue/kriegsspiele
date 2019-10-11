@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="LKav_AufklPat_610">
+        <pb facs="LKav_AufklPat_610.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="12">Runde: 12</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:00:00">14:00</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="AufklPat">Aufkl.
+                        Pat</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: S <placeName><settlement type="Stezirek"
+                                >STEZIREK</settlement></placeName> an Kreuzung
+                                <placeName><settlement type="Stezirek"
+                            >STEZIREK</settlement></placeName>, <placeName><settlement
+                                type="Techlowitz">TECHLOWITZ</settlement></placeName>,
+                                <placeName><settlement type="Stösser"
+                            >STÖSSER</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="LKD">LKD</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: S <placeName><settlement type="Stezirek"
+                                >STEZIREK</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> aktiv Runde 11 - 1x KavEsc. nimmt <placeName><settlement type="H717">Höhe
+                            717</settlement></placeName> - <orgName type="KavRgt">Kav.Rgt</orgName>
+                    bezieht Stellung Nord-und Ostrand <placeName><settlement type="Techlowitz"
+                            >TECHLOWITZ</settlement></placeName></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="LKav_AufklPat_610.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

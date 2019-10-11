@@ -1,0 +1,13 @@
+Runde: 10
+Uhrzeit: 12:10
+Von: 14. InfDiv
+Von - Wo?: Jehlitz
+An: 5. KavRgt
+An - Wo?: Höhe Schäferei
+
+Nachricht:
+Angriff InfBrig 27 gefolgt von 28
+erfolgt über Höhe Schäferei.
+KavRgt 5 bildet neue Reserve im Raum
+hinter InfBrig 28
+und folgt 28 entlang bekannter Angriffsachse

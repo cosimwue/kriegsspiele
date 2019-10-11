@@ -1,0 +1,14 @@
+Runde: 6
+Uhrzeit: 12:05
+Von: SOK
+Von - Wo?: PROBLUS
+An: 8. Korps
+An - Wo?: nördl. STEZIREK
+
+Nachricht:
+Feindlage:
+- Fd mit zwei InfBtl 2500 Schritt ostwärts
+  POPOWITZ am Ostrand Wald, Bewegungsrichtung
+  OST aufgeklärt
+- Fd mit zwei InfBtl 1000 Schritt Nördlich
+  Jehlitz, Bewegungsrichtung SÜD aufgeklärt

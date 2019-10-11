@@ -1,0 +1,15 @@
+Runde: 12
+Uhrzeit: 14:00
+Von: InfBrig 27
+Von - Wo?: Jehlitz 200 östl
+An: Fhr InfDiv 14
+An - Wo?: Jehlitz
+
+Nachricht:
+- 3 Btl nebeneinander (Reg16), 2 Btl dahinter
+  (56F, 56I) in Angr-Formation
+  bewegen uns weiter gem. Befehl auf Angr Achse
+- DivArt (3 Btr) am westl Ortsrand Jehlitz
+  auf dem Marsch, Brig 28 in Marschkolonne folgend
+- 5 Btr Art (aus ArmeeRes) auf dem Marsch bei Batterie
+  1100 südl Lubno

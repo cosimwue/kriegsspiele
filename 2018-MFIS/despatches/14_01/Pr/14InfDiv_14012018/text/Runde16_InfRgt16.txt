@@ -1,0 +1,13 @@
+Runde: 16
+Uhrzeit: 15:40
+Von: InfRgt 16
+Von - Wo?: 300 westl BRUNNEN
+An: Fhr 14 InfDiv
+An - Wo?: Schäferberg
+
+Nachricht:
+- fdl ArtFeuer auf eigene bei Btl II/16
+  (li Flanke) eig Verluste 1/2 kp
+- setzen Angr Bewegung weiter fort
+- fdl Art zw NIEDER u. OBERPRIM
+  ca. 4 Bttr

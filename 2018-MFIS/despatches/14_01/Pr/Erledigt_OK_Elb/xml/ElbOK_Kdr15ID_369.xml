@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_Kdr15ID_369">
+        <pb facs="ElbOK_Kdr15ID_369.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="\1">Runde: 9</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="00:00:00"/></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID15">KDR ID15</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: 750 Süd West <placeName><settlement
+                                type="Oberprim">OberPrim</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OBK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: 900m Westlich <placeName><settlement
+                                type="Jehlitz">Jehlitz</settlement></placeName></label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Eigener Standort Kdr hinter <orgName type="IBtl65">InfBtl 65</orgName>
+                    <orgName type="IBtl40">InfBtl 40</orgName> Am Waldrand südlich
+                            <placeName><settlement type="Brunnen"
+                            >Brunnen</settlement></placeName>/<placeName><settlement type="Oberprim"
+                            >OberPrim</settlement></placeName> Marsch <orgName type="IBtl65">InfBtl
+                        65</orgName> Am Waldrand südlich <placeName><settlement type="Oberprim"
+                            >OberPrim</settlement></placeName> bis 400m vor <placeName><settlement
+                            type="Stezirek">Stezirek</settlement></placeName> Im Marsch <orgName
+                        type="IBtl68">InfBtl 68</orgName> übertritt Verbindung
+                            <placeName><settlement type="Oberprim"
+                            >OberPrim</settlement></placeName>-<placeName><settlement
+                            type="Techlowitz">Techlowitz</settlement></placeName> Im Marsch <orgName
+                        type="IBtl28">InfBtl 28</orgName> --------------- "" ------------------ </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_Kdr15ID_369.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

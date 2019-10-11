@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="LKav_SOK_596">
+        <pb facs="LKav_SOK_596.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="3">Runde: 3</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="11:51:00">11:51</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="SOK">SOK</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="Problus"
+                                >PROBLUS</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="LKD">LKD</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Stezirek"
+                                >STEZIREK</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">
+                    <orgName type="LKD">LKD</orgName> teilt sofort mit Lagebild/
+                    Aufklärungsergebnisse aus dem Raum <placeName><settlement type="Radikowitz"
+                            >RADIKOWITZ</settlement></placeName>-<placeName><settlement
+                            type="Techlowitz">TECHLOWITZ</settlement></placeName>!</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="LKav_SOK_596.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

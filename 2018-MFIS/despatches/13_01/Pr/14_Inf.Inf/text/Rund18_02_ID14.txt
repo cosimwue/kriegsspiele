@@ -1,0 +1,10 @@
+Runde: 18
+Uhrzeit:
+Von: ID14
+Von - Wo?: süd Jehlitz 
+An: unterstellter Bereich/OBK Elbe
+An - Wo?: süd Jehlitz/Höhe 695
+
+Nachricht:
+kein Feind in NeuPrim, ID14 marschiert
+südl. Richtung Radikowitz

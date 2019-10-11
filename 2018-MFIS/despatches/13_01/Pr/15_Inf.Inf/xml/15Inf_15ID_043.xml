@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="Inf15_15ID_043">
+        <pb facs="15Inf_15ID_043.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="none">Runde:</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="00:00:00"/></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID15">ID15</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: </label></p>
+                <p n="5"><label type="to">An: <orgName type="ID15">ID15</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?:</label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Befehl: Verfolgen und stellen sie die feindli- chen Kräfte, die nach
+                            <placeName><settlement type="Stösser">Stösser</settlement></placeName>
+                    aus- gewichen sind! <orgName type="DR7">DG7</orgName> folgt <orgName type="IR28"
+                        >IR 28</orgName>/<orgName type="IR65">65</orgName>/<orgName type="IR68"
+                        >68</orgName> in Richtung <placeName><settlement type="Stösser"
+                            >Stösser</settlement></placeName>. <orgName type="IR40">IR 40</orgName>
+                    in Stellung auf <placeName><settlement type="H717">Höhe
+                        717</settlement></placeName> und schützt dort Artillerie Alle
+                    Artillerieverbände <orgName type="ID15">ID15</orgName> beziehen Feuerstellung
+                    auf <placeName><settlement type="H717">Höhe 717</settlement></placeName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="15Inf_15ID_043.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,13 @@
+Runde: 8
+Uhrzeit: 12:37
+Von: Kdr ID15
+Von - Wo?: 900M südöstlich von Brunnen (Wald)
+An: Kdr ID15
+An - Wo?: ""
+
+Nachricht:
+Feindmeldung:
+	+ Kavalleriepatrouile auf Kreuzung der
+	  Waldstraßen OberPrim -> Techlowitz und
+	  NeuPrim -> Stezirek hat sich zurückgezogen (nord-ostwärts)
+	  und ist außer Sichtweite.

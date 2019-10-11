@@ -1,0 +1,12 @@
+Runde: 2
+Uhrzeit: 12:02
+Von: ID14
+Von - Wo?: 400 Schritt südlich Newckanitz
+An: OBK
+An - Wo?: Nord/westl. Schloss Radek
+
+Nachricht:
+Sto ID14 400 Schritt südlich
+Newckanitz, ID14 marschiert mit
+200 Schritt/min Richtung Hradek
+hinter KBG.

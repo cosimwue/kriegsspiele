@@ -1,0 +1,10 @@
+Runde: 10
+Uhrzeit: 13:19
+Von: F28
+Von - Wo?: Süd Wäldchen SO Popowitz
+An: Fhr Avantgarde Elb
+An - Wo?: Höhe 655
+
+Nachricht:
+M: Feindl. ArtFeuer auf Wäldchen
+   eingestellt

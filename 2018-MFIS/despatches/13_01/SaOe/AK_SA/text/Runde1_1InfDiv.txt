@@ -1,0 +1,27 @@
+Runde: 1
+Uhrzeit: 10:45
+Von: 1. InfDiv
+Von - Wo?: Höhe südwestl. PROBLUS, 400m
+An: ArmeeKdo
+An - Wo?: BOR
+
+Nachricht:
+
+- InfBrig 2 -> Vorbereitung auf Marsch
+               bei Waldstück NW, 900m
+               vor PROBLUS
+- 10.InfBtl vtgt westl PROBLUS
+- 11.InfBtl vtgt nördlich PROBLUS
+- 12.InfBtl vtgt nordw NIEDERPRIM
+- 9.InfBtl vtgt westl NIEDERPRIM
+						->
+
+(Rückseite)
+
+- 3. JgBtl und III./IV. Eskadron KavRgt 1
+  bilden Reserve bei Höhe südw PROBLUS
+- 2 Batterien in Stellung bei Höhe südw PROBLUS
+- eigener Standort DivKdr: Höhe Südw PROBLUS
+
+=> 1. InfDiv
+		Einsatzbereit!

@@ -1,0 +1,10 @@
+Runde: 1
+Uhrzeit: 10:10
+Von: Avantgarde
+Von - Wo?: 1300 m SO Popowitz
+An: 7. Berittenes Artillerieregiment
+An - Wo?: Nechanitz
+
+Nachricht:
+Marschiert in Richtung Jehlitz. Bezieht
+Stellung auf Höhe 300 m O von Jehlitz

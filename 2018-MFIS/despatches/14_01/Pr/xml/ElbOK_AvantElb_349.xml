@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_AvantElb_349">
+        <pb facs="ElbOK_AvantElb_349.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="none">Runde:</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="11:05:00">11:05</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Avantgarde"
+                        >ELB-Avantgarde</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Y-Kreuzung, südl. <placeName><settlement
+                                type="H686">Höhe 686</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OK Elbarmee</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Nechanitz"
+                                >Nechanitz</settlement></placeName></label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">+ Aufkl Pat. Waldweg zw. <placeName><settlement type="Popowitz"
+                            >POPOWITZ</settlement></placeName> + <placeName><settlement
+                            type="Problus">PROBLUS</settlement></placeName>, Fd weicht aus R OSTEN +
+                    Fd aufgeklärt auf VerbStraße zw. <placeName><settlement type="Brunnen"
+                            >BRUNNEN</settlement></placeName> + <placeName><settlement
+                            type="Jehlitz">JEHLITZ</settlement></placeName> + 1 InfBtl NW
+                            <placeName><settlement type="Problus">PROBLUS</settlement></placeName>,
+                    wirkt/klärt auf NW + 1 "" W <placeName><settlement type="Problus"
+                            >PROBLUS</settlement></placeName>, "" "" W + mind. 2 ArtBttr S
+                            <placeName><settlement type="Problus">PROBLUS</settlement></placeName>,
+                    wirkt/klärt auf W + 1 InfBtl N <placeName><settlement type="Niederprim"
+                            >NIEDERPRIM</settlement></placeName>, "" "" W +1 "" W "", "" "" W </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_AvantElb_349.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

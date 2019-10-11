@@ -1,0 +1,13 @@
+Runde: 15
+Uhrzeit: 15:15
+Von: Oberkommando Elbarmee
+Von - Wo?: JEHLITZ
+An: Kavalleriebrigade Goltz
+An - Wo?: 200 n TECHLOWITZ
+
+Nachricht:
+- Aufklären bzw. Schein vorstoßen
+  in den Bereich STEZIREK -
+  CHARBUSITZ unternehmen, um Fd
+  glauben zu lassen, dass wir hier
+  angreifen

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SOK_1SID_679">
+        <pb facs="SOK_1SID_679.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="12">Runde: 12</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:13:00">14:13</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID1">Kdr 1.
+                    InfDiv</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="HQ"
+                                >HQ</settlement></placeName> (u)</label></p>
+                <p n="5"><label type="to">An: <orgName type="SOK">SOK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="HQ"
+                                >HQ</settlement></placeName> (u)</label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Lagemeldung (eigen) A: <orgName type="ID1">1. InfDiv</orgName> -
+                    verteidigt mit <orgName type="JgBrig2">JgBrig 2</orgName> im Raum
+                            <placeName><settlement type="Niederprim"
+                        >NIEDERPRIM</settlement></placeName> Probus - mit <orgName type="JgBrig3"
+                        >JgBrig 3</orgName> + <orgName type="JgBtl2">JgBtl 2</orgName> sowie
+                        <orgName type="Esk3">Eskadron 3</orgName> &amp; <orgName type="Esk4"
+                        >4</orgName> als Reserve im Raum 500 S ostw. <placeName><settlement
+                            type="Niederprim">NIEDERPRIM</settlement></placeName> - und klärt auf
+                    mit berittenem SpähTrp bei <placeName><settlement type="Popowitz"
+                            >POPOWITZ</settlement></placeName> - sowie <orgName type="ArtBat7"
+                        >ArtBat 7</orgName>,<orgName type="ArtBat8">8</orgName> sw
+                            <placeName><settlement type="Problus">PROBUS</settlement></placeName>,
+                        <orgName type="ArtBat2">ArtBat 2</orgName> WestRand <placeName><settlement
+                            type="Niederprim">NIEDERPRIM</settlement></placeName> und <orgName
+                        type="ArtBat1">ArtBat 1</orgName> sw <placeName><settlement
+                            type="Niederprim">Niederprim</settlement></placeName> (Ustg <orgName
+                        type="ID2">2. InfDiv</orgName>) um Fd den Durchbruch in in R
+                            <placeName><settlement type="Niederprim"
+                        >NIEDERPRIM</settlement></placeName> zu verwehren! </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="SOK_1SID_679.pdf"/>
+                <head/>
+                <p><span type="sketch">(Skizze)</span></p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

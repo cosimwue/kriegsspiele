@@ -1,0 +1,12 @@
+Runde: 1
+Uhrzeit: 10:10
+Von: ID15
+Von - Wo?: 400 m ostwärts HRADEK
+An: Kavalarie ID15
+An - Wo?: 200 m südlich Schloss HRADEK
+
+Nachricht:
+- Marschiert Ostwärts auf Höhe
+Neu Prim.
+- Geht in Reserve ca. 100m
+  südlich NEU Prim

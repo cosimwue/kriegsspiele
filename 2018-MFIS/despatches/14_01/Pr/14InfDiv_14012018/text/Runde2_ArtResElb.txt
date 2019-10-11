@@ -1,0 +1,12 @@
+Runde: 2
+Uhrzeit: 10:40
+Von: ArtRes Elbarmee
+Von - Wo?: NECHANITZ
+An: Fhr InfDiv 14
+An - Wo?: NECHANITZ
+
+Nachricht:
+Unterstellung gemäß OBK wie folgt
+berittene Art zu Avantgarde
+Fuß Art zu InfDiv 15
+-> keine Ustg an InfDiv 14

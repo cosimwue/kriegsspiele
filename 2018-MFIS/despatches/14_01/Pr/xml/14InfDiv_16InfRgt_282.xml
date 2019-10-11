@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="InfDiv14_16InfRgt_282">
+        <pb facs="14InfDiv_16InfRgt_282.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="16">Runde: 16</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="15:40:00">15:40</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="IR16">InfRgt 16</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: 300 westl <placeName><settlement
+                                type="Brunnen">BRUNNEN</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="KdrID14">Fhr 14 InfDiv</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <placeName><settlement type="Schäferberg"
+                                >Schäferberg</settlement></placeName></label>
+                </p>
+
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - fdl ArtFeuer auf eigene bei <orgName type="16II">Btl II/16</orgName> (li
+                    Flanke) eig Verluste 1/2 kp - setzen Angr Bewegung weiter fort - fdl Art zw
+                            <placeName><settlement type="Niederprim">NIEDER</settlement></placeName>
+                    u. <placeName><settlement type="Oberprim">OBERPRIM</settlement></placeName> ca.
+                    4 Bttr</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="14InfDiv_16InfRgt_282.pdf"/>
+                
+                <head/>
+                
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,16 @@
+Runde: 1
+Uhrzeit: 11:26
+Von: OK Av ElbA
+Von - Wo?: Höhe 102
+An: OK 1. Elbarmee
+An - Wo?: VerfR
+
+Nachricht: Lagemeldung u. eig. Absicht
+Tle Artilleriereserve bestehend aus:
+	2x FAR, 2x 8 FAR
+	1x 7 FAR, 1x 8 FAR
+marschiert auf dem schnellsten Weg mit höchster durchhaltefähiger Geschwindigkeit über
+Popowitz Richtung Hinterhang Höhe 700
+und bezieht Feuerstellung so, dass aufgeklärte
+Feindkräfte bei Problus unter Feuer genommen werden können.
+3Pt feindl. Art SW Problus

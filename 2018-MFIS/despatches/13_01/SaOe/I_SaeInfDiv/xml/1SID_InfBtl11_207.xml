@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SID1_InfBtl11_207">
+        <pb facs="1SID_InfBtl11_207.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="14">Runde: 14</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="14:10:00">14:10</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="InfBtl11">11. Inf Btl</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: NÖRDLICH <placeName><settlement
+                                type="Problus">PROBLUS</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="ID1">1. INF DIV SACHSEN</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: SÜDLICH <placeName><settlement type="Problus"
+                                >PROBLUS</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - FEINDLICHE BRIGARDE WURDE DURCH BERITTENE ARTILLERIE VERSTÄRKT UND GEHT
+                    IN ANGRIFFSFORMATION SÜDÖSTLICH <placeName><settlement type="H700">HÖHE
+                            700</settlement></placeName> - ZWISCHEN <placeName><settlement
+                            type="Stresetitz">STRESETITZ</settlement></placeName> UND
+                            <placeName><settlement type="Problus">PROBLUS</settlement></placeName>
+                    NUR <orgName type="InfBtl5">5.</orgName>+<orgName type="InfBtl7">7.
+                        InfBtl</orgName> IN VERTEIDIGUNGSSTELLUNG - 3 WEITERE Btl IN RÜCKRAUM ALS
+                    RESERVE</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="1SID_InfBtl11_207.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

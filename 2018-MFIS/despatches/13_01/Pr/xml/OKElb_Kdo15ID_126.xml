@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="OKElb_Kdo15ID_126">
+        <pb facs="OKElb_Kdo15ID_126.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="15">Runde: 15</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:55:00">14:55</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID15">KDR ID15</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="H735">Höhe
+                                735</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OBK Elbarmee</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="H695"
+                                >695</settlement></placeName> + Truppenteile <orgName type="ID15"
+                            >ID15</orgName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"><orgName type="ID15">ID15</orgName> greift an unter Feuer <orgName
+                        type="FAR8">8 FAR</orgName> aus FeuerStg bei <placeName><settlement
+                            type="H735">Höhe 735</settlement></placeName> (ostwärts
+                            <placeName><settlement type="Techlowitz"
+                        >Techlowitz</settlement></placeName>) mit 3 IR vorn, ein IR in rechts
+                    folgend (siehe Rückseite), mit Dragone in Res bei FeuerStg, auf Befehl
+                    "Wallhalla", auf Achse <placeName><settlement type="H717">Höhe
+                        717</settlement></placeName>, <placeName><settlement type="H675">Höhe
+                            675</settlement></placeName> in Raum zwischen <placeName><settlement
+                            type="Stezirek">STEZIREK</settlement></placeName> u.
+                            <placeName><settlement type="Stösser">STÖSSER</settlement></placeName>
+                    Meldung zu mir wenn Ausgangslage bezogen Ich befinde mich bei Art </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="OKElb_Kdo15ID_126.pdf"/>
+                <head/>
+
+                <p>(<span type="sketch">Skizze</span>)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

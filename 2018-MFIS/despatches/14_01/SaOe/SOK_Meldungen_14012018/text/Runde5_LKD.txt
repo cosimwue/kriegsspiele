@@ -1,0 +1,14 @@
+Runde: 5
+Uhrzeit: 12:30
+Von: LKD
+Von - Wo?: östl. Oberprim
+An: SOK
+An - Wo?: Problus
+Nachricht:
+Meldung: 1. Aufklärung im Bereich
+			Radikowitz - Techlowitz
+		 2. Wald Südl. Neuprim/Oberprim
+		 3. Raum Bibsko
+
+		 Derzeit keine Feindsichtung
+		 Aufklärung wird weiter durchgeführt

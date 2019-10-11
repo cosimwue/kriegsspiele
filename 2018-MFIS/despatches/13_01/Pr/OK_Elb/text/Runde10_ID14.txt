@@ -1,0 +1,13 @@
+Runde: 10
+Uhrzeit: 13:05
+Von: ID14
+Von - Wo?: Wege-T 500W Schloss HRADEK
+An: OBK
+An - Wo?: SSO HRADEK
+
+Nachricht:
+ID14 in Pos: Wege-T 500 W Schloss
+HRADEK folgend KBG - Abstand 600 Schritt.
+Marschrichtung in Richtung HRADEK
+(200 SChitt/min), anschließend marschieren
+Richtung Radikowitz.

@@ -1,0 +1,11 @@
+Runde: 17
+Uhrzeit:
+Von: Kavallerie 7
+Von - Wo?: südlich von Ober Prim Waldrand
+An: Kdr. ID15
+An - Wo?: 1000 Meter süd-östlich von Ober Prim
+
+Nachricht:
+- Straße durch Schützenlinien InfBtl. 63/II
+  (stehen unter Feuer) blockiert.
+- Folgen von Inf.Btl. 40 nicht möglich

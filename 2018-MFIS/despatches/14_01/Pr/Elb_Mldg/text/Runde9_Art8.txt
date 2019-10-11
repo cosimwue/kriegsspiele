@@ -1,0 +1,12 @@
+Runde: 9
+Uhrzeit: 12:42
+Von: Art 8
+Von - Wo?: NW Höhe 686
+An: Fhr Avantgard
+An - Wo?: Höhe 680
+
+Nachricht:
+Eig: Beziehen Stg auf Höhe 686
+M: 2 InfBtl'n NW+W an dem
+   Ortsrand Nied Prim
+weiteres: Bekämpfen Feind bei Aufkl.

@@ -1,0 +1,20 @@
+Runde: 1
+Uhrzeit: 09:50
+Von: Reservekavalleriebrig
+Von - Wo?: Alt Nechanitz
+An: Reservekavalleriebrigade
+An - Wo?: Alt Nechanitz
+
+Nachricht:
+- Marsch in den westlichen Bereich von
+  Jehlitz und anschließend beziehen
+  Reserveraum hinter der 14. Infanterie-
+  division westlich Jehlitz
+- Vorbereitung für Folgebefehle:
+	Prio I: Angriff der 14 Infanteriediv unterstützen
+	Prio II: Unterstützen der Kavalleriebrigade Goltz
+			 im Bereich Radikowitz ->
+
+Rückseite
+	Prio III: Avantgarde Elbarmee im
+			  Bereich Nördlich Jehlitz unterstützen

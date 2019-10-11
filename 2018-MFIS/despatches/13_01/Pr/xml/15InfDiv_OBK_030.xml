@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="InfDiv15_OBK_030">
+        <pb facs="15InfDiv_OBK_030.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="11">Runde: 11</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:05:00">14:05</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="OBK">OBK</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="H695">Höhe
+                                695</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="ID15">ID 15</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?:<placeName><settlement type="Radikowitz"
+                                >RADIKOWITZ</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">- Letzte Meldung (13:30) erhalten. - Auftrag unverändert =>Mir kommt es
+                    jetzt darauf an, ausweichenden Fd zu verfolgen, zu stellen und zu schlagen,
+                    bevor er durch Feuer unterstützt werden kann. FdKr dürfen jetzt nicht mehr in
+                    ihre Stg kommen, daher Druck machen -></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="15InfDiv_OBK_030.pdf"/>
+                <head/>
+                <p>- Avantgarde-Armee derzeit im Raum STRESETITZ im Angriff</p>
+            </div>
+        </body>
+    </text>
+</TEI>

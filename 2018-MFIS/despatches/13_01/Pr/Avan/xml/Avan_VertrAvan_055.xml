@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="Avan_VertrAvan_055">
+        <pb facs="Avan_VertrAvan_055.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="12">Runde: 12</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="13:30:00">13:30</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="VertrAvantgarde">Vertr. Avantgarde
+                            Preuß</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?:</label></p>
+                <p n="5"><label type="to">An: <orgName type="Avantgarde">TrFhr Avantg
+                            Preuß</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?:<placeName><settlement type="H702"
+                                >H702</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Patrouille jetzt so Ortsrand <placeName><settlement type="Stresetitz"
+                            >Stresetitz</settlement></placeName>. Aufkl. 1 Feindkontakt: 2Btl
+                    Infantrie aufgeklärt auf Str. von <placeName><settlement type="Stresetitz"
+                            >Stresetitz</settlement></placeName> nach <placeName><settlement
+                            type="Problus">Problus</settlement></placeName> in sn Verlauf 2 in
+                    Sichtweite d Patrouille 1 JgBtl + 2 InfBtl ca. 900-1100m sö von
+                            <placeName><settlement type="Stresetitz"
+                        >Stresetitz</settlement></placeName>, b. d. Grünstreifen 3 Sichtaufklärung 2
+                    InfBtl nw Ortsrand <placeName><settlement type="Problus"
+                        >Problus</settlement></placeName> -> </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="Avan_VertrAvan_055.pdf"/>
+                <head/>
+                <p>4 unverändert Art zw. <placeName><settlement type="Problus"
+                        >Problus</settlement></placeName> und <placeName><settlement
+                            type="Niederprim">Nie. Prim</settlement></placeName> 1 InfBtl nördl
+                    Ortsrand <placeName><settlement type="Niederprim">Nied.
+                        Prim</settlement></placeName> in Rde 13 Plan - Einnahme Angriffsformation
+                    wie befohlen - Rückzug/Ausweichen Patrouille von <placeName><settlement
+                            type="Stresetitz">Streselitz</settlement></placeName> zurück zu Verband
+                    - Abwarten des Aufschließens von Art. vor Stoß Richtg süden
+                            <placeName><settlement type="Problus">Problus</settlement></placeName>
+                    (Eigene Tr. gesamelt zw <placeName><settlement type="H700"
+                        >H700</settlement></placeName> und <placeName><settlement type="H702"
+                            >702</settlement></placeName> Jg auf halbem Weg v.
+                            <placeName><settlement type="H700">H700</settlement></placeName> zu
+                            <placeName><settlement type="Stresetitz"
+                        >Stresetitz</settlement></placeName>)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

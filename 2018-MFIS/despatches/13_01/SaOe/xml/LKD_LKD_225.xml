@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="LKD_LKD_225">
+        <pb facs="LKD_LKD_225.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="3">Runde: 3</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="12:30:00">12:30</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="LKD">1. ÖLD</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: 300 SDL. <placeName><settlement
+                                type="Stezirek">STEZIREK</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="BrigFrat">Frat. Brig</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: südl. <placeName><settlement type="Stezirek"
+                                >Stezirek</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">
+                    <orgName type="BrigFrat">Frat. Brig</orgName> übw m. <orgName type="HR8"
+                        >8'''</orgName> Raum SW <placeName><settlement type="Stösser"
+                            >Stösser</settlement></placeName>, mit 1 Eskadron bei
+                            <placeName><settlement type="Techlowitz"
+                        >Techlowitz</settlement></placeName>, 1 Eskadron <placeName><settlement
+                            type="H717">Höhe 717</settlement></placeName> und 1 Eskadron bei
+                            <placeName><settlement type="Bibsko">Bibsko</settlement></placeName> und
+                    1 Eskadron in Res bei <placeName><settlement type="Stösser"
+                        >Stösser</settlement></placeName> (Westrand) nimmt auf und hält Fühlung zum
+                    Fd. _______________________________________________________ Div GefStd verlegt
+                    von 300 sdl. <placeName><settlement type="Stezirek"
+                        >Stezirek</settlement></placeName> nach Südrand <placeName><settlement
+                            type="Stösser">Stösser</settlement></placeName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="LKD_LKD_225.pdf"/>
+                <head/>
+                <p><orgName type="HR5">5'''</orgName> schütz zunäst weiter die re Flanke der 1. ÖLD
+                    in Stg 900 südl. <placeName><settlement type="Stezirek"
+                        >Stezirek</settlement></placeName>. Verlegt a.B. in Raum ostw
+                            <placeName><settlement type="Stösser">Stösser</settlement></placeName>
+                    und bildet anschl. DivRes</p>
+            </div>
+        </body>
+    </text>
+</TEI>

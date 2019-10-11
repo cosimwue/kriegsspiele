@@ -1,0 +1,11 @@
+Runde: 16
+Uhrzeit: 15:40
+Von: Inf 65/II
+Von - Wo?: Waldrand südl. von OberPrim
+An: Kdr ID15
+An - Wo?: Hügel 750
+
+Nachricht:
+Meldung
++ Feindliche InfBtl. (inkl Schützenlinien)
+  ziehen sich zurück

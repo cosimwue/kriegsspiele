@@ -1,0 +1,10 @@
+Runde: 18
+Uhrzeit:
+Von: III/68 Inft.Btl.
+Von - Wo?: zwischen Waldrand und Süd-OberPrim
+An: Kdr ID15
+An - Wo?: ""
+
+Nachricht:
+Angriff -> Gegenfeuer durch Artillerie
++ 38 Verluste

@@ -1,0 +1,9 @@
+Runde: 19
+Uhrzeit:
+Von: InfBtl. 68
+Von - Wo?: zwischen OberPrim und Waldrand
+An: Kdr ID15
+An - Wo?: ""
+
+Nachricht:
+- Inftr.Btl geschlagen!

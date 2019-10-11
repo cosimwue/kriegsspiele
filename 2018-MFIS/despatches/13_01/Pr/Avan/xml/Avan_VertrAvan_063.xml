@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="Avan_VertrAvan_063">
+        <pb facs="Avan_VertrAvan_063.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="20">Runde: 20</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="16:15:00">16:15</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="VertrAvantgarde">Vertr.
+                            Avgarde</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?:</label></p>
+                <p n="5"><label type="to">An: <orgName type="Avantgarde">TrFhr
+                        Avgarde</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="H702"
+                                >H702</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - Beritt. Art. unterwegs nach Süden - Inf. auf Rückzug, da erschüttert.
+                    derzeit an Kreuzung auf 5.00 von <placeName><settlement type="H702"
+                            >H702</settlement></placeName> - <orgName type="JgBtl8">JgBtl</orgName>.
+                    ca 500m entfernt von Inf.Tr - Kav greift an -> Angriff unter Beschuß
+                    zus.gebrochen, Reste ziehen sich zurück (25% Verlußt) aus Kampfgeschehen</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="Avan_VertrAvan_063.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

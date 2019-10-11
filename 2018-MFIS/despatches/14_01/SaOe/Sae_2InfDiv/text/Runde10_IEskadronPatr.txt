@@ -1,0 +1,12 @@
+Runde: 10
+Uhrzeit:
+Von: Eskadron KR1
+Von - Wo?: Anhöhe NO Neu Prim
+An: 2. InfDiv (Sa)
+An - Wo?: ostwärts Nieder Priem
+
+Nachricht:
+- Kavallerie in Btl-Stärke aus Richtung JEHLITZ
+  in Richtung Brunn
+- Feindliche Kräfte in Ortschaft NEUPRIM
+- Aufklärungspatr. weicht Richtung BRUNNEN aus

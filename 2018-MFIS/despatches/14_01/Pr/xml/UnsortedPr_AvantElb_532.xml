@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="UnsortedPr_AvantElb_532">
+        <pb facs="UnsortedPr_AvantElb_532.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="14">Runde: 14</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:40:00">14:40</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Avantgarde"
+                        >Avantgarde</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="H655">Höhe
+                                655</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="17F">17 F</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: Waldstück <placeName><settlement
+                                type="Popowitz">Popowitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Aufklärung aus dem Waldstück in Richtung <placeName><settlement
+                            type="Stresetitz">Stresetitz</settlement></placeName> und
+                            <placeName><settlement type="Problus">Problus</settlement></placeName>.
+                    Danach zurück in Wald. Wenn <orgName type="8FAR">8. Fußartillerie</orgName>
+                    eintrifft, soll Stellung an Waldkante Richtung <placeName><settlement
+                            type="Problus">Problus</settlement></placeName>/Nieder Prim bezogen
+                    werden. </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="UnsortedPr_AvantElb_532.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

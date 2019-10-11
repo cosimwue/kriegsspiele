@@ -1,0 +1,14 @@
+Runde: 9
+Uhrzeit: 12:55
+Von: Art Batterie 8 (ID15)
+Von - Wo?: Südlich Ortsrand NeuPrim
+An: Kdr ID15
+An - Wo?: Waldstück zwischen südlich Brunnen u. südlich OberPrim
+
+Nachricht:
+Meldung:
++ Sind bis südlich NeuPrim marschiert und biegen
+  ein in Waldstraße nach Osten in Richtung
+  Stezirek
++ Abgabe einer ArtBtr an Avangarde (Ankunft
+  auf Höhe 645 in ca. 2 Runden

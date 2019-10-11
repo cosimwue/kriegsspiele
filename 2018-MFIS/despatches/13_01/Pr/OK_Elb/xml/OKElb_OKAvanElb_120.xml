@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="OKElb_OKAvanElb_120">
+        <pb facs="OKElb_OKAvanElb_120.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="10">Runde: 10</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="12:50:00">12:50</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Avantgarde">OK
+                        Avangarde</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?:</label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <orgName type="OBK">Elbarmee</orgName>
+                    </label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht: Lageinformation</head>
+                <p n="7">N <placeName><settlement type="Stresetitz"
+                        >Stesetitz</settlement></placeName> fdl. Kr. in > Armee-Korps-Stärke ->
+                    nördl. Umgehen <placeName><settlement type="Stresetitz"
+                        >Stresetitz</settlement></placeName> oder durch- stoßen nicht mgl. E:
+                    Rückzug hinter <placeName><settlement type="H702">Höhe
+                        702</settlement></placeName> i. s. NW <placeName><settlement type="H702"
+                            >Höhe 702</settlement></placeName> A: Warte auf Art Danach Durchbruch
+                    bei <placeName><settlement type="Stresetitz"
+                    >STRESETITZ</settlement></placeName></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="OKElb_OKAvanElb_120.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

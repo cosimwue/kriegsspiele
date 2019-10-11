@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SOK_LKD_681">
+        <pb facs="SOK_LKD_681.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="12">Runde: 12</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:05:00">14:05</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="LKD">LKD</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: südl. <placeName><settlement
+                                type="Stezirek">Stezirek</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="SOK">SOK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Problus"
+                                >Probus</settlement></placeName></label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Meldung Inf Rgmt +++ im Wald südl <placeName><settlement
+                            type="Oberprim">OberPrim</settlement></placeName>
+                    <span type="sketch">(Skizze)</span></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="SOK_LKD_681.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,16 @@
+Runde: 1
+Uhrzeit: 10:00
+Von: 2. InfDiv(Sä)
+Von - Wo?: Ostwärts NiederPrim
+An: II. Eskadron KR1
+An - Wo?: Südlich Problus
+
+Nachricht:
+- klärt mit Eskadronspatroulie auf
+  in den Raum NEUPRIM-HRADEK
+- verbleibt als Stehender Spähtrupp
+  und klärt westlich und südwestlich
+  auf
+- weicht bei Feindkontakt aus Richtung
+  NIEDERPRIM/OBERPRIM
+- behält dabei Fühlung zum Feind

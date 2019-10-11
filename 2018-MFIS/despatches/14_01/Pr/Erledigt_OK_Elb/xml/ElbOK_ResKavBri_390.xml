@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_ResKavBri_390">
+        <pb facs="ElbOK_ResKavBri_390.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="14">Runde: 14</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:55:00">14:55</time></label></p>
+                <p n="3"><label type="from">Von: Fhr <orgName type="RKB"
+                    >ResKavBri</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Eigene Waldstück südl.
+                                <placeName><settlement type="Neuprim"
+                            >NeuPrim</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OBK Elbarmee</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Jehlitz"
+                                >Jehlitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Meldung - <orgName type="RKB">ResKavBri</orgName> passiert Waldeingang südl
+                            <placeName><settlement type="Neuprim">NeuPrim</settlement></placeName>
+                    in östliche Richtung - Vorschlag: <orgName type="RKB">ResKavBri</orgName>
+                    schlägt südlichen Weg durch Waldstück ein, um Truppen <orgName type="ID15"
+                        >ID15</orgName> zu umgehen und stößt östlich <placeName><settlement
+                            type="Oberprim">OberPrim</settlement></placeName> durch den Wald zum
+                    Angriff </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_ResKavBri_390.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

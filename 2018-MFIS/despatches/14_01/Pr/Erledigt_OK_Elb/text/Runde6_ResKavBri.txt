@@ -1,0 +1,15 @@
+Runde: 6
+Uhrzeit: 12:15
+Von: ResKavBri
+Von - Wo?: freies Feld südlich Lubno
+An: OBK Elbarmee
+An - Wo?: Nechanitz
+
+Nachricht:
+Meldung
+- ResKavBri befindet sich auf freiem Feld
+  südlich Lubno in Richtung NW Jehlitz
+- keine Feindlage optisch
+- Formation: KR8 vorne + Fhr
+			 PLW folgend
+- im Vorausbereich Kavallerie ID14 optisch

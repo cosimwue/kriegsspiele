@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SInf2_SOK_639">
+        <pb facs="2SInf_SOK_639.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="1">Runde: 1</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="10:00:00">10:00</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="SOK">SOK</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="ID2">2. InfDiv</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: ostwärts <placeName><settlement
+                                type="Niederprim">Nied.Priem</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> <orgName type="ID2">2.InfDiv (Sä)</orgName> - hält weiterhin
+                    Linie <placeName><settlement type="Niederprim"
+                        >NIEDERPRIEM</settlement></placeName>-<placeName><settlement type="Oberprim"
+                            >OBERPRIEM</settlement></placeName> - stellt sich darauf ein, eigene Art
+                    a.B. zu verlegen. - Hält engen Schulterschluss zum linken Nachbarn <orgName
+                        type="LKD">1. LKD (Ö)</orgName></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="2SInf_SOK_639.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

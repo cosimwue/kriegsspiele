@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_Kdr15ID_353">
+        <pb facs="ElbOK_Kdr15ID_353.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="3">Runde: 3</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="10:55:00">10:55</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KdrID15">KDr ID15</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Wiese 900 NO <placeName><settlement
+                                type="Hradek">HRADEK</settlement></placeName>/ 600 südl.
+                                <placeName><settlement type="Neuprim"
+                            >NEUPRIM</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OK Preußen</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: südl. <placeName><settlement
+                                type="Nechanitz">Nechanitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">FEINDMELDUNG + Kav Patrouille auf <placeName><settlement type="H660">Höhe
+                            660</settlement></placeName> N v. <placeName><settlement type="Neuprim"
+                            >NEUPRIM</settlement></placeName> + Kav Patrouille am Süd.ostw. Rand v.
+                            <placeName><settlement type="Brunnen">BRUNNEN</settlement></placeName>
+                    _____________________________________________ <orgName type="ID15"
+                        >ID15</orgName>: erreicht Verb.Str. <placeName><settlement type="Oberprim"
+                            >O-PRIM</settlement></placeName> -> <placeName><settlement
+                            type="Techlowitz">TECHLOWITZ</settlement></placeName> in Runde 9 </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_Kdr15ID_353.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

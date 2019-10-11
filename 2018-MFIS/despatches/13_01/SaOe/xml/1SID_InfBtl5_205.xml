@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SID1_InfBtl5_205">
+        <pb facs="1SID_InfBtl5_205.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="12">Runde: 12</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="00:00:00"/></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="InfBtl5">5. InfBtl</orgName>. ROT</label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: SÜDLICH <placeName><settlement
+                                type="Stresetitz">STRESETITZ</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="KdrID1">1. INF DIV (SACHSEN)
+                            VERBANDSFÜHRER</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: SÜDLICH <placeName><settlement type="Problus"
+                                >PROBLUS</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - KAVALARIE AUFKLÄRUNGSTRUPP IN <placeName><settlement type="Stresetitz"
+                            >STRESETITZ</settlement></placeName> AUFGEKLÄRT - NACH KURZEM KONTAKT
+                    IST DER FEINDL. AUFKLÄR. TRUPP WIEDER NACH WEST AUSGEWICHEN. - <orgName
+                        type="InfBtl5">5.</orgName>+<orgName type="InfBtl7">7. INFBTL</orgName>
+                    ZWISCHEN <placeName><settlement type="Stresetitz"
+                        >STRESETITZ</settlement></placeName> UND <placeName><settlement
+                            type="Problus">PROBLUS</settlement></placeName> IN STELLUNG BW. ->.
+                    gemeldet </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="1SID_InfBtl5_205.pdf"/>
+                <head/>
+                <p> FEIND IN BRIGARDESTÄRKE IN STELLUNG BEI <placeName><settlement type="H700">HÖHE
+                            700</settlement></placeName> (INFANTERIE + KAVALARIE)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

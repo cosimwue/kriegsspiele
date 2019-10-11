@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="MldgbEPr_Kdr15ID_514">
+        <pb facs="MldgbEPr_Kdr15ID_514.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="18">Runde: 18</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="16:10:00">16:10</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KdrID15">KDr ID15</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: T-Kreuzung 700 westl.
+                                <placeName><settlement type="Stezirek"
+                        >STEZ</settlement></placeName>.</label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OK Preußen</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Jehlitz"
+                                >JEHLITZ</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">
+                    <orgName type="IB29">InfBrig 29</orgName> nimmt nun <placeName><settlement
+                            type="Oberprim">Ober-Prim</settlement></placeName> um Vorauss. zu
+                    schaffen für Angr. d. <orgName type="KR7">Kav. 7</orgName> auf fdl. Art. im
+                    Norden v. O.P. (auch bereits befohlen)</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="MldgbEPr_Kdr15ID_514.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

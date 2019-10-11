@@ -1,0 +1,12 @@
+Runde: 10
+Uhrzeit:
+Von: ID15
+Von - Wo?: Ostrand Radikowitz
+An: OK Elbarmee
+An - Wo?: Schloss Hradek
+
+Nachricht:
+Starke Kavallerie bei Techlowitz
+aufgeklärt.
+Formiere Spitze zum Angriff und
+marschiere weiter

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ID123IB_1SID_136">
+        <pb facs="1ID23IB_1SID_136.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="19">Runde: 19</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="16:22:00">16:22</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID1">1. InfDiv</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Ortsrand <placeName><settlement
+                                type="Problus">PROBLUS</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="InfBrig2">InfBrig
+                    2</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: Linie <placeName><settlement
+                                type="Niederprim"
+                                >NiederPrim</settlement></placeName>-<placeName><settlement
+                                type="Problus">PROBLUS</settlement></placeName>
+                    </label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - FdKräfte vor eig Stellungen ZSL - <orgName type="InfBrig2">2.
+                        InfBrig</orgName> vtgt Raum zw. <placeName><settlement type="Niederprim"
+                            >NIEDERPRIM</settlement></placeName>-<placeName><settlement
+                            type="Problus">PROBLUS</settlement></placeName>- <placeName><settlement
+                            type="Stresetitz">STRESETITZ</settlement></placeName> mit <orgName
+                        type="InfBtl9">9.InfBtl</orgName> &amp; <orgName type="InfBtl12"
+                        >12.InfBtl</orgName> zw. <placeName><settlement type="Niederprim"
+                            >NIEDERPRIM</settlement></placeName> &amp; <placeName><settlement
+                            type="Problus">PROBLUS</settlement></placeName> und <orgName
+                        type="InfBtl10">10.InfBtl</orgName> und <orgName type="InfBtl11">11.
+                        InfBtl</orgName> zw. <placeName><settlement type="Problus"
+                            >PROBLUS</settlement></placeName> &amp; <placeName><settlement
+                            type="Stresetitz">STRESETITZ</settlement></placeName>. <orgName
+                        type="JgBtl3">3. JgBtl</orgName> bildet Reserve, ArtBatterien bei
+                            <placeName><settlement type="Problus">PROBLUS</settlement></placeName> -
+                    Ich befinde mich bei ArtBatterien nördl. <placeName><settlement type="Problus"
+                            >PROBLUS</settlement></placeName></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="1ID23IB_1SID_136.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

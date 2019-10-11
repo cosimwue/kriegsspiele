@@ -1,0 +1,13 @@
+Runde: 1
+Uhrzeit: 10:00
+Von: SOK
+Von - Wo?: BOR
+An: LKD(Ö)
+An - Wo?: OBERPRIEM
+
+Nachricht:
+
+LKD(Ö)
+- Hält Linie OBERPRIEM-STEZIREK-STÖSSER.
+- Stellt sich darauf ein, 1. LDK(Ö) beim Auffangen des Feindes zu unterstützen.
+- Hält enge Verbindung zum 8. Korps(Ö).

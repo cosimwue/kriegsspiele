@@ -1,0 +1,11 @@
+Runde: 9
+Uhrzeit: 13:0
+Von: OBK
+Von - Wo?: Weg nach Jehlitz Ortsmitte.
+An: FÜHRER KavBrig GOLTZ
+An - Wo?: nahe Techlowitz
+
+Nachricht:
+Melder im Galopp!
+Führer übermittelt eigene Lage
+und ggf Lage Feind. im Galopp!

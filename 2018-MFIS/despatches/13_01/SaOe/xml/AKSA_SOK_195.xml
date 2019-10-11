@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_SOK_195">
+        <pb facs="AKSA_SOK_195.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="19">Runde: 19</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="16:20:00">16:20</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="SOK">OK SAC</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="Bor"
+                                >Bor</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: Alle Unterstellten</label></p>
+                <p n="6"><label type="towhere">An - Wo?: Alle <placeName><settlement type="HQ"
+                                >HQ</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Lage Update: Feind: Norden: greifen Preussen in Brig Stärke an, <orgName
+                        type="ID1">1. InfDiv</orgName> hält Mitte: keine Feststellungen Süden:
+                    preussischer Hauptstoss in Div Stärke Spitze 1000 Schritt östlich
+                            <placeName><settlement type="Techlowitz"
+                        >TECHLOWITZ</settlement></placeName> -> <orgName type="LKD">1. AUT
+                        LeKavDiv</orgName> wurde zurückgedrängt Nachbarn: --- -> </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_SOK_195.pdf"/>
+                <head/>
+                <p>Absicht: - Linie zwischen <placeName><settlement type="Stresetitz"
+                            >Stresetitz</settlement></placeName> und <placeName><settlement
+                            type="Stezirek">Stezirek</settlement></placeName> wird durch <orgName
+                        type="ID1">1.</orgName> + <orgName type="ID2">2. InfDiv</orgName> gehalten -
+                        <orgName type="8_AK">8. AUT Korps</orgName> schliesst Linie von
+                            <placeName><settlement type="Stezirek">STEZIREK</settlement></placeName>
+                    nach <placeName><settlement type="Charbusitz"
+                        >CHARBUSITZ</settlement></placeName> und hält Reserve nördlich
+                            <placeName><settlement type="Charbusitz"
+                        >CHARBUSITZ</settlement></placeName> - <orgName type="LKD">1. AUT
+                        LeKaDiv</orgName> bereitet Gegenangriff auf anggreifende preussische Kräfte
+                    westlich <placeName><settlement type="Stösser">STÖSSER</settlement></placeName>
+                    vor - <orgName type="KavDivSa">1. SAC KavDiv</orgName> sammelt sich im Rm
+                            <placeName><settlement type="Klacow">KLACOW</settlement></placeName> und
+                    bereitet Gegenangriff in den Rm südlich <placeName><settlement type="Charbusitz"
+                            >CHARBUSITZ</settlement></placeName> - <placeName><settlement
+                            type="Stezirek">STEZIREK</settlement></placeName>, - KorpsArt
+                    unterstützt weiterhin nördlich <placeName><settlement type="Problus"
+                            >PROBLUS</settlement></placeName>, und neuer Fsp südlich
+                            <placeName><settlement type="Stezirek"
+                            >STEZIREK</settlement></placeName>-<placeName><settlement
+                            type="Charbusitz">CHARBUSITZ</settlement></placeName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SOK_2SID_658">
+        <pb facs="SOK_2SID_658.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="6">Runde: 6</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="11:30:00">11:30</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID2"
+                    >2.InfDiv(sä)</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: ostwärts <placeName><settlement
+                                type="Niederprim">NIEDERPRIM</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="SOK">AOK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?:</label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Feindlage: SÜDLICH <placeName><settlement type="Neuprim"
+                            >NEUPRIM</settlement></placeName> entlang Linie <placeName><settlement
+                            type="Neuprim">NEUPRIM</settlement></placeName> - <placeName><settlement
+                            type="Radikowitz">RADINOWITZ</settlement></placeName> 2(PREU) BTL und
+                    weiter TrTLe in Bewegung Richtung Osten </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="SOK_2SID_658.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

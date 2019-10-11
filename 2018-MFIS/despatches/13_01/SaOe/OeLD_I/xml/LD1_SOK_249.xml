@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="LD1_SOK_249">
+        <pb facs="LD1_SOK_249.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="14">Runde: 14</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="14:07:00">14:07</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="SOK">OK SAC</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: <placeName><settlement type="Bor"
+                                >Bor</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: alle Unterstellten</label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: alle OK</label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Lage Update an alle (nur eigene Truppen) - <orgName type="ID1">1. Inf
+                        Div</orgName> hält Linie <placeName><settlement type="Problus"
+                            >PROBLUS</settlement></placeName>-<placeName><settlement
+                            type="Stresetitz">STRESETIZ</settlement></placeName> - <orgName
+                        type="ID2">2. Inf Div</orgName> hält Linie <placeName><settlement
+                            type="Niederprim">NIEDER
+                            PRIM</settlement></placeName>-<placeName><settlement type="Stezirek"
+                            >STEZIREK</settlement></placeName> - <orgName type="KavDivSa">SAC
+                        KavDiv</orgName> überwacht im Rm <placeName><settlement type="Stezirek"
+                            >STEZIREK</settlement></placeName>-<placeName><settlement type="STÖSSER"
+                            >STÖSSER</settlement></placeName>, Rest Reserve östlich
+                            <placeName><settlement type="Oberprim">OBER</settlement></placeName> +
+                            <placeName><settlement type="Niederprim">NIEDER
+                        PRIM</settlement></placeName> -> </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="LD1_SOK_249.pdf"/>
+                <head/>
+                <p>- <orgName type="8AK">8. AUT Korps</orgName>: Reserve bei <placeName><settlement
+                            type="Bor">BOR</settlement></placeName> und südlich - <orgName
+                        type="LKD">1. AUT LeKavDiv</orgName>: <orgName type="LKD">1.</orgName> hält
+                    Linie westlich <placeName><settlement type="Techlowitz"
+                        >TECHLOWITZ</settlement></placeName> mit Teilen der Kräfte 2. nach weit
+                    umfassender Aufmarsch über <placeName><settlement type="Wosnitz"
+                            >WOSNITZ</settlement></placeName>-<placeName><settlement type="Libcan"
+                            >LIBCAN</settlement></placeName> (mit dem Großteil der Truppen), Angriff
+                    in der Raum <placeName><settlement type="Radikowitz"
+                        >RADIKOWITZ</settlement></placeName> - <orgName type="8AK"
+                        >KorpsArt</orgName>: 2xBttr: südöstlich <placeName><settlement
+                            type="Problus">PROBLUS</settlement></placeName> 3xBtt:r 900 Schritt
+                    östlich <placeName><settlement type="Oberprim">OBER
+                        PRIM</settlement></placeName> 2xBttr: zwischen <placeName><settlement
+                            type="Stezirek">STEZIREK</settlement></placeName> und
+                            <placeName><settlement type="Charbusitz"
+                        >CHARBUSITZ</settlement></placeName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

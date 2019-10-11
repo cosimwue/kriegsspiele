@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SOK_KavDivSa_674">
+        <pb facs="SOK_KavDivSa_674.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="11">Runde: 11</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="13:50:00">13:50</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KavDivSa">SKD</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: ostw. <placeName><settlement
+                                type="Niederprim">Niederprim</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="SOK">SOK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Problus"
+                                >Problus</settlement></placeName></label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> <orgName type="S2">S2</orgName> und <orgName type="S6"
+                        >S6</orgName>(? <orgName type="SG">SG</orgName>) verlegen befehlsgemäß
+                    Richtung. Hinweis: Fd Art Kräfte zwischen <placeName><settlement type="Popowitz"
+                            >Popowitz</settlement></placeName> und <placeName><settlement
+                            type="Jehlitz">Jehlitz</settlement></placeName> erwartet.</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="SOK_KavDivSa_674.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

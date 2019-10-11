@@ -1,0 +1,14 @@
+Runde: 1
+Uhrzeit: 10:00
+Von: OBK Elbarmee
+Von - Wo?: Nechanitz
+An: Reserve Kavalleriebrigade
+An - Wo?: Nechanitz
+
+Nachricht:
+-> bezieht Raum nahe Jehlitz
+   stellt sich ein auf:
+   -> Angriff zu nähren in den Raum NeuPrim
+   -> Auffangen Gegenstoß südl. Flanke zu
+      unterstuützen. (Raum Techlowitz)
+   -> Möglichen Angriff aus Raum Popowitz auffangen

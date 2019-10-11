@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavBrigGoltz_HR11_469">
+        <pb facs="KavBrigGoltz_HR11_469.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="8">Runde: 8</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="12:30:00">12:30</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="HR11">HR 11</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="Radikowitz"
+                                >Radikowitz</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="ESK11">1. Eskadron HR
+                        11</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Radikowitz"
+                                >Radikowitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">- Verfolgung feindliche Patrouille aufnehmen und bekämpfen - max bis 800
+                    Schritt o-wärts Stadtrand von <placeName><settlement type="Techlowitz"
+                            >Techlowitz</settlement></placeName> - anschließend Zurücverlegung zum
+                        <orgName type="HR11">Hr 11</orgName>/EndStellung 500 Schritt nördl.
+                            <placeName><settlement type="Techlowitz"
+                        >Techlowitz</settlement></placeName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavBrigGoltz_HR11_469.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

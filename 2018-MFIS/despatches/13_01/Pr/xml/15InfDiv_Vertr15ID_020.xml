@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="InfDiv15_Vertr15ID_20">
+        <pb facs="15InfDiv_Vertr15ID_020.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="14">Runde: 14</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:02:00">14:02</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="VertrID15">Vertr. ID
+                    15</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="Techlowitz"
+                                >TECHLOWITZ</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="KdrID15">Kdr ID 15</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: dto.</label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"><orgName type="IR68">InfRgt 68</orgName> muss Entfächerung auf- geben, um
+                    weiter nach Osten zu marschieren. - Erste Teile Div im Ortskern
+                            <placeName><settlement type="Techlowitz">T</settlement></placeName>. -
+                        <orgName type="DR7">7. Dragonen</orgName> am Östl. Ortsrand </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="15InfDiv_Vertr15ID_020.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

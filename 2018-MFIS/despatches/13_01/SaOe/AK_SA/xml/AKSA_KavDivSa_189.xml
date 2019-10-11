@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_KavDivSa_189">
+        <pb facs="AKSA_KavDivSa_189.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="17">Runde: 17</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="15:00:00">15:00</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="KavDivSa">SAC KAvDiv</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: unverändert</label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="SOK">AK</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: unverändert</label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Lagemeldung <orgName type="KavDivSa">SAC KavDiv</orgName> - unverändert im
+                    StgR Res, AufklKr klären weiter auf AufklAchse NO Richtung
+                            <placeName><settlement type="Popowitz">Popowitz</settlement></placeName>
+                    auf - Kampfkraft 100%, - Vpflg 80% - Pferde 7 mal abgerieben, - Säbel 2 mal
+                    nachgeschärft, - warten auf weiter Befehle. gez. (Unterschrift), General</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_KavDivSa_189.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,13 @@
+Runde: 10
+Uhrzeit: 13:20
+Von: Oberkommando Elbarmee
+Von - Wo?: westl JEHLITZ
+An: Fhr ResKav Brig
+An - Wo?: nördl. JEHLITZ
+
+Nachricht:
+- neuer Raum Res südl. NEU-PRIM
+- stellt sich darauf ein rechts umfassend
+  durch Waldstück annähernd in den
+  Bereich OBERPRIM anzugreifen
+  (auf Befehl OBK)

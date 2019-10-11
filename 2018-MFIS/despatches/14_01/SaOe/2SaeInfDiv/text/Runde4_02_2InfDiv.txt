@@ -1,0 +1,15 @@
+Runde: 4
+Uhrzeit: 11:15
+Von: 2. InfDiv(Sä)
+Von - Wo?: Ostwärts NIEDERPRIM
+An: InfBrig 4, 13.-16 InfBtl
+An - Wo?: Südlich NIEDERPRIM
+
+Nachricht:
+- nimmt ein Formation Bataillon in Linie und
+- verteidigt gegen angreifenden Fein
+  mit drei Btl vorne, 13. InfBtl (links)
+  16. InfBtl(Mitte) und 15. InfBtl (rechts)
+  sowie 14 InfBtl (Reserve)
+- zwischen NIEDERPRIM(ausschließlich) bis OBER-
+  PRIM (ausschließlich) Richtung Westen

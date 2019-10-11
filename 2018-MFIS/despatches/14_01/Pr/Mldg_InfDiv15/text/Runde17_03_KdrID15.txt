@@ -1,0 +1,11 @@
+Runde: 17
+Uhrzeit: 16:05
+Von: Kdr ID15
+Von - Wo?: 700 west. STEZ.
+An: 68/III
+An - Wo?: straße Waldrand
+
+Nachricht:
+68/III verschiebt sich 200 nach
+OSTEN um Straße für
+Res.Kav frei zu machen.

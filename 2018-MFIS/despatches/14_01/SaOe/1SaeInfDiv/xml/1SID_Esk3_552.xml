@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SID1_Esk3_552">
+        <pb facs="SID1_Esk3_552.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="14">Runde: 14</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:45:00">14:45</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Esk3">3. Esk</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: uv</label></p>
+                <p n="5"><label type="to">An: Kdr</label></p>
+                <p n="6"><label type="towhere">An - Wo?: uv.</label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Fußartillerie mittig zw. <placeName><settlement type="Gubno"
+                            >Gubno</settlement></placeName>
+                    <placeName><settlement type="Popowitz">Popowitz</settlement></placeName></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="SID1_Esk3_552.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

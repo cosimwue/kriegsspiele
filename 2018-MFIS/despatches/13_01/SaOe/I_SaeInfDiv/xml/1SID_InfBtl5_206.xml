@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SID1_InfBtl5_206">
+        <pb facs="1SID_InfBtl5_206.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="13">Runde: 13</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="13:55:00">13:55</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="InfBtl5">5. InfBtl.</orgName> ROT</label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: SÜDLICH <placeName><settlement
+                                type="Stresetitz">STRESETITZ</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="ID1">1. INF DIV SACHSEN</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: SÜDLICH <placeName><settlement type="Problus"
+                                >PROBLUS</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - INFANTRIE BRIGARDE SÜDLICH VON <placeName><settlement type="H700">HÖHE
+                            700</settlement></placeName> IN GEFECHTSFORMATION -> VERSTÄRKT DURCH
+                    KAVALARIE - ZWISCHEN <placeName><settlement type="Stresetitz"
+                            >STRESETITZ</settlement></placeName> UND <placeName><settlement
+                            type="Problus">PROBLUS</settlement></placeName> BIS JETZT NUR <orgName
+                        type="InfBtl5">5.</orgName>+<orgName type="InfBtl7">7. InfBtl</orgName> IN
+                    STELLUNG <orgName type="S2">S2</orgName>, <orgName type="S6">S6</orgName>,
+                        <orgName type="S8">S8</orgName> NOCH ALS RESERVE NORDÖSTLICH VON
+                            <placeName><settlement type="Problus">PROBLUS</settlement></placeName>
+                    gemeldet 14:06</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="1SID_InfBtl5_206.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

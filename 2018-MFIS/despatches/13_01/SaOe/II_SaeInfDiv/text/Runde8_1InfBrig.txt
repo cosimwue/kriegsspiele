@@ -1,0 +1,12 @@
+Runde: 8
+Uhrzeit: 12:40
+Von: 1. InfBrig (Sachsen)
+Von - Wo?: Stezirek
+An: Fhr 2. Div (Sachsen)
+An - Wo?: Nied - Prim
+
+Nachricht:
+- 1. InfBrig hat Stezirek erreicht
+- richtet sich beiderseits Stezirek zur Vtdg ein
+  mit 1. InfBtl + 1 JgBtl ostwärts Stezirek
+      2. - 4. Btl zw. Stezirek und Ober-Prim

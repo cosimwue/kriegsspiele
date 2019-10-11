@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="InfDiv14_DivArt_283">
+        <pb facs="14InfDiv_DivArt_283.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="17">Runde: 17</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="15:52:00">15:52</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="DivArt">DivArt</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: <placeName><settlement type="Schäferberg"
+                                >Schäferberg</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="KdrID14">Fhr 14. InfDiv</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <placeName><settlement type="Schäferberg"
+                                >Schäferberg</settlement></placeName></label>
+                </p>
+
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - 1 Bttr in Stellung auf <placeName><settlement type="Schäferberg"
+                            >S-Berg</settlement></placeName> - Aufgeklärt: - 3 Btl (Inf) zw
+                            <placeName><settlement type="Niederprim"
+                        >NIEDERPRIM</settlement></placeName> - 2 Art Bttr zw <placeName><settlement
+                            type="Niederprim">NIEDERPRIM</settlement></placeName> dahinter - 2
+                    InfBtl in Res zw fdl Art und Front Btl (Inf)</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="14InfDiv_DivArt_283.pdf"/>
+              
+                <head/>
+                
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

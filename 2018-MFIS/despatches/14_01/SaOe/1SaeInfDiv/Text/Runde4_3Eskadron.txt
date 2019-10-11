@@ -1,0 +1,16 @@
+Runde: 4
+Uhrzeit: 10:45
+Von: 3. Eskadron
+Von - Wo?: HQ 1.InfDiv
+			Westrand Niederpriem
+An: Kdr 1.InfDiv
+An - Wo?: HQ 1. InfDiv
+			Westrand Niederpriem
+
+Nachricht:
+- Feindkontakt Waldrand NW
+  Niedepriem: 1. Infanteriebattalion
+  				(Avantgarde)
+
+
+ - Aufklärung abgebrochen

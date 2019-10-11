@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>
+                <!-- title of the resource -->
+            </title>
+        </titleStmt>
+        <publicationStmt>
+            <p>
+                <!-- Information about distribution of the resource -->
+            </p>
+        </publicationStmt>
+        <sourceDesc>
+            <p>
+                <!-- Information about source from which the resource derives -->
+            </p>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+<text type="meldezettel">
+    <body>
+        Runde: 20
+Uhrzeit: 16:15
+Von: Kdo ID15
+Von - Wo?: In Bewegung auf Höhe 717 zu
+An: OK Elbarmee
+An - Wo?: Höhe 695
+
+Nachricht:
+
+Feind steht in geschlossener Linie von
+südl. Stösser bis Ober-Prim.
+Ich führe eigenen Angriff von Süden
+gegen die fdl. Linie und erbitte
+Kavallerieunterstützung, um die
+fdl. Linie von Süde aufzurollen
+    </body>
+</text>
+</TEI>

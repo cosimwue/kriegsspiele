@@ -1,0 +1,13 @@
+Runde: 1
+Uhrzeit: 10:00
+Von: OBK Elbarmee
+Von - Wo?: Nechanitz
+An: Infanteriedivision 14
+An - Wo?: Nechanitz
+
+Nachricht:
+- gewinnt Raum JELITZ
+- nimmt auf 8 Batterien, zu Fuß der
+  ArmeeArtRes
+- greift a.B. in die Enge
+  NEUPRIM an

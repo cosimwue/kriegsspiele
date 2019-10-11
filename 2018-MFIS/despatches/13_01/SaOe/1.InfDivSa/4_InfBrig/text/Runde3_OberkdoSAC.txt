@@ -1,0 +1,15 @@
+Runde: 3
+Uhrzeit: 12:30
+Von: Oberkdo SAC
+Von - Wo?:
+An: KorpsArt(Res)
+An - Wo?: 
+
+Befehle:
+
+Korpsart(Res), 3.Bttr
+- verschiebt 300 Schritt westlich von CHARBUSITZ
+- Hält sich bereit;
+  1. den Kampf im Süden zu unterstützen
+  2. in den Raum westlich STEZIREK zu wirken
+  

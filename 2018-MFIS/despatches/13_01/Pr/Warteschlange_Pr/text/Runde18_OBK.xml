@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>
+                <!-- title of the resource -->
+            </title>
+        </titleStmt>
+        <publicationStmt>
+            <p>
+                <!-- Information about distribution of the resource -->
+            </p>
+        </publicationStmt>
+        <sourceDesc>
+            <p>
+                <!-- Information about source from which the resource derives -->
+            </p>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+<text type="meldezettel">
+    <body>
+        Runde: 18
+Uhrzeit: 16:07
+Von: OBK
+Von - Wo?: Höhe 695
+An: KB Goltz
+An - Wo?: 
+
+Nachricht:
+
+Fd: Mit Kr auf Höhe 717 sowie Wegkreuzung 800 Schritt
+    nördlich davon. 2 weitere Eskadrons auf Strasse 900
+    Schritt westlich STÖSSER
+Eig Lg: Avantgarde Armee wurde im Raum STRESETITZ-
+        PROBLUS vernichtet
+Auftrag: ID15 greift an, mit Art-Feuer auf Höhe 717 sowie
+         Wegekreuzung 800 SChritt nördlich davon. Stellt nach
+         Durchschreiten dieser Linie mit Kräften Flanken-
+         schutz nach Osten. Greift dann weiter an Richtung
+         STEZIREK
+         			->
+
+(Rückseite)
+
+Kav-Brig Goltz: Folgt zunächst dem Angr hinter ID15,
+                stellt sich darauf ein, in enger Absprache
+                mit ID15, Flankenangriffe auf ggf.
+                vor ID15 gestauten Fd durchzuführen
+ID14: Folt zunächst KavBrig Goltz, eingesetzt als Reserve
+
+Mir kommt es jetzt darauf an schnellstmöglich
+Angriffsschwung aufzunehmen und zu erhalten!
+Ich verlege nach Angr-Beginn auf Höhe 795
+    </body>
+</text>
+</TEI>

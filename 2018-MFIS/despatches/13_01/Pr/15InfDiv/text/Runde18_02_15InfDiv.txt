@@ -1,0 +1,12 @@
+Runde: 18
+Uhrzeit: 15:45
+Von: Vertr. ID 15
+Von - Wo?: östl. TECHLOWITZ
+An: Kdr ID 15
+An - Wo?: Höhe 735
+
+Nachricht:
+- Art. - Gefecht
+  68 IR III. Btl 17 Pkte verlust
+- Eig. Art ohne Wirkung
+- Marsch wird fortgesetzt

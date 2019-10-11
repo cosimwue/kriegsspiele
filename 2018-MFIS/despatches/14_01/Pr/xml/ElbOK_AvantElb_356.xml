@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_AvantElb_356">
+        <pb facs="ElbOK_AvantElb_356.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="4">Runde: (noch) 4</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="11:15:00">11:15</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Avantgarde"
+                        >Elb-Avant</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Y Kreuzung - südl.
+                                <placeName><settlement type="H68680"
+                        >H68680</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OBK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Nechanitz"
+                                >NECHANITZ</settlement></placeName></label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">+ 2 fd InfBtl am nörd. und ostw. Rand in <placeName><settlement
+                            type="Niederprim">NIEDERPRIM</settlement></placeName> aufgeklärt,
+                    Wirkung B bis W Wirkung durch <orgName type="IBtl40">40</orgName> nicht möglich
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_AvantElb_356.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AvElb_AvantElb_296">
+        <pb facs="AvElb_AvantElb_296.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="1">Runde: 1</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="10:10:00">10:10</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Avantgarde"
+                        >Avantgarde</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: 1300 m Südostwärts
+                                <placeName><settlement type="Popowitz"
+                            >Popowitz</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="FBIR28">Füsilienbatallon
+                            Infanterieregiment 28</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: 700m Südostwärts <placeName><settlement
+                                type="Popowitz">Popowitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Marschiert in Richtung <placeName><settlement type="Problus"
+                            >Problus</settlement></placeName> und nimmt Linie zur Verteidigung im
+                    Zuge des Waldstücks der Verbindungsstraße <placeName><settlement type="Popowitz"
+                            >Popowitz</settlement></placeName>/ <placeName><settlement
+                            type="Problus">Problus</settlement></placeName> und der
+                    Verbindungsstraße <placeName><settlement type="Lubno"
+                        >Lubno</settlement></placeName>/ <placeName><settlement type="Niederprim"
+                            >Nieder Prim</settlement></placeName> ein. Waldstück 900m Nord-westlich
+                    von <placeName><settlement type="Niederprim">Nieder
+                        Prim</settlement></placeName>. Linker Nachbar ist <orgName type="17F"
+                        >F17</orgName>. </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AvElb_AvantElb_296.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

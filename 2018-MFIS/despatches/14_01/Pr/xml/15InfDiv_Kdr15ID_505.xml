@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="InfDiv15_Kdr15ID_505">
+        <pb facs="15InfDiv_Kdr15ID_505.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="13">Runde: 13</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:30:00">14:30</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID15">ID15</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Waldstück 750 Südwärts
+                                <placeName><settlement type="Oberprim"
+                            >OberPrim</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="IB29">InfBrig 29</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: Waldrand südlich <placeName><settlement
+                                type="Brunnen"
+                                >Brunnen</settlement></placeName>/<placeName><settlement
+                                type="Oberprim">Oberprim</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"><orgName type="ID14">ID14</orgName> greift von Westen richtung
+                            <placeName><settlement type="Oberprim">OberPrim</settlement></placeName>
+                    an <orgName type="IB29">InfBrig 29</orgName> unterstütz Angriff flankierungen
+                    von Süden auf <placeName><settlement type="Oberprim"
+                        >OberPrim</settlement></placeName> um <orgName type="ID14">ID14</orgName> zu
+                    unterstützen mit Deckungsfeuer aus dem Wald </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="15InfDiv_Kdr15ID_505.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

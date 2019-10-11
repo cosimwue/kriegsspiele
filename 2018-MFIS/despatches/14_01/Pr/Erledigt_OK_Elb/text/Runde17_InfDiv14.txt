@@ -1,0 +1,13 @@
+Runde: 17
+Uhrzeit: 16:10
+Von: InfDiv 14
+Von - Wo?: ostwärts Höhe Schäferei
+An: OBK
+An - Wo?: Jehlitz
+
+Nachricht:
+fdl. ArtFeuer auf eigenen Angriff:
+	Btl II/16 - 2Kp Verlust
+	Btl I/16 ] je ca. 1. Zg Verlust
+	Btl III/16 ]
+- Angriff wird weiter fort

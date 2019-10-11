@@ -1,0 +1,13 @@
+Runde: 12
+Uhrzeit: 14:00
+Von: Kdr ID15
+Von - Wo?: Höhe 175
+An: OK Preußen
+An - Wo?: Jehlitz
+
+Nachricht:
+FEINDMELDUNG
+- Btl. süd OBERPRIM hat Schützenlinie gebildet
+- Kav.Patr. auf Wald weg Ri Osten
+  900 ostwärts Höhe 175
+Eigene Kav. auf Höhe 175(1000 südl. OberPRIM)

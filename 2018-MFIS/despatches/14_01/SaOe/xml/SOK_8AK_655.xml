@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SOK_8AK_655">
+        <pb facs="SOK_8AK_655.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="4">Runde: 4</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="11:16:00">11:16</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="8AK">8. ÖAK</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="Bor"
+                                >Bor</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="SOK"
+                        >Armeeoberkommando</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Problus"
+                                >Problus</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> -><orgName type="8AK">8. Korps</orgName> in unveränderter
+                    Stellung -> <orgName type="BrigSchulz">Brigade Schulz</orgName>: - steht N von
+                            <placeName><settlement type="Bor">Bor</settlement></placeName> in
+                    Ausgangslage. => wird zu <orgName type="BrigRoth">Brig. ROTH</orgName> verlegt.
+                    -> <orgName type="BrigRoth">Brigade Roth</orgName>: N von <placeName><settlement
+                            type="Stezirek">Stezirek</settlement></placeName> an S Kante
+                            <placeName><settlement type="BrizerWald">BRIEZER
+                        WALD</settlement></placeName> in Ausgangslage. Blickrichtung auf
+                            <placeName><settlement type="Stezirek"
+                    >Stezirek</settlement></placeName>. Gliederung: <orgName type="JG24">JG
+                        24</orgName>
+                    <orgName type="IR32">IR 32</orgName>
+                    <orgName type="IR32">IR 32</orgName>
+                    <orgName type="Art2_9">Art. 2/9</orgName>
+                    <orgName type="IR21">IR 21</orgName>
+                    <orgName type="IR21">IR 21</orgName></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="SOK_8AK_655.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

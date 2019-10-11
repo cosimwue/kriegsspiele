@@ -1,0 +1,13 @@
+Runde: 4
+Uhrzeit: 11:10
+Von: LDK
+Von - Wo?: östl. OberPrim
+An: Brigade Fratricevies
+An - Wo?: südl. Stezirek
+
+Nachricht:
+Befehl Aufklärungspatrouille Hügel
+östl. Techlowitz patrouilliert im
+Raum Radikowitz-Techlowitz
+Bei Feindkontakt Rückzug
+Hügel östl. Techlowitz

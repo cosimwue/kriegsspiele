@@ -1,0 +1,15 @@
+Runde: 12
+Uhrzeit: 13:30
+Von: 2xx
+Von - Wo?: Oberprim
+An: 1.InfBrig inkl Art(10)
+An - Wo?: Raum Stetzirek
+
+Nachricht:
+
+Befehl VtdgLinie zw Oberprim und
+Stezirek einnehmen. Linke Grenze ist durch
+1. JgBtl einzunehmen mitte Stezirek, Schützen-
+züge ausbringen. Feind wird aus Wald
+westlich Stezirek erwartet, Ausrichtung
+dementsprechend wählen. ABSTAND ZU WALD 300 SCHRITT

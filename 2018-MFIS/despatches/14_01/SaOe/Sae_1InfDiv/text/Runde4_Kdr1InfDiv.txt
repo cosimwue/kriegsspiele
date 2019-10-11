@@ -1,0 +1,11 @@
+Runde: 4
+Uhrzeit: 11:13
+Von: Kdr 1. InfDiv
+Von - Wo?: HQ (unverändert)
+An:1. InfDiv
+An - Wo?: im VB
+
+Nachricht:
+Befehl: 
+- auf erkannten Fd, nach Ermessen der
+Kdre FEUER FREI!

@@ -1,0 +1,10 @@
+Runde: 13
+Uhrzeit: 14:00
+Von: KDR ID15
+Von - Wo?: westl. Ortseingang Techlowitz
+An: OBK Elbarmee
+An - Wo?: Schloß Hradek
+
+Nachricht:
+- 7. Dragoner stehen am östl. Ortsausgang Techlowitz.
+  4 fdl. Eskadron ca. 1000 östl. Techlowitz

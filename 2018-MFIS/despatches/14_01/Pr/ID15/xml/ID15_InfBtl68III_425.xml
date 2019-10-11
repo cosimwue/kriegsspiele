@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ID15_InfBtl68III_425">
+        <pb facs="ID15_InfBtl68III_425.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="14">Runde: 14</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="15:00:00">15:00</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="68III">InfBtl.
+                        68/III</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: südlich v. <placeName><settlement
+                                type="Oberprim">OberPrim</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: </label></p>
+                <p n="6"><label type="towhere">An - Wo?:</label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">+ 5 Verluste bei Feuergefecht und feindl. InftBtl. (mit Schützenlinien)
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ID15_InfBtl68III_425.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

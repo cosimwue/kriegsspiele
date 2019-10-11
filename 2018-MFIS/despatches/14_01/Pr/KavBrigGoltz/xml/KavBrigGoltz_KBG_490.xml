@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavBrigGoltz_KBG_490">
+        <pb facs="KavBrigGoltz_KBG_490.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="17">Runde: 17</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="15:55:00">15:55</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KBG">Kdr KavBrig
+                        GOLTZ</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?:</label></p>
+                <p n="5"><label type="to">An: selbst(eigene Wahrnehmung)</label></p>
+                <p n="6"><label type="towhere">An - Wo?:</label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">- Spitzen 11 auf <placeName><settlement type="H735">Höhe
+                        735</settlement></placeName> (tief gestaffelt) - <orgName type="HR7"
+                        >HR7</orgName> in der Entfaltung; 4 vorn 1 rechts folgend 500 westlich
+                            <placeName><settlement type="H717">Höhe 717</settlement></placeName> -
+                    Spähtrupp 400 südlich <placeName><settlement type="H717">Höhe
+                        717</settlement></placeName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavBrigGoltz_KBG_490.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

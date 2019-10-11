@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_1SID_170">
+        <pb facs="AKSA_1SID_170.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="12">Runde: 12</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="13:47:00">13:47</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="ID1">1. Sächs InfDiv</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: Südl.-westl. <placeName><settlement
+                                type="Problus">Problus</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="SOK">Sächs OK</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Kavallerie Aufkl.Trp in <placeName><settlement type="Stresetitz"
+                            >Stresetitz</settlement></placeName> aufgeklärt - kurzer Kontakt ->
+                    feindl. KavAufklTrp nach West zurückgewichen - <orgName type="InfBrig5"
+                        >5</orgName>+<orgName type="InfBrig7">7 InfBrig</orgName> zw.
+                            <placeName><settlement type="Stresetitz"
+                        >Stresetiz</settlement></placeName> + <placeName><settlement type="Problus"
+                            >Problus</settlement></placeName> on Stellung - Feind in Brigade Stärke
+                    in Stellung bei <placeName><settlement type="H700">Höhe
+                        700</settlement></placeName> (Inf + Kavallerie)</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_1SID_170.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

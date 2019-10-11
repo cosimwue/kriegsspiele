@@ -1,0 +1,15 @@
+Runde: 17
+Uhrzeit: 16:00
+Von: Oberkommando Elbarmee
+Von - Wo?: Jehlitz
+An: Infanteriedivision 14
+An - Wo?: Jehlitz-NiedPrim
+
+Nachricht:
+-> Schwachstelle Feind bei NiederPrim
+   erkannt
+-> jetzt Einsatz Artillerie massiv in
+   Richtung NiederPrim und versuchen
+   NiederPrim in Brand zu stecken
+-> Rückläufer sobald Möglichkeit zur
+   Verlegung Oberkommando nach Schäferei

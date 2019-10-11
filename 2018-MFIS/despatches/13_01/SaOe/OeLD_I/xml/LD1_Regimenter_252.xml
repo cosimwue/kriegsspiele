@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="LD1_Regimenter_252">
+        <pb facs="LD1_Regimenter_252.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="15">Runde: 15</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="14:42:00">14:42</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: Regimenter</label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?:</label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="2LKD">Fhr AUT KavDiv</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?:</label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Lagemeldung - <orgName type="DR1">1.</orgName> u. <orgName type="DR2">2.
+                        Rgt</orgName> im Marsch, z. Zt. ca 1200 Schritt nordostwärts
+                            <placeName><settlement type="Bibsko">Bibko</settlement></placeName> -
+                        <orgName type="HR5">5. Rgt</orgName> auf Linie <placeName><settlement
+                            type="Stösser">Stösser</settlement></placeName>-<placeName><settlement
+                            type="Charbusitz">Charbusitz</settlement></placeName> in Stellung -
+                        <orgName type="HR8">8. Rgt</orgName> mit 4 Eskadronen auf
+                            <placeName><settlement type="H711">Höhe711</settlement></placeName> bzw
+                    im Raum nördlich dieser Höhe - <orgName type="HR9">6.</orgName> in Stellung auf
+                    Linie <placeName><settlement type="Oberprim"
+                            >Oberprim</settlement></placeName>-<placeName><settlement
+                            type="Stezirek">Stezirek</settlement></placeName> - <orgName type="HR10"
+                        >10.</orgName> in Stellung NW <placeName><settlement type="Stezirek"
+                            >Stezirek</settlement></placeName></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="LD1_Regimenter_252.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

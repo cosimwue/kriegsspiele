@@ -1,0 +1,14 @@
+Runde: 10
+Uhrzeit: 13:20
+Von: Kdr ID15
+Von - Wo?: Waldrand südlich Brunnen-OberPrim
+An: Kdr ID15
+An - Wo?:
+
+Nachricht:
+Meldung:
++ Stellung am Waldrand auf Höhe
+  straße südlich Brunnen und südlich Ober-
+  Prim vollzugen.
+
+  * InfBtl. 40/65 vollzogen

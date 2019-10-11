@@ -1,0 +1,14 @@
+Runde: 13
+Uhrzeit: 14:30
+Von: ID15
+Von - Wo?: Waldstück 750 Südwärts OberPrim
+An: InfBrig 29
+An - Wo?: Waldrand südlich Brunnen/Oberprim
+
+Nachricht:
+ID14 greift von Westen richtung OberPrim
+	 an
+InfBrig 29 unterstütz Angriff flankierungen
+           von Süden auf OberPrim
+           um ID14 zu unterstützen
+           mit Deckungsfeuer aus dem Wald

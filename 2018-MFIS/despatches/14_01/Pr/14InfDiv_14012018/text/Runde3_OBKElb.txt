@@ -1,0 +1,12 @@
+Runde: 3
+Uhrzeit: 11:05
+Von: Oberkommando Elbarmee
+Von - Wo?: Nechanitz
+An: Führung Infanteriedivision 14
+An - Wo?: Nechanitz - Lubno
+
+Nachricht:
+- gibt ab drei Batterien Feldartillerie
+  aus Armee Artilleriereserve an
+  Avantgarde Elbarmee zur Stärkung
+  Nördlicher Flügel

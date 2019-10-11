@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_ResKavBri_361">
+        <pb facs="ElbOK_ResKavBri_361.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="6">Runde: 6</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="12:15:00">12:15</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="RKB">ResKavBri</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: freies Feld südlich
+                                <placeName><settlement type="Lubno"
+                        >Lubno</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OBK Elbarmee</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Nechanitz"
+                                >Nechanitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Meldung - <orgName type="RKB">ResKavBri</orgName> befindet sich auf freiem
+                    Feld südlich <placeName><settlement type="Lubno">Lubno</settlement></placeName>
+                    in Richtung NW <placeName><settlement type="Jehlitz"
+                        >Jehlitz</settlement></placeName> - keine Feindlage optisch - Formation:
+                        <orgName type="KR8">KR8</orgName> vorne + Fhr <orgName type="PLW"
+                        >PLW</orgName> folgend - im Vorausbereich Kavallerie <orgName type="ID14"
+                        >ID14</orgName> optisch </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_ResKavBri_361.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

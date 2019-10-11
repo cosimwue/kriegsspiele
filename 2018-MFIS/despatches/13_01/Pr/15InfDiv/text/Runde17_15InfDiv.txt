@@ -1,0 +1,13 @@
+Runde: 17
+Uhrzeit: 15:15
+Von: Vertr. ID 15
+Von - Wo?: TECHLOWITZ
+An: Kdr ID 15
+An - Wo?: dto.
+
+Nachricht:
+- Spitze der Div 500 Schritt vor
+  Kreuzung STEZIREK/STÖSSER
+- FDL Kräfte haben sich nach
+  STÖSSER zurückgezogen
+- Div wie befohlen entfaltet.

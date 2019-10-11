@@ -1,0 +1,12 @@
+Runde: 17
+Uhrzeit: 15:50
+Von: Kdr ID15
+Von - Wo?: T-Kreuzung 700 westl. Stez.
+An: InfBrig 29
+An - Wo?: südl. Waldr. OberPrim
+
+Nachricht:
+29 greift an hinein in Ortschaft OBERPRIM
+mit - InfBtl 40 west. Ortsteil
+    - InfBtl 65 ostw. - "" -
+  um Ort O.P. zu nehmen

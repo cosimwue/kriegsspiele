@@ -1,0 +1,13 @@
+Runde:
+Uhrzeit: 12:24
+Von: 1.InfDiv
+Von - Wo?: Höhe südwestl. Problus 400m 
+An: Armee Sächs AK
+An - Wo?: BOR
+
+Nachricht:
+
+- Esk KavRgt 1 abgegeben
+  an SächsKav. süd-östl.
+  Problus
+- Pos der Eskadronen unverändert

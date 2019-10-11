@@ -1,0 +1,15 @@
+Runde: 11
+Uhrzeit: 13:20
+Von: 2. InfDiv (sä)
+Von - Wo?: OSTWÄRTS NIEDERPIM
+An: SOK
+An - Wo?: PROBLUS
+Nachricht:
+Lageorientierung
+	- Feind tritt am Wald an Richtung
+		Norden auf OBERPRIM
+	- Eigene Kräfte in OBERPRIM im Feuerkampf
+
+Antrag: Ustg durch SOK Art (S5,S6)
+
+

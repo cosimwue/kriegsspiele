@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AvElb_AvantElb_315">
+        <pb facs="AvElb_AvantElb_315.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="15">Runde: 15</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="15:25:00">15:25</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Avantgard">Fkr
+                        Avantgard</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="H655">H
+                                655</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="ArtBttr1">ArtBttr.
+                    1</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="H686">H
+                                686</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">+ Antrag abgelehnt. + Wirkung wird durch andere Art sichergestellt, bzw.
+                    übernommen </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AvElb_AvantElb_315.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

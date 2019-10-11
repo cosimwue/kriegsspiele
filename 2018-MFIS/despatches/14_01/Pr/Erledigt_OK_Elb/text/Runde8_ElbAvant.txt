@@ -1,0 +1,16 @@
+Runde: 8
+Uhrzeit: 12:40
+Von: Elb Avantg
+Von - Wo?: Höhe 680
+An: OBK
+An - Wo?: Bttr. ostw. Höhe 657
+
+Nachricht:
++ Abspr mit ID15 1 Batterie an Avantgarde zu unterstellen *1
++ Abgabe der 7. berittenen Art an KavBrig GOLTZ,
+  danach VerbAufn. der Kräfte selbstst. bei TECHLOWITZ
+*1 Art ist bei NEU-PRIEM und wirkt auf VerbStraße
+   JEHLITZ-OBERPRIEM
++ Fd: - 2InfBtl in NIEDERPREIM(R.: W) Art bei li PROBLUS(R.: W)
+      - 2 ""    in PROBLUS(R.: W)
++ Eig: 17;28;33;40;8 unverändert, eig StO: Höhe 655 bei 33+40

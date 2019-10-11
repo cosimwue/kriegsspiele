@@ -1,0 +1,14 @@
+Runde: 1
+Uhrzeit: 10:00
+Von: OBK Elbarmee
+Von - Wo?: Nechanitz
+An: Kavalleriebrigade Goltz
+An - Wo?: Hradek
+
+Nachricht:
+- klärt auf südl. Flanke, Raum
+  TECHLOWITZ
+- bildet Auffangstellung im Raum
+  TECHLOWITZ/Radikowitz
+- fängt auf fdl. Gegenstoß aus dem Raum
+  TECHLOWITZ

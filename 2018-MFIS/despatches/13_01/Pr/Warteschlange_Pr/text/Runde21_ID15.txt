@@ -1,0 +1,16 @@
+Runde: 21
+Uhrzeit: 16:28
+Von: ID15
+Von - Wo?: Höhe 717
+An: Art ID15 + IR 40
+An - Wo?: Höhe 717
+
+Befehl:
+
+Sobald fdl. Artilleriefeuer aufhört oder
+eigene Inf. ID15 im Nahkampf
+steht, verlegen Sie an den nördl.
+Rand von Stösser!
+
+An den Vertrauten: Kdo ID15 verlegt bei
+Abrücken der Art Richtung nördl. Spitze eigener Inf.

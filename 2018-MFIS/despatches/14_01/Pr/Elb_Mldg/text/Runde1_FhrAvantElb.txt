@@ -1,0 +1,13 @@
+Runde: 1
+Uhrzeit: 10:05
+Von: Fhr Avantgarde Elb
+Von - Wo?:
+An:
+An - Wo?:
+
+Nachricht: Feindmeldung
+InfBtl - Problus 2,1km NW Ortsausgang [NW]
+InfBtl - Problus 1,9km W Ortsausgang [W]
+InfKp - Nied. Prim 1,4km N in Ortschaft w. blickweg Problus [W]
+InfKp - Nied. Prim 1,6km N in Ortschaft o. blickweg Problus [W]
+2 Bttr (+) - zw Problus Nied. Prim 2km Entlang südl. Verbindungsstraße [W]

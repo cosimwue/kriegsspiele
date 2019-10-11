@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="ausgangsbefehl" xml:id="ResKav_AusgBef_095">
+        <pb facs="ResKav_AusgBef_095.pdf"/>
+        <front/>
+        <body>
+            <div type="text_vor">
+                <head type="einheit"><orgName type="ResKavBrig"
+                    >Reservekavalleriebrigade</orgName>:</head>
+                <p> Folgt zunächst der <orgName type="Avantgarde">Avantgarde Elbarmee</orgName>,
+                    stellt sich darauf ein, Flankenschutz nach SO zu stellen, sowie
+                    liegengebliebenen Angr <orgName type="Avantgarde">Avantgarde Armee</orgName> bei
+                    Bedarf fortzutragen. Bleibt daher zunächst ungebunden. </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ResKav_AusgBef_095.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

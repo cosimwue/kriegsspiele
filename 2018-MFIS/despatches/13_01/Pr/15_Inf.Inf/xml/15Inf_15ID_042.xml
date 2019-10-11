@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="Inf15_15ID_042">
+        <pb facs="15Inf_15ID_042.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="none">Runde:</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="00:00:00"/></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID15">15.ID</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: </label></p>
+                <p n="5"><label type="to">An: <orgName type="IR28">IR 28</orgName>
+                        <orgName type="IR68">IR 68</orgName>
+                        <orgName type="IR65">IR 65</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?:</label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Befehl: Nach Passieren von <placeName><settlement type="Techlowitz"
+                            >Techlowitz</settlement></placeName> über den Weg am südlichen Waldrand
+                    entfalten Sie alle Ihre Bataillone in Angriffskolonne *1 s. umseitig
+                    _________________________________ Bei Passieren der Kreuzung zwischen
+                            <placeName><settlement type="Techlowitz"
+                        >Techlowitz</settlement></placeName> und <placeName><settlement
+                            type="Stösser">Stösser</settlement></placeName> wendet sich das <orgName
+                        type="IR28">28. IR</orgName> Richtung <placeName><settlement type="Stösser"
+                            >Stösser</settlement></placeName> und geht mit vorgezogenen
+                    Schützenzügen in Stellung. <orgName type="IR68">IR 68</orgName> folgend
+                    Artillerie, dann <orgName type="IR65">IR 65</orgName> marschieren in
+                    Angriffskolonne weiter Richtung <placeName><settlement type="Stezirek"
+                            >Stezirek</settlement></placeName>. *2 s. umseitig Wenn <orgName
+                        type="ID15">15ID</orgName> mit angegliederter Artillerie die Kreuzung
+                    passiert hat, schließt <orgName type="IR28">IR 28</orgName> sich an! </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="15Inf_15ID_042.pdf"/>
+                <head/>
+                <p><span type="sketch">(Skizze)</span></p>
+            </div>
+        </body>
+    </text>
+</TEI>

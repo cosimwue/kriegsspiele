@@ -1,0 +1,12 @@
+Runde: 5
+Uhrzeit: 11:25
+Von: OBK
+Von - Wo?: Höhe 657
+An: alle Fhr
+An - Wo?: Anhang zu Einzelmldgen
+
+Nachricht:
+- Stab verlegt jetzt nach Osten
+- nächstes Sprungziel "BATTERIE"
+	700 ostwärts Höhe 657
+- ETA Runde 7

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="Inf15_Kdo15ID_048">
+        <pb facs="15Inf_Kdo15ID_048.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="20">Runde: 20</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="16:21:00">16:21</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KdrID15">Kdo ID15</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?:</label></p>
+                <p n="5"><label type="to">An: <orgName type="VertrID15">Vertr ID15</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?:</label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Ich bleibe auf <placeName><settlement type="H717">Höhe
+                        717</settlement></placeName>. Bedroht mich fdl. Artilleriefeuer verlege ich
+                    Richtung N an den Waldrand nahe Kreuzung <placeName><settlement type="Stezirek"
+                            >Stezirek</settlement></placeName>/<placeName><settlement type="Stösser"
+                            >Stösser</settlement></placeName></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="15Inf_Kdo15ID_048.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

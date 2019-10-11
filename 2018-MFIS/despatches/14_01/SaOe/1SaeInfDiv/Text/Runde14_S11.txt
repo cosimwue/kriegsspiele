@@ -1,0 +1,10 @@
+Runde: 14
+Uhrzeit: 14:50
+Von: S11
+Von - Wo?: uv
+An: Kdr 1.InfDiv
+An - Wo?: uv
+
+Nachricht:
+Verluste: 1 Kompanie
+-> aufgefüllt durch Jägerbtl. 3

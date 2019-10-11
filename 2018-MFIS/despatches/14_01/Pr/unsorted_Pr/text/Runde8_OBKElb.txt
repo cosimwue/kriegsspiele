@@ -1,0 +1,13 @@
+Runde: 8
+Uhrzeit: 12:45
+Von: Oberkommando Elbarmee
+Von - Wo?: Höhe Batterie
+An: alle Führer Elbarmee
+An - Wo?:
+
+Nachricht:
+OBK verlegt gegenwärtig (ab sofort)
+von eigener Position nach
+Jehlitz (Ortsmitte/Kreuzung)
+
+ETA: Runde 11

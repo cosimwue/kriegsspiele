@@ -1,0 +1,15 @@
+Runde: 19
+Uhrzeit: 16:05
+Von: Kdr SAC Kav Div
+Von - Wo?: unverändert
+An: Alle Kr SAC Kav Div
+An - Wo?: gem. Bef.
+
+Nachricht:
+
+Geben Sie Lagemeldung.
+Struktur: - KpfKr
+		  - FdLg
+		  - Standort
+
+		  		gez. (Unterschrift)

@@ -1,0 +1,13 @@
+Runde: 1
+Uhrzeit: 10:10
+Von: ID15
+Von - Wo?: 400 ostwärts HRADEK
+An: InfBrig 39
+An - Wo?: 400 m ostwärts HRADEK
+
+Nachricht:
+Marschiert in das Waldstück Richtung Osten
+- Bis auf Höhe Verbindungsstraße
+  OberPrim-Techlowitz nordlich Höhe 175
+- Sichert an Waldkante südlich BRUNNEN
+  bis Weg südlich OberPrim verbindungsstraße

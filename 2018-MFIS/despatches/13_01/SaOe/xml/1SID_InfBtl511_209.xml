@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SID1_InfBtl511_209">
+        <pb facs="1SID_InfBtl511_209.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="16">Runde: 16</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="00:00:00"/></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="InfBtl5">5.</orgName> - <orgName
+                            type="InfBtl11">11. Inf Btl.</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: ZWISCHEN <placeName><settlement
+                                type="Stresetitz"
+                                >STRESETITZ</settlement></placeName>-<placeName><settlement
+                                type="Problus">PROBLUS</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="ID1">1. INF DIV SACHSEN</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: SÜDLICH <placeName><settlement type="Problus"
+                                >PROBLUS</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> EIGENE ARTILLERIE VERNICHTET HALB BATTALLON <orgName type="InfBtl5"
+                        >5.</orgName>
+                    <orgName type="InfBtl6">6.</orgName>
+                    <orgName type="InfBtl7">7.</orgName>
+                    <orgName type="InfBtl8">8. InfBtl</orgName> ZWISCHEN <placeName><settlement
+                            type="Stresetitz">STRESETITZ</settlement></placeName>-
+                            <placeName><settlement type="Problus">PROBLUS</settlement></placeName>
+                    -> BEKAMPFEN PREUß INFBTL MIT GUTER WIRKUNG -> EIGENE VERLUSTE GERING BW.
+                    gemeldet 15:14 </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="1SID_InfBtl511_209.pdf"/>
+                <head/>
+                <p><orgName type="InfBtl10">10.</orgName>+<orgName type="InfBtl11">11.
+                        INFBTL</orgName> BEKÄMPFEN PREUß INFBTL - INSGESAMT 3,5 FEINDLICHE INFBTL
+                    AUF EIGENE STELLUNGEN IN ANGRIFF - STELLUNG KANN GEHALTEN WERDEN - ARTILLERIE +
+                    INFANTERIE GREIFT WEITER AN</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,14 @@
+Runde: 8
+Uhrzeit: 12:25
+Von: HR11
+Von - Wo?: 200 O-wärts Radikowitz
+An: OBK
+An - Wo?: "Batterie"
+
+Nachricht:
+- feindl. Kav.patrouille aufgeklärt am
+  W-lich Ortsrand v. Techlowitz
+- Feind weicht O-wärts aus
+- HR11 nimmt Verfolgung auf mit
+  1. Eskadron. Abbruch bei 800 O-wärts
+  Techlowitz befohlen

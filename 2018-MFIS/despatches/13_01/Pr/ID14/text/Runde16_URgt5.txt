@@ -1,0 +1,15 @@
+Runde: 16
+Uhrzeit: 14:55
+Von: URgt 5
+Von - Wo?: Ostausläufer Wald südl. JEHLITZ
+An: InfDiv 14
+An - Wo?: HRADEK
+
+Nachricht:
+Eigen STO: 500 südl. JEHLITZ
+		   Waldausgang
+Meldung: KEINE Fd-Aufkl. im
+         Raum NEU-PRIM und
+         südl. davon im Wald
+3a) weiterer Aufklärung Richtung NEU-PRIM
+	u. Aufklärung NEU-PRIM und ostwärts dazu.

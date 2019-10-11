@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_14ID_379">
+        <pb facs="ElbOK_14ID_379.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="12">Runde: 12</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:05:00">14:05</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID14">InfDiv
+                    14</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: zw. <placeName><settlement
+                                type="Jehlitz">Jehlitz</settlement></placeName> und
+                                <placeName><settlement type="Schäferei">Höhe
+                            Schäferei</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OBK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Jehlitz"
+                                >Jehlitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"><orgName type="IB27">InfBrig 27</orgName>: - 3Btl nebeneinander, 2Btl
+                    dahinter in Angriffsformation bewegen sich weiter auf Angriffsachse - <orgName
+                        type="DivArt">DivArt</orgName>(3Btr) am westl. Ostrand
+                            <placeName><settlement type="Jehlitz">Jehlitz</settlement></placeName>
+                    auf dem Marsch, <orgName type="IB28">Brig 28</orgName> in Marschkolonne folgend
+                    - 5 Btr Art (aus <orgName type="ArtRes">ArmeeRes</orgName>) auf dem Marsch bei
+                    Batterie 1100 südlich <placeName><settlement type="Lubno"
+                        >LUBNO</settlement></placeName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_14ID_379.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

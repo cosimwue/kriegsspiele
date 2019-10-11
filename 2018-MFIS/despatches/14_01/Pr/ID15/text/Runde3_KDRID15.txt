@@ -1,0 +1,13 @@
+Runde: 3
+Uhrzeit:
+Von: Kdr ID15
+Von - Wo?: Wiesenabschnitt 900m nord-östlich von Hradek
+An: Kdr ID15
+An - Wo?: ""
+
+Nachricht:
+Feindmeldung
++ Kavalleriepatrouille auf Höhe(660) nördlich von
+  NeuPrim
++ Kavalleriepatrouille an südöstlichem Rand
+  von Brunnen

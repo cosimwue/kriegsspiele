@@ -1,0 +1,32 @@
+Runde: 1
+Uhrzeit: 11:00
+Von: ÖLD 1
+Von - Wo?: 300 Schritt südl. STEZIREK 
+An: OK
+An - Wo?: BOR
+
+Nachricht: Lagemledung ÖLD 1
+
+Brig Appel
+- auf dem Marsch Richtung Stösser
+- Spitzen ndl. STEZIREK
+  auf Straße STEZIREK-PROBLUS
+- 2''' vorn, 9''' folgt
+- Ziel: NW STÖSSER
+
+Wallis
+- Spitzen sdl. CHARBUSITZ
+- auf dem Marsch
+  Richtung Stösser
+- 1''' auf Straße sdl.
+  CHARBUSITZ
+- 10''' auf Str ROSNITZ-
+  STEZIREK
+- Ziel: SO STÖSSER
+
+Frat
+- Stg sdl STEZIREK
+- übw nach S
+- mit 1 Eskadron in TECHLOWITZ
+
+

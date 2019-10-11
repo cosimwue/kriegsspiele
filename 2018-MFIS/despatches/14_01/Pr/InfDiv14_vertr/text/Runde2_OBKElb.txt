@@ -1,0 +1,12 @@
+Runde: 2
+Uhrzeit: 10:15
+Von: OBK Elbarmee
+Von - Wo?: NECHANITZ
+An: alle
+An - Wo?:
+
+Nachricht:
+- OBK verlegt von NECHANITZ
+  nach Höhe 657 (sostw NECHANITZ
+                 sw    LUBNO)
+- ETA 5 Runden

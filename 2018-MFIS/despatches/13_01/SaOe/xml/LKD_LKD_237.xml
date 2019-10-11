@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="LKD_LKD_237">
+        <pb facs="LKD_LKD_237.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="16">Runde: 16</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="15:20:00">15:20</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="LKD">ÖLD 1</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: <placeName><settlement type="Stösser"
+                                >Stösser</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="BrigAppel">Appel</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: 1200 SW <placeName><settlement type="Stösser"
+                                >Stösser</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> sofort <orgName type="DR2">2'''</orgName> in Stg im Zuge SO
+                            <placeName><settlement type="Stösser">Stösser</settlement></placeName>
+                    zurücknehmen. Dort vorbr. auf Angriff. Auf Befehl Angriff re von <orgName
+                        type="BrigWallis">Wallis</orgName> mit <orgName type="DR2">2'''</orgName>
+                    vorn, <orgName type="HR9">9'''</orgName> folgt.</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="LKD_LKD_237.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

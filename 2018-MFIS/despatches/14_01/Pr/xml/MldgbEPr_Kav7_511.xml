@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="MldgbEPr_Kav7_511">
+        <pb facs="MldgbEPr_Kav7_511.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="17">Runde: 17</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="00:00:00"/></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Kav7">Kavallerie
+                    7</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: südlich von <placeName><settlement
+                                type="Oberprim">Ober Prim</settlement></placeName>
+                    Waldrand</label></p>
+                <p n="5"><label type="to">An: <orgName type="KdrID15">Kdr. ID15</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: 1000 Meter süd-östlich von
+                                <placeName><settlement type="Oberprim">Ober
+                            Prim</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - Straße durch Schützenlinien <orgName type="63II">InfBtl. 63/II</orgName>
+                    (stehen unter Feuer) blockiert. - Folgen von <orgName type="InfBtl40">Inf.Btl.
+                        40</orgName> nicht möglich</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="MldgbEPr_Kav7_511.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

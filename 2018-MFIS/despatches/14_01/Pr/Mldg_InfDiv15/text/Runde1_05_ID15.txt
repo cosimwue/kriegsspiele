@@ -1,0 +1,9 @@
+Runde: 1
+Uhrzeit:
+Von: ID15
+Von - Wo?: 400 m ostwärts HRADEK
+An: Führer ID15
+An - Wo?: 400 m ostwärts HRADEK
+
+Nachricht:
+Führer folgt InfBtl 65

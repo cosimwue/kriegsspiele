@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AvantPr_AvanElb_075">
+        <pb facs="AvantPr_AvanElb_075.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="16">Runde: 16</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="15:01:00">15:01</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Avantgarde">Avantgarde
+                            ElbA</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?:</label></p>
+                <p n="5"><label type="to">An: <orgName type="PSLR">Pommersche
+                        Landwehr</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?:</label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Befehl: - stellt sich darauf ein, auf Befehl "HUSAR" Kavallerieangriff
+                        <orgName type="KR8">Kürassierregiment 8</orgName> auf linkem Flügel des
+                    Feindes südlich <placeName><settlement type="Stresetitz"
+                        >STRESETITZ</settlement></placeName> zu unterstützen - eingetroffene
+                    Fußartillerie bezieht Feuerstellungsraum bei <placeName><settlement type="H700"
+                            >Höhe 700</settlement></placeName> so, dass mit FeuerSP auf feindliche
+                    Artillerie SW <placeName><settlement type="Problus"
+                        >PROBLUS</settlement></placeName> gewirkt werden kann - <orgName type="PSLR"
+                        >PL</orgName> verlegt derzeitigen StO 500 Schritt W <placeName><settlement
+                            type="Stresetitz">STRESETITZ</settlement></placeName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AvantPr_AvanElb_075.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

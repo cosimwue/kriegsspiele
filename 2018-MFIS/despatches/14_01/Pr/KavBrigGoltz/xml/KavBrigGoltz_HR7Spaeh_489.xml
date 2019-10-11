@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavBrigGoltz_HR7_Spaeh_489">
+        <pb facs="KavBrigGoltz_HR7_Spaeh_489.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="17">Runde: 17</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="16:00:00">16:00</time></label></p>
+                <p n="3"><label type="from">Von: Spähtrupps <orgName type="HR7"
+                        >HR7</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: SW <placeName><settlement type="Stösser"
+                                >STÖSSER</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="KBG">Kdr KavBrig
+                        GOLTZ</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?:</label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Ankunft 18 - >4 InfBtl in <placeName><settlement type="Stösser"
+                            >STÖSSER</settlement></placeName> (gesamte Breite Ortschaft) - ArtBttr
+                    zw <placeName><settlement type="Stösser">STÖSSER</settlement></placeName> u.
+                            <placeName><settlement type="Stezirek">STEZIREK</settlement></placeName>
+                    - 1 InfBtl Ostrand <placeName><settlement type="Stezirek"
+                        >STEZIREK</settlement></placeName> - 5 KavRgt von Westrand
+                            <placeName><settlement type="Charbusitz"
+                        >CHARBUSITZ</settlement></placeName> nach WNW; Ausdehnung circa 1100 </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavBrigGoltz_HR7_Spaeh_489.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

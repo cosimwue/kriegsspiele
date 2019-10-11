@@ -1,0 +1,11 @@
+Runde: 10
+Uhrzeit: 13:05
+Von: S11, S12, Artillerie
+Von - Wo?:
+An: Kdr. 1.InfDiv
+An - Wo?: 
+
+Nachricht:
+- Feindl. Artillerie auf
+Höhe 686 baut auf (2 Batterie)
+- Feuer eröffnet

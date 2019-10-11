@@ -1,0 +1,32 @@
+Runde: 2
+Uhrzeit: 12:02
+Von: OK Avang. Elb-Arme
+Von - Wo?: Höhe 702
+An: alle unterstellten Tle 1. Elb-Arme
+An - Wo?: UfgR Wald
+
+Befehl:
+
+F: 5 Btl.(1 Brig) S STRESETITZ
+   2 Btl NW       PROBLUS
+   2 Bttr Art SW  PROBLUS
+   2 Btl NW NIED.PRIM an Ortsgrenze
+   -> eigene Tr wurde aufgeklärt, sobald wir Wald verlassen
+N: ziehe 2xFAR auf schnellsten Wege an Hinterhang
+         4x berittene ArtReg Höhe 700 in FStg mit Feuer SP
+                             fdl. Art bei PROBLUS
+
+A: Avang. ElbArmee greift an mit JgBtl 8 (schnellste Geschw.) voraus
+   als GefAufkl, alle InfBtl, im Abstand 1000 Schritt in
+   Armeekeil folgend, auf Achse nördlich ans Waldstück,
+   westlich dann nördlich an Hinterhang Höhe 700, weiter
+   Richtung hart nördlich STRESETITZ, dan eindrehen Richtung
+   Süd -> Attacke auf rechte Flanke und Rücken
+   des Feindes zwischen STRESETITZ u. PROBLUS
+
+   Ich befinde mich hinter FüssilBtl InfReg 17.
+
+   Entfaltung: (Skizze) zunächst Marschkolonne bis STRESETITZ
+   						ab da in vorgezogenen Schutzlinien
+
+   						(Unterschrift) Avang Elb-Armee

@@ -1,0 +1,11 @@
+Runde: 8
+Uhrzeit: 12:35
+Von: 2. InfDiv(Sä)
+Von - Wo?: Ostwärts NIEDERPRIM
+An: JgBtl 4
+An - Wo?: OBERPRIM
+
+Nachricht:
+JgBtl 4 verteidigt weiter in
+OBERPRIM neuer Schwerpunkt
+Richtung Süden und Süd-Osten

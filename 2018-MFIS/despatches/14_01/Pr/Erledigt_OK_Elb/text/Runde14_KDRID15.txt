@@ -1,0 +1,14 @@
+Runde: 14
+Uhrzeit:
+Von: Kdr ID15
+Von - Wo?: Hügel 750 im Wald
+An: OBK
+An - Wo?: Jehlitz
+
+Nachricht: Eigene Kräfte
+Waldrand von 400m südlich Brunnen bis
+300m westlich <- Stezirek in Stellung
+Feind in OberPrim West in Stellung
+	  Östliches OberPriem Artillerie
+	  Weiter 3 Btl zw. OberPriem und Stetzirek
+	  auf Freifläche (unverändert)

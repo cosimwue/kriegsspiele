@@ -1,0 +1,15 @@
+Runde: 13
+Uhrzeit: 14:35
+Von: Fhr ResKavBri
+Von - Wo?: südl. NeuPrim
+An: ResKavBri
+An - Wo?: südl. NeuPrim
+
+Nachricht:
+Befehl:
+	- Marsch Waldstück/ Koordination
+	  mit InfDiv 15 vor Ort
+	- Angriff aus Waldstück Ostwärts
+	  Oberprim
+	- anschl. Höhe 780 südl. Problus
+	  nehmen

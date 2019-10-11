@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="MldgbEPr_KBG_513">
+        <pb facs="MldgbEPr_KBG_513.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="17">Runde: 17</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="16:00:00">16:00</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KBG">KavBrig
+                    GOLTZ</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: 500 w-lich <placeName><settlement
+                                type="H717">Höhe 717</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OBK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Jehlitz"
+                                >Jehlitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - Aufklärung ergibt: <placeName><settlement type="Bibsko"
+                            >BIBSKO</settlement></placeName> feindfrei - 4 Btl Inf, in Stg
+                            <placeName><settlement type="Stösser">STÖSSER</settlement></placeName> 1
+                    Btl Ostausläufer <placeName><settlement type="Stezirek"
+                        >STEZIREK</settlement></placeName> 1 Btl Art nördlich Westrand
+                            <placeName><settlement type="Stösser">STÖSSER</settlement></placeName> -
+                            <placeName><settlement type="Charbusitz"
+                        >CHARBUSITZ</settlement></placeName> nach NW; <orgName type="4KavRgt">4
+                        KavRgt</orgName> in Stellung</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="MldgbEPr_KBG_513.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

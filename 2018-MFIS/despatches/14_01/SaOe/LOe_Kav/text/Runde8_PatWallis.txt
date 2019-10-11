@@ -1,0 +1,12 @@
+Runde: 8
+Uhrzeit: 12:35
+Von: PATROUILLE WALLIS (LKD Ö)
+Von - Wo?: Im Wald östl. Anhöhe in der Mitte
+An: BRIG WALLIS
+An - Wo?: ö OBERPRIM
+
+Nachricht:
+aktiv Runde 9
+- 2x InfBat + rückt in Wald Richtung Osten vor
+- Aufkl.Pat. zieht sich Richtung OBERPRIM
+  zurück

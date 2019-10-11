@@ -1,0 +1,13 @@
+Runde: 19
+Uhrzeit: 16:10
+Von: OK SAC
+Von - Wo?: Bor
+An: 1. ÖLD
+An - Wo?: Stösser
+
+Nachricht:
+
+- Mit Meldung + Absicht aus Runde 16
+  einverstanden
+- Meldung des Div Kdr auf OK SAC
+  nicht mehr nötig

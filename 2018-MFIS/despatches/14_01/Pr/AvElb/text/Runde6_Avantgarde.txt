@@ -1,0 +1,9 @@
+Runde: 6
+Uhrzeit: 12:05
+Von: Avantgarde
+Von - Wo?: 1500m S Popowitz, Höhe 680
+An: 28F
+An - Wo?: Waldstück Popowitz/Problus
+
+Nachricht:Kdr Avantgarde befindet sich nun
+1500ms von Popowitz, Höhe 680.

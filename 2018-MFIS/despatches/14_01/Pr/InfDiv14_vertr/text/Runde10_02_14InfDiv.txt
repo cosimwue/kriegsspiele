@@ -1,0 +1,12 @@
+Runde: 10
+Uhrzeit: 12:10
+Von: 14. InfDiv
+Von - Wo?: Jehlitz
+An: InfBrig 28
+An - Wo?: Jehlitz
+
+Nachricht:
+Verstärkt Angriff von InfBrig 27 auf Angriffsachse
+Jehlitz-NeuPrim-zwischen Nieder und OberPrim
+auf Bor; nimmt dazu Aufstellung hinter InfBrig 27
+mit zwei Rgt in Linie.

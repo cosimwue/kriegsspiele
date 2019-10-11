@@ -1,0 +1,14 @@
+Runde: 13
+Uhrzeit: 14:30
+Von: Rgt 7
+Von - Wo?: 500 Ostwärts
+An: Kdr KavBrig GOLTZ
+An - Wo?: 500 Nord TECHLOWITZ
+
+Nachricht:
+Ankunft 14
+- Info von selbstst Eskadron Rgt 11 über Fd bei
+  STÖSSER
+- verbleibe mit Rgt 600 ostwärts TECHLOWITZ
+- kläre mit 3 Patrouillen Richtung STEZIREK,
+  STÖSSER, BIBSKO auf

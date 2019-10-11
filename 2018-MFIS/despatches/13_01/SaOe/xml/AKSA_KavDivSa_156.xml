@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_KavDivSa_156">
+        <pb facs="AKSA_KavDivSa_156.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="2">Runde: 2</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="11:25:00">11:25</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="KavDivSa">SAC KAV</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: unverändert </label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="SOK">ArmeeKd</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Lagemeldung GefStd: Stg zw <orgName type="KR2">2.</orgName>/<orgName
+                        type="KR3">3. Rgt</orgName> -> 900 Schritt NO <placeName><settlement
+                            type="Oberprim">Ober-Prim</settlement></placeName>
+                    <orgName type="GKR">1. KavRgt</orgName>: <orgName type="EskIII"
+                        >III</orgName>/<orgName type="EskIV">IV Esk</orgName> geführt durch <orgName
+                        type="ID1">SAC InfDiv 1</orgName>
+                    <orgName type="EskI">I</orgName>/<orgName type="EskII">II Esk</orgName> geführt
+                    durch <orgName type="ID2">SAC InfDiv 2</orgName> -> siehe ustg/abg. Befehl
+                        <orgName type="SOK">ArmeeKdo</orgName> - 1 weitere Esk als GefAufkl 900
+                    Schritt NW <placeName><settlement type="Problus">POPLUS</settlement></placeName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_KavDivSa_156.pdf"/>
+                <head/>
+                <p>+ korrigiert</p>
+            </div>
+        </body>
+    </text>
+</TEI>

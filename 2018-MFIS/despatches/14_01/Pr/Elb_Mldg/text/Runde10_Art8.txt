@@ -1,0 +1,12 @@
+Runde: 10
+Uhrzeit: 13:12
+Von: Art 8 2.Bttr
+Von - Wo?: Höhe 686 Süd
+An: Fhr Avant Gard
+An - Wo?: Höhe 655 Wäldchen
+
+Nachricht:
+M: 1 geschütz durch Fdl Art bei 2. Bttr zerstört
+   Ausfälle weiter erwartet
+Eig: eröffnen Feuer auf westl. InfBtl
+     NiederPrims mit 1.+2. Bttr

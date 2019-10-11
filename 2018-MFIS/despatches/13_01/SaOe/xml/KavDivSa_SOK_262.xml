@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavDivSa_SOK_262">
+        <pb facs="KavDivSa_SOK_262.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="none">Runde:</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="11:12:00">11:12</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="SOK">Sächs AK</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="KavDivSa">SächsKavDiv</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: im Raum KavBrig 1/2</label>
+                </p>
+            </div>
+
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Wo ist ihr Gefechtsstand? Denken Sie daran, dass Sie auch das <orgName
+                        type="KavRgt1">KavRgt 1</orgName> hart ostw <placeName><settlement
+                            type="Niederprim">Niederprim</settlement></placeName> führen. Es hat 3
+                    Esk. </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavDivSa_SOK_262.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,12 @@
+Runde: 6
+Uhrzeit: 12:15
+Von: Kdr ID15
+Von - Wo?: Wald 1100 südl. BRUNNEN
+An: DivArt Div15
+An - Wo?: süd. NEU PRIM
+
+Nachricht: DivArt:
+- Marschiert auf Waldweg nach OSTEN
+  und folgt InfBtl 65 um letztend-
+  lich aus Wald auf Weg 700 westlich
+  STEZIREK herauszutreten

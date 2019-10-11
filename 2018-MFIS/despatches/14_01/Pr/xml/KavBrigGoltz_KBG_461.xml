@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavBrigGoltz_KBG_461">
+        <pb facs="KavBrigGoltz_KBG_461.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="1">Runde: 1</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="09:50:00">09:50</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KBG">KavBrig
+                    Goltz</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: S-lich <placeName><settlement
+                                type="SchlossHradek">Schloss
+                    Hradek</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="HR11">Husarenreg.
+                    11</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: S-lich <placeName><settlement
+                                type="SchlossHradek">Schloss
+                    Hradek</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"><orgName type="HR11">Husarenreg. 11</orgName> verlegt im Galopp in Lichtung
+                    N-lich <placeName><settlement type="Techlowitz"
+                        >Techlowitz</settlement></placeName> und hält sich dort bereit, feindl.
+                    Gegenangriff über <placeName><settlement type="Techlowitz"
+                            >Techlowitz</settlement></placeName>-<placeName><settlement
+                            type="Radikowitz">Radikowitz</settlement></placeName> in die Flanke zu
+                    fallen <span type="sketch">Skizze</span> umseitig! </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavBrigGoltz_KBG_461.pdf"/>
+                <head/>
+                <p>
+                    <orgName type="Vertrauter">Vertrauter</orgName>: 10 Runden bis
+                            <placeName><settlement type="Techlowitz"
+                        >Techlowitz</settlement></placeName> (<span type="sketch">Skizze</span>)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

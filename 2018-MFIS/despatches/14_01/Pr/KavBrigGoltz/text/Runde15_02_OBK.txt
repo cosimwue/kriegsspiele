@@ -1,0 +1,19 @@
+Runde: 15
+Uhrzeit: 15:10
+Von: KB Goltz
+Von - Wo?: 400 N-lich Techlowitz
+An: Batterie 1,2,3
+An - Wo?: 800 SO-lich Hradek
+
+Nachricht:
+Lageänderung - neue Befehle OBK:
+________________________________
+- Batt. 1,2,3 verlegen zu Höhe 717
+  900 NW-lich Bibsko, die durch 4
+  Esk. HR 7 genommen werden
+- Stellung beziehen mit Feuerrichtung
+  N-NO
+
+Rückseite
+- im Raum Stösser insg. 2,5 (25?) fdl.
+  Esk Kavallerie

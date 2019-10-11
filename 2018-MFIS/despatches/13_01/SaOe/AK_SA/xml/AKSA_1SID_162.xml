@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_1SID_162">
+        <pb facs="AKSA_1SID_162.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="10">Runde: 10</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="13:10:00">13:10</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="ID1">1. Sächs Inf Div</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: südl. <placeName><settlement type="Problus"
+                                >Problus</settlement></placeName>
+                    </label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="SOK">Sächs AK</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <placeName><settlement type="Bor"
+                                >BAR</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> eigene ArtillerieKräfte eröffnen bei Feind in Reichweite (1800 Schritt)
+                    Selbstständig das Feuer</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_1SID_162.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

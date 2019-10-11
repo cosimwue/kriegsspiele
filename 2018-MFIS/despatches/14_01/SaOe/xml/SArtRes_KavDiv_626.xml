@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SArtRes_KavDiv_626">
+        <pb facs="SArtRes_KavDiv_626.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="18">Runde: 18</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="16:15:00">16:15</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KavDivSa"
+                    >KavDiv</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: ostw. <placeName><settlement
+                                type="Niederprim">Niederprim</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="S2">S2</orgName> + <orgName type="SG"
+                            >SG</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Stresetitz"
+                                >Stresetitz</settlement></placeName>(vermutl.)</label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> schnellstmögliches Vorrücken Richtung Westen(<placeName><settlement
+                            type="Popowitz">Popowitz</settlement></placeName>), um auftretenden Fd
+                    sofort flankierend zu bekämpfen.</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="SArtRes_KavDiv_626.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

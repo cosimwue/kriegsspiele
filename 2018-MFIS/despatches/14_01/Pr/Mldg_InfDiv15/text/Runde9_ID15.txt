@@ -1,0 +1,13 @@
+Runde: 9
+Uhrzeit: 12:50
+Von: ID15
+Von - Wo?: 750 Südwest Oberprim
+An: InfBrig 30
+An - Wo?: Auf Verbindungsstraße Ober Prim-Techlowitz
+
+Nachricht:
+- InfBtl 28: marschiert nach Osten bis an ostw.
+  Waldkante; südl. STEZIREK um da aufzuklären
+- InfBtl 68: nimmt Waldkante westl.
+             STEZIREK um von dort nach
+             NORDEN aufzuklären

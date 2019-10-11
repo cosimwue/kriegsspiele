@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SOK_1SID_689">
+        <pb facs="SOK_1SID_689.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="15">Runde: 15</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="15:25:00">15:25</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KdrID1">1. InfDiv Kdr</orgName>
+                    </label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="HQ"
+                                >HQ(u)</settlement></placeName>
+                    </label></p>
+                <p n="5"><label type="to">An: <orgName type="SOK">SOK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="HQ">HQ
+                                (u)</settlement></placeName></label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Fd-Mldg: - Aus <placeName><settlement type="Neuprim"
+                            >NeuPrim</settlement></placeName> -massiv Fd, 2 Inf Btl vm - im Angr Ri
+                    O, vmtl fdl Hauptstoß __________________________________ -A: - unverändert -
+                        <orgName type="ArtBat3">Art Bat 3</orgName>,<orgName type="ArtBat5"
+                        >5</orgName> &amp; <orgName type="ArtBat6">6</orgName> werden in <orgName
+                        type="ID2">2. InfDiv</orgName> eingeglied - <orgName type="ArtBat4">Art Bat
+                        4</orgName> werden in <orgName type="ID1">1. InfDiv</orgName> eingeglied
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="SOK_1SID_689.pdf"/>
+                <head/>
+                <p> Zusätzliche Fd Mldg: - 3 Batterien Fußartillerie - jetzt w.
+                            <placeName><settlement type="Lubno">LUBNO</settlement></placeName> und
+                            <placeName><settlement type="Popowitz">POPOWITZ</settlement></placeName>
+                    - Bewegungsri NO</p>
+            </div>
+
+        </body>
+    </text>
+</TEI>

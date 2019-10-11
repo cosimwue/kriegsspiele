@@ -1,0 +1,11 @@
+Runde: 13
+Uhrzeit: 14:35
+Von: 14 InfDiv
+Von - Wo?: zw Jehlitz/ Höhe Schäferei
+An: OBK
+An - Wo?:Jehlitz
+
+Nachricht:
+- abgegebene ArtBtr verlegt auf Höhe 686
+  700 südl. Popowitz
+- Keine Lageänderung eigener/FeindKräfte

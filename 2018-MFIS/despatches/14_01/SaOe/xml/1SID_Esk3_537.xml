@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SID1_Esk3_537">
+        <pb facs="1SID_Esk3_537.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="4">Runde: 4</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="10:45:00">10:45</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Esk3">3.
+                    Eskadron</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <orgName type="ID1">HQ
+                            1.InfDiv</orgName>
+                        <placeName><settlement type="Niederprim">Westrand
+                            Niederpriem</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="KdrID1">Kdr 1.InfDiv</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <orgName type="ID1">HQ 1. InfDiv</orgName>
+                        <placeName><settlement type="Niederprim">Westrand
+                            Niederpriem</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - Feindkontakt Waldrand NW <placeName><settlement type="Niederprim"
+                            >Niedepriem</settlement></placeName>: 1. Infanteriebattalion
+                    (Avantgarde) - Aufklärung abgebrochen </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="1SID_Esk3_537.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

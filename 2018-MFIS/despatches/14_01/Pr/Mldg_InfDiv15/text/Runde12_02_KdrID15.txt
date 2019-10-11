@@ -1,0 +1,12 @@
+Runde: 12
+Uhrzeit:
+Von: KDr ID15
+Von - Wo?: 700 m südlich OberPrim
+An: InfBtl 28
+An - Wo?: 800m südwestlich Stezirek
+
+Nachricht:
+InfBtl 28 bezieht Stellung
+Südlich Stezirek am Waldrand
+Beobachtungsrichtung OSTEN
+Meldet derzeitigen Standort

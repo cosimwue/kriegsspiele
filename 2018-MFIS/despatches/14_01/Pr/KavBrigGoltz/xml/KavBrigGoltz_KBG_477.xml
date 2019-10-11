@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavBrigGoltz_KBG_477">
+        <pb facs="KavBrigGoltz_KBG_477.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="13">Runde: 13</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="14:35:00">14:35</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KBG">KB Goltz</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: 400 N-lich <placeName><settlement
+                                type="Techlowitz">Techlowitz</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="HR11">HR 11</orgName> abgesetzte
+                        Esk.</label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="H717">Höhe
+                                717</settlement></placeName> N-lich <placeName><settlement
+                                type="Bibsko">Bibsko</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">- wenn Angriff abgeschlossen und Ab- lösung durch <orgName type="HR7"
+                        >HR7</orgName> erfolgt, Rück- kehr zu <orgName type="HR11">HR11</orgName>
+                    400 N-lich <placeName><settlement type="Techlowitz"
+                        >Techlowitz</settlement></placeName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavBrigGoltz_KBG_477.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

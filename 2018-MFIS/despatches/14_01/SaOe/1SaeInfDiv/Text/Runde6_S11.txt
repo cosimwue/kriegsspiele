@@ -1,0 +1,12 @@
+Runde: 6
+Uhrzeit: 12:10
+Von: S11
+Von - Wo?: Westrand
+			Niederpriem
+An: Kdr 1.InfDiv
+An - Wo?: Ostrand
+			Niederpriem
+
+Nachricht:
+Stab hat sich zurückgezogen
+auf Höhe 680

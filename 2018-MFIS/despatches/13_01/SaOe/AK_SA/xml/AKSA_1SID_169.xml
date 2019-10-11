@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_1SID_169">
+        <pb facs="AKSA_1SID_169.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="12">Runde: 12</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="13:26:00">13:26</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="ID1">1. InfDiv</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: Höhe SW <placeName><settlement type="Problus"
+                                >PROBLUS</settlement></placeName>
+                    </label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="SOK">OK</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - Fd AufklTrp aus Waldstück 1500m westl <placeName><settlement
+                            type="Stresetitz">Stresetitz</settlement></placeName> in Richtung Ost
+                    _____________________________ <orgName type="InfBrig2">Inf Brig 2</orgName> mit
+                        <orgName type="InfBtl7">InfBtl 7</orgName> links, <orgName type="InfBtl5"
+                        >InfBtl 5</orgName> Mitte, <orgName type="InfBtl6">InfBtl 6</orgName>
+                    rechts, <orgName type="InfBtl8">InfBtl 8</orgName> &amp; <orgName type="JgBtl2"
+                        >JgBtl 2</orgName> in Reserve zur Verteidigung auf Linie
+                            <placeName><settlement type="Problus">Problus</settlement></placeName>-
+                            <placeName><settlement type="Stresetitz"
+                        >Stresetitz</settlement></placeName> (westl. Waldstück) eingerichtet.
+                    Reserve bei Kreuzung in Waldstück auf Straße zw. </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_1SID_169.pdf"/>
+                <head/>
+                <p><placeName><settlement type="Problus">PROBLUS</settlement></placeName> &amp;
+                            <placeName><settlement type="Stresetitz"
+                        >STRESETITZ</settlement></placeName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

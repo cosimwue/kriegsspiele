@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SID2_SOK_218">
+        <pb facs="2SID_SOK_218.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="10">Runde: 10</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="13:07:00">13:07</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="SOK">Sächs AK</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?:</label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="ID2">2xx</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?:</label>
+                </p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Befehle: #3 1) Fd wird voraussichtlich den Wald westl
+                            <placeName><settlement type="Stezirek">STEZIREK</settlement></placeName>
+                    zur gedeckten Annäherung nutzen wollen 2) <orgName type="ID2">2. Div</orgName>
+                    schließt die VtdgLinie <placeName><settlement type="Oberprim"
+                            >OBERPRIM</settlement></placeName>-<placeName><settlement
+                            type="Stezirek">STEZIREK</settlement></placeName> so dass aus den
+                    Waldrändern heraustretender Feind durch zusammengefasstes Feuer der Infanterie
+                    und Artillerie zerschlagen werden kann. 3) li Grenze Mitte
+                            <placeName><settlement type="Stezirek">STEZIREK</settlement></placeName>
+                    <span type="sketch">Skizze</span> (Unterschrift) </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="2SID_SOK_218.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

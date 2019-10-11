@@ -1,0 +1,9 @@
+Runde: 1
+Uhrzeit: 10:10
+Von: ID15
+Von - Wo?: 400 ostwärts HRADEK
+An: DivArt 15
+An - Wo?: Batterie 12 Gesch
+
+Nachricht:
+- DivArt marschiert nach SÜDL. NEUPRIM Ortskante

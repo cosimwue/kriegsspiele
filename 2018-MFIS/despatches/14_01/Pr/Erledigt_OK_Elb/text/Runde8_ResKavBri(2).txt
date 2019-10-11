@@ -1,0 +1,18 @@
+Runde: 8
+Uhrzeit: 12:35
+Von: ResKavBri
+Von - Wo?: Verbindungsstraße Lubno-Jehlitz
+An: OBK Elbarmee
+An - Wo?: zw Lubno-Jehlitz
+
+Nachricht:
+- Meldung:
+ - ResKavBri passiert Verbindungsstraße Lubno-
+   Jehlitz
+ - zur linken bewegt sich Infanterie ID14 auf
+   der Verbindungsstraße auf dem Weg nach Jehlitz
+ - in Jehlitz ist Infanterie optisch (vermtl. Jäger)
+ - Kavallerie reitet aus Jehlitz in Richtung
+   OberPrim raus
+ - aus Richtung Problus ist eigene berittene Artillerie
+   optisch

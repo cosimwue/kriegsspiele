@@ -1,0 +1,11 @@
+Runde: 17
+Uhrzeit: 16:05
+Von: 14. InfDiv
+Von - Wo?: westl. Höhe Schäferei
+An: KavRgt 5
+An - Wo?: östl. Höhe Schäferei
+
+Nachricht:
+- KavRgt nimmt auf Verbindung mit westl.
+  Nachbarn Avantgarde und greift an im
+  Schulterschluß mit Avantgarde auf Niederprim

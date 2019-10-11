@@ -1,0 +1,18 @@
+Runde: 17
+Uhrzeit: 16:10
+Von: 68/III InfBtl.
+Von - Wo?: südlich von OberPrim Waldrand
+An: Kdr ID15
+An - Wo?: 1000 Meter südöstlich von OberPrim
+
+Nachricht:
+Feuergefechte
++ 11 gegen feindl. Inftr.Btl.
++ Artillerie Batterie hat Inftr. Btl.
+  südöstlich feindl. Infr.Btl. ersetz.
+  -> Feuerbereit -> kein Kräfte zum Gegenfeuer
+
+Rückseite
+-> weichen zurück um Art.Feuer zu entgehen
+   und aufgrund des Befehls von 15:50 Uhr
+   um Kav. 7 Platz frei zu machen

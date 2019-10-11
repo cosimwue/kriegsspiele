@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AlterZettel_03">
+        <pb facs="AlterZettel_03.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="number" subtype="none">te Meldung</label>
+                </p>
+                <p n="2">
+                    <label type="from">Absender <orgName type="2ID">Agent M3</orgName></label>
+                </p>
+                <p n="3">
+                    <label type="fromwhere">Abgeg. Ort:<placeName><settlement type="Nuernberg">Nürnberg</settlement></placeName></label>
+                </p>
+                <p n="4">
+                    <label type="fromdate">Dat.: <date when="1914-12-05">12.5</date></label>
+                </p>
+                <p n="5">
+                    <label type="fromtime">Zeit: <time when="15:00:00">3°U.</time></label>
+                </p>
+                <p n="6">
+                    <label type="to">An: <orgName type="BayerGenKdo">Bayer. Gen. Kdo</orgName></label>
+                </p>
+                <p n="7">
+                    <label type="towhere">Angek. Ort:</label>
+                </p>
+                <p n="8">
+                    <label type="todate">Dat.: <date when="1914-12-05">12.5</date></label>
+                </p>
+                <p n="9">
+                    <label type="fromtime">Zeit: <time when="09:00:00">9°U</time></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">An: Bayer. Gen. Kdo</head>
+                <p n="10"><placeName><settlement type="Nuernberg">Nürnberg</settlement></placeName> seit gestern in
+                    vollem Aufstand. Hilfe erbeten Kavallerie schicken
+                    Brieftaube
+                    </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AlterZettel_03.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

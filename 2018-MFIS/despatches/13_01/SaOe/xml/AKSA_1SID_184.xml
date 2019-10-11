@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_1SID_184">
+        <pb facs="AKSA_1SID_184.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="16">Runde: 16</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="14:55:00">14:55</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="ID1">1.InfDiv</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: Ortsrand <placeName><settlement
+                                type="Problus">PROBLUS</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="SOK">OK</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - Fd Kräfte [InfBrig, Kav, beritten Art] ca. 900 Schritt westw. der Straße
+                            <placeName><settlement type="Problus"
+                            >PROBLUS</settlement></placeName>-<placeName><settlement
+                            type="Stresetitz">STRESETITZ</settlement></placeName>, eigener
+                    ArtBeschuss hat 1 Kp auf 75% reduziert. Fd.Art hat 30% Schaden bei <orgName
+                        type="InfBtl5">5./InfBtl</orgName> erwirkt. - Führen mit <orgName
+                        type="InfBtl5">5.</orgName>/<orgName type="InfBtl7">7.</orgName>/<orgName
+                        type="InfBtl11">11.InfBtl</orgName> unter Ustg der 2 ArtBrig Feuerkampf mit
+                    FdKräften - Nutzen eig. ArtKräfte bei Höhe südl. <placeName><settlement
+                            type="Problus">PROBLUS</settlement></placeName> ebenfalls zur Bekämpfung
+                    der FdKräfte - <orgName type="InfBtl8">8. InfBtl</orgName> geht westl
+                            <placeName><settlement type="Stresetitz"
+                        >Stresetitz</settlement></placeName> in Stellung</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_1SID_184.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

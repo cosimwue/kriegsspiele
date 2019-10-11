@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_AvantElb_355">
+        <pb facs="ElbOK_AvantElb_355.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="4">Runde: 4</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="11:05:00">11:05</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="Avantgarde"
+                        >Avantgarde</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Wege T S <placeName><settlement
+                                type="H686">H686</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">Oberkommando
+                        Preußen</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Nechanitz"
+                                >Nechanitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">Eigene Lage <orgName type="17F">F17</orgName> und <orgName type="28F"
+                        >F28</orgName> haben Stellung in Waldstück SO <placeName><settlement
+                            type="Popowitz">Popowitz</settlement></placeName> bezogen. In Richtung
+                            <placeName><settlement type="Problus">Problus</settlement></placeName>/
+                            <placeName><settlement type="Niederprim"
+                        >NiederPrim</settlement></placeName>. <orgName type="40I">40I</orgName> und
+                        <orgName type="33II">33II</orgName> haben Stellung in Waldstück O von
+                            <placeName><settlement type="Jehlitz">Jehlitz</settlement></placeName>
+                    bezogen. <orgName type="40I">40I</orgName> sichert in Richtung
+                            <placeName><settlement type="Niederprim"
+                        >Nieder-Prim</settlement></placeName>. <orgName type="33II">33II</orgName>
+                    in Richtung <placeName><settlement type="Oberprim"
+                        >Ober-Prim</settlement></placeName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_AvantElb_355.pdf"/>
+                <head/>
+                <p>
+                    <orgName type="JgBtl8">JgBtl 8</orgName> hat Stellung in Waldstück bei
+                            <placeName><settlement type="Jehlitz">Jehlitz</settlement></placeName>
+                    bezogen -> Sichtung von <orgName type="7BAR">7 berittener Artillerie</orgName>
+                            (<placeName><settlement type="H649">Höhe 649</settlement></placeName>,
+                    200m O von <placeName><settlement type="Jehlitz"
+                        >Jehlitz</settlement></placeName>). <orgName type="7BAR">7 Berittene
+                        Artillerie</orgName> marschiert in Richtung <placeName><settlement
+                            type="H649">Höhe 649</settlement></placeName> -> Sichtung in Richtung
+                            <placeName><settlement type="Oberprim"
+                        >Ober-Prim</settlement></placeName>. <orgName type="8BAR">8 berittene
+                        Artillerie</orgName> marschiert in Richtung <placeName><settlement
+                            type="Popowitz">Popowiz</settlement></placeName>, bezieht Stellung bei
+                            <placeName><settlement type="H686">Höhe
+                    686</settlement></placeName>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

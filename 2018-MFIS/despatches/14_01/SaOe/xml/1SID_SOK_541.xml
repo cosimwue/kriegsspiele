@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SID1_SOK_541">
+        <pb facs="1SID_SOK_541.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="6">Runde: 6</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="11:30:00">11:30</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="SOK">SOK</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="ID1">1.InfDiv</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Problus"
+                                >PROBLUS</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Ihnen wird die Artilleriereserve des Korps, bestehend aus <orgName
+                        type="ArtBrig1">ArtBrig 1</orgName> und <orgName type="ArtBrig2"
+                    >2</orgName>, derzeit im Raum ostwärts <placeName><settlement type="Niederprim"
+                            >NIEDERPRIM</settlement></placeName> unterstellt. </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="PLACEHOLDER.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

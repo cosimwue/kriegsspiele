@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_1SID_158">
+        <pb facs="AKSA_1SID_158.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="8">Runde: 8</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="12:51:00">12:51</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="ID1">1. Sächs Div</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: Süd-west <placeName><settlement
+                                type="Problus">Problus</settlement></placeName>
+                    </label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="SOK">Sächs AK</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - <orgName type="InfBtl5">Infantrie Btl. 5</orgName> geht vor Waldrand
+                    nördl. <placeName><settlement type="Problus">Problus</settlement></placeName> in
+                    Stellung - <orgName type="InfBtl7">InfBtl. 7</orgName> geht südl. davon in
+                    Stellung - <orgName type="InfBtl6">InfBtl. 6</orgName> geht westl.
+                            <placeName><settlement type="Stresetitz"
+                        >Stresetitz</settlement></placeName> in Stellung <span type="sketch"
+                        >Skizze</span>
+                    <placeName><settlement type="Problus">Problus</settlement></placeName>
+                    <orgName type="InfBtl7">7.</orgName>
+                    <orgName type="InfBtl5">5.</orgName>
+                    <orgName type="InfBtl6">6.</orgName>
+                    <placeName><settlement type="Stresetitz">Stresetitz</settlement></placeName>
+                    Reserve <orgName type="InfBtl8">8.Btl</orgName> + <orgName type="JgBtl2"
+                        >JägerBtl.2</orgName> Artillerie Ustg erbeten!</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_1SID_158.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

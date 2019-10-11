@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AKSA_2SID_159">
+        <pb facs="AKSA_2SID_159.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="8">Runde: 8</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="12:50:00">12:50</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="ID2">II InfDiv</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: <orgName type="SOK">OK</orgName>
+                    </label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="SOK">Armeeoberkommando</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <orgName type="SOK">AOK</orgName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> 1) Feind in Div-Stärke + Artillerie zwischen <placeName><settlement
+                            type="Hradek">Hradek</settlement></placeName> und <placeName><settlement
+                            type="Radikowitz">Radikowitz</settlement></placeName> Ri
+                            <placeName><settlement type="Radikowitz"
+                        >Radikowitz</settlement></placeName> in Runde II gesichtet. 2) 1 InfBrig hat
+                            <placeName><settlement type="Stezirek">Stezirek</settlement></placeName>
+                    erreicht und Stellungen gem. Befehl eingenommen</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AKSA_2SID_159.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

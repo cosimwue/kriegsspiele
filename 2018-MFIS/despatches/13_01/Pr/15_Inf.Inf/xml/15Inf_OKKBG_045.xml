@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="Inf15_OKKBG_045">
+        <pb facs="15Inf_OKKBG_045.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="11">Runde: 11</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="13:30:00">13:30</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KBG">OK KB
+                    Goltz</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: SSO <placeName><settlement type="Hradek"
+                                >Hradek</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OBK</orgName>, <orgName
+                            type="ID14">ID14</orgName>, <orgName type="ID15"
+                    >ID15</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: bekannt</label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Aufklärung am Waldrand SO (200) <placeName><settlement type="Neuprim">Neu
+                            Prim</settlement></placeName>: Feindkräfte in Stärke 1 KavDiv
+                    aufgeklärt, Vorschlag: <orgName type="ID14">ID14</orgName> -> dreht Richtung 0
+                            <placeName><settlement type="Neuprim">Neu Prim</settlement></placeName>
+                    B.W.</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="15Inf_OKKBG_045.pdf"/>
+                <head/>
+                <p><orgName type="ID15">ID 15</orgName> -> dreht in Richtung N
+                            (<placeName><settlement type="Radikowitz"
+                        >Radikowitz</settlement></placeName> -> <placeName><settlement
+                            type="Neuprim">Neu Prim</settlement></placeName>) Goltz -> dreht in
+                    Richtung NO in Richtung Waldrand bei <placeName><settlement type="Neuprim">Neu
+                            Prim</settlement></placeName> => um aufgeklärten Feind anzugreifen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

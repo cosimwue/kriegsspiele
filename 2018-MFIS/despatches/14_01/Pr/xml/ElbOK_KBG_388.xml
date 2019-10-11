@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="ElbOK_KBG_388">
+        <pb facs="ElbOK_KBG_388.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="14">Runde: 14</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="15:00:00">15:00</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="KBG">KB Goltz</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: 400 N-lich <placeName><settlement
+                                type="Techlowitz">Techlowitz</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="OBK">OBK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Jehlitz"
+                                >Jehlitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7">- Aufklärung Raum <placeName><settlement type="Techlowitz"
+                            >Techlowitz</settlement></placeName>- <placeName><settlement
+                            type="Bibsko">Bibsko</settlement></placeName>-<placeName><settlement
+                            type="Stösser">Stösser</settlement></placeName> mit 1 Eskadron in
+                    Patrouillen aufgeteilt (<orgName type="HR7">HR7</orgName>) - verbl. 4 Esk.
+                        <orgName type="HR7">HR7</orgName> verlegen an Wlad- rand südl.
+                            <placeName><settlement type="Radikowitz"
+                        >Radikowitz</settlement></placeName>, um feindl. </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="ElbOK_KBG_388.pdf"/>
+                <head/>
+                <p> Angriff über "<placeName><settlement type="Radikowitz"
+                        >Radikowitz</settlement></placeName> Gap" in der Flanke anzugreifen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,10 @@
+Runde: 2
+Uhrzeit:
+Von: Infanteriedevision
+Von - Wo?:
+An: ID 14
+An - Wo?:
+
+Befehl:
+Marschieren mit 200 Schritt/min in Richtung
+Schloss Hradek hinter KBG

@@ -1,0 +1,15 @@
+Runde: 13
+Uhrzeit: 15:20
+Von: 8. AK
+Von - Wo?: CHA
+An: Brigade SCHULZ
+An - Wo?: STÖSER
+
+Nachricht:
+Art 4/9: - Erreichen Sie Stellung zw.
+		   II/8 und I/8
+		 - Beobachtungsbereich:
+		 	re. Grenze: STEZIREK
+		 	li. Grenze: Waldkante in Verl.
+		 				TECHLOWITZ
+		 				

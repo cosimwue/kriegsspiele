@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="KavBrig_Kdo15ID_093">
+        <pb facs="KavBrig_Kdo15ID_093.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="20">Runde: 20</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="16:18:00">16:18</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID15">Kdo ID15</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="H717">Höhe
+                                717</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="KBG">Kdo KB Goltz</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="Techlowitz"
+                                >Techlowitz</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Feind steht breit gestaffelt von Südl <placeName><settlement
+                            type="Stösser">Stösser</settlement></placeName> bis
+                            <placeName><settlement type="Oberprim"
+                        >Ober-Prim</settlement></placeName>. Ich greife Südl. <placeName><settlement
+                            type="Stösser">Stösser</settlement></placeName> an und bitte um
+                    sofortige Unterstützung um die breite feindl. Aufstellung von südl. Flanke aus
+                    aufzurollen!</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="KavBrig_Kdo15ID_093.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SInf2_IEskPat_645">
+        <pb facs="2SInf_IEskPat_645.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="10">Runde: 10</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="00:00:00"/></label></p>
+                <p n="3"><label type="from">Von: <orgName type="EskKR1">Eskadron
+                        KR1</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: Anhöhe NO <placeName><settlement
+                                type="Neuprim">Neu Prim</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="ID2">2. InfDiv
+                    (Sa)</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: ostwärts <placeName><settlement
+                                type="Niederprim">Nieder Priem</settlement></placeName></label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - Kavallerie in Btl-Stärke aus Richtung <placeName><settlement
+                            type="Jehlitz">JEHLITZ</settlement></placeName> in Richtung
+                            <placeName><settlement type="Brunnen">Brunn</settlement></placeName> -
+                    Feindliche Kräfte in Ortschaft <placeName><settlement type="Neuprim"
+                            >NEUPRIM</settlement></placeName> - Aufklärungspatr. weicht Richtung
+                            <placeName><settlement type="Brunnen">BRUNNEN</settlement></placeName>
+                    aus</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="2SInf_IEskPat_645.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,14 @@
+Runde: 11
+Uhrzeit: 13:40
+Von: Fhr ResKavBri
+Von - Wo?: nördlich Ortsrand Jehlitz
+An: ResKavBri
+An - Wo?: nördlich Ortsrand Jehlitz
+
+Nachricht:
+Befehl:
+	- verlegen auf Straße durch Jehlitz
+	  nach südlich NeuPrim
+	- Ausrichtung nach OberPrim
+	- Vorbereitung durch Waldstück
+	  Angriff auf Oberprim

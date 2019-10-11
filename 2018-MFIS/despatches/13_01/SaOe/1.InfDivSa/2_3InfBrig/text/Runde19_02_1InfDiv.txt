@@ -1,0 +1,16 @@
+Runde: 19
+Uhrzeit: 16:22
+Von: 1. InfDiv
+Von - Wo?: Ortsrand PROBLUS
+An: InfBrig 3
+An - Wo?: Linie PROBLUS-STresetitz
+
+Nachricht:
+
+- FdKräfte vor eig Stellungen ZSL
+- InfBrig 3 wird neue Korpsreserve und verlegt
+  mit 7./InfBtl, 5./InfBtl, 6./InfBtl, 8./InfBtl
+  und 2. JgBtl nach Reserveraum südl.
+  KLACOW.
+- Ich befinde mich bei ArtBatterien nördl.
+  PROBLUS

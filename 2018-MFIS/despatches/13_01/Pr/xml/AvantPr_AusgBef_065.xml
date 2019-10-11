@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="ausgangsbefehl" xml:id="AvantPr_AusgBef_065">
+        <pb facs="AvantPr_AusgBef_065.pdf"/>
+        <front/>
+        <body>
+            <div type="text_vor">
+                <head type="einheit"><orgName type="Avantgarde">Avantgarde
+                    Elbarmee</orgName>:</head>
+                <p> greift an, auf befohlener Angr-Achse, mit GefAufkl voraus, um fdl Res NO-wärts
+                            <placeName><settlement type="Problus">PROBLUS</settlement></placeName>
+                    zu zsl, als Voraussetz. f. d. Angr auf die fdl. Artillerie -> Dies Angr 2 </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AvantPr_AusgBef_065.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,12 @@
+Runde: 11
+Uhrzeit: 13:30
+Von: KDR ID15
+Von - Wo?: Radikowitz
+An: OBK Elbarmee
+An - Wo?: Schloß Hradek
+
+Nachricht:
+ID15 Spitzen befinden sich östl. Ortsausgang Radikowitz
+7. Dragoner im Ort Techlowitz haben aufgeklärt:
+	Feindliche starke Kavallerie östl. Techlowitz bewegt sich
+	Richtung Stösser

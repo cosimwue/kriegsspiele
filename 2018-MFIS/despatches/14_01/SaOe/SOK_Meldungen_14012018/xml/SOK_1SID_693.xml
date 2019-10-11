@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SOK_1SID_693">
+        <pb facs="SOK_1SID_693.pdf"/>
+        <front/>
+
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="17">Runde: 17</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="16:10:00">16:10</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="ID1">Kdr 1.
+                    InfDiv</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="HQ">HQ
+                                (u)</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="SOK">SOK</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: <placeName><settlement type="HQ">HQ
+                                (u)</settlement></placeName></label></p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Fd Mldg / eigene Lage - Bei <placeName><settlement
+                            type="Brunnen">Brunnen</settlement></placeName> - 3 Inf Btl gefolgt von
+                    2 Inf Btl und unterstützt von 2 Art Batterien - im Angriff Ri Enge
+                            <placeName><settlement type="Niederprim"
+                        >NiederPrim</settlement></placeName> - <placeName><settlement
+                            type="Oberprim">Oberprim</settlement></placeName>
+                    __________________________________________ (Kasten links) - Verluste <orgName
+                        type="ID1">1.</orgName> &amp; <orgName type="ID2">2. InfDiv</orgName> - 1 kp
+                        <orgName type="InfBtl15">Inf Btl 15</orgName> - 2 kp <orgName
+                        type="InfBtl11">Inf Btl 11</orgName> (Kasten rechts) Absicht: - unverändert
+                    (Darunter) Bewertung: halten darin 0 Problem</p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="SOK_1SID_693.pdf"/>
+                <head/>
+                <p/>
+            </div>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="SID1_1SID_211">
+        <pb facs="1SID_1SID_211.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="18">Runde: 18</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="15:45:00">15:45</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="ID1">ALLE EINH. 1. Inf
+                        DIV</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: <placeName><settlement type="Stresetitz"
+                                >STRESETITZ</settlement></placeName>-<placeName><settlement
+                                type="Problus">PROBLUS</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="ID1">1. INF DIV SACHSEN</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: SÜDL. <placeName><settlement type="Problus"
+                                >PROBLUS</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> - 2. WEITERE KOMPANIEN DER PREUßEN VERNICHTET - PREUßISCHE KAVALLERIE
+                    TAUCHT AN LINKER FLANKE WESTLICH <placeName><settlement type="Problus"
+                            >PROBLUS</settlement></placeName> AUF -> KANN VON EIGENEN KRÄFTEN
+                    NIEDERGEHALTEN WERDEN - KRÄFTE BEKOMMEN FEUERUNTERSTÜTZUNG DURCH <orgName
+                        type="ArtBttr9">9.</orgName>+<orgName type="ArtBttr10">10. ART BTTR
+                        SACHSEN</orgName> VON SÜDLICH <placeName><settlement type="Problus"
+                            >PROBLUS</settlement></placeName> (NICHT 1. u. 2.) gemeldet 15:36 </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="1SID_1SID_211.pdf"/>
+                <head/>
+                <p>- LINIE KANN GEHALTEN WERDEN</p>
+            </div>
+        </body>
+    </text>
+</TEI>

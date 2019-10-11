@@ -1,0 +1,16 @@
+Runde: 12
+Uhrzeit: 14:13
+Von: ResKavBri
+Von - Wo?: Straße Jehlitz-NeuPrim
+An: OBK Elbarmee
+An - Wo?: Jehlitz
+
+Nachricht:
+- ResKavBri verfolgt südlich NeuPrim
+  und bereitet sich auf Angriff im Bereich
+  OberPrim durch Waldstück vor
+- Meldung: Waldstück ist mit Artillerie &
+		   Infanterie ID15 belegt
+- Frage: Ist ein Angriff ResKavBri durch
+		 das Waldstück aufgrund Belegung
+		 durch Artillerie & Infanterie ID15 möglich?

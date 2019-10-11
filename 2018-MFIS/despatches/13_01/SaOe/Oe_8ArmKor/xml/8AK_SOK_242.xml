@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../../../../tei_tschisch_new.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AK8_SOK_242">
+        <pb facs="8AK_SOK_242.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1">
+                    <label type="turn" subtype="18">Runde: 18</label>
+                </p>
+                <p n="2">
+                    <label type="time">Uhrzeit: <time when="15:35:00">15:35</time></label>
+                </p>
+                <p n="3">
+                    <label type="from">Von: <orgName type="SOK">Sächs. AK</orgName></label>
+                </p>
+                <p n="4">
+                    <label type="fromwhere">Von - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label>
+                </p>
+                <p n="5">
+                    <label type="to">An: <orgName type="8AK">VIII Ö. AK</orgName></label>
+                </p>
+                <p n="6">
+                    <label type="towhere">An - Wo?: <placeName><settlement type="Bor"
+                                >BOR</settlement></placeName></label>
+                </p>
+            </div>
+
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Vorschlag zur <orgName type="BrigRoth">Brig Roth</orgName> teilw.
+                    genehmigt, aber Linie direkt an <orgName type="ID2">2. Div</orgName>
+                    anschließend <placeName><settlement type="Stezirek"
+                        >STEZIREK</settlement></placeName> - <placeName><settlement
+                            type="Charbusitz">CHARBUSITZ</settlement></placeName>.
+                            <placeName><settlement type="Stösser">STÖSSER</settlement></placeName>
+                    ist nicht zu halten. B.W. -></p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="8AK_SOK_242.pdf"/>
+                <head/>
+                <p> Ihre <orgName type="BrigSchulz">Brigade Schulz</orgName> bringen Sie in den Raum
+                    den <orgName type="BrigRoth">Roth</orgName> bislang belegt hat
+                    (Unterschrift)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

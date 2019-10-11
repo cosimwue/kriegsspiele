@@ -1,0 +1,14 @@
+Runde: 7
+Uhrzeit: 12:15
+Von: SOK
+Von - Wo?: PROBLUS
+An: LKD
+An - Wo?: STEZIREK
+
+Nachricht:
+LKD bereitet vor Gegenangriff
+auf der Achse STEZIREK-
+TECHLOWITZ-RADIKOWITZ um
+die südliche Flanke des Fd anzugriefen
+Angriff wird erst auf Befehl
+exekutiert!

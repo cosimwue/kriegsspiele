@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+,
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="meldezettel" xml:id="AvantPr_OKAvan_066">
+        <pb facs="AvantPr_OKAvan_066.pdf"/>
+        <front/>
+        <body>
+            <div type="address">
+                <p n="1"><label type="turn" subtype="2">Runde: 2</label></p>
+                <p n="2"><label type="time">Uhrzeit: <time when="12:02:00">12:02</time></label></p>
+                <p n="3"><label type="from">Von: <orgName type="OKAvantgarde">OK Avang.
+                            Elb-Arme</orgName></label></p>
+                <p n="4"><label type="fromwhere">Von - Wo?: <placeName><settlement type="H702">Höhe
+                                702</settlement></placeName></label></p>
+                <p n="5"><label type="to">An: <orgName type="UstBereich">alle unterstellten Tle 1. Elb-Arme</orgName></label></p>
+                <p n="6"><label type="towhere">An - Wo?: UfgR Wald</label></p>
+            </div>
+            <div type="text_vor">
+                <head type="nachricht">Nachricht:</head>
+                <p n="7"> Befehl: F: 5 Btl.(1 Brig) S <placeName><settlement type="Stresetitz"
+                            >STRESETITZ</settlement></placeName> 2 Btl NW <placeName><settlement
+                            type="Problus">PROBLUS</settlement></placeName> 2 Bttr Art SW
+                            <placeName><settlement type="Problus">PROBLUS</settlement></placeName> 2
+                    Btl NW <placeName><settlement type="Niederprim"
+                        >NIED.PRIM</settlement></placeName> an Ortsgrenze -> eigene Tr wurde
+                    aufgeklärt, sobald wir Wald verlassen N: ziehe 2xFAR auf schnellsten Wege an
+                    Hinterhang 4x berittene ArtReg <placeName><settlement type="H700">Höhe
+                            700</settlement></placeName> in FStg mit Feuer SP fdl. Art bei
+                            <placeName><settlement type="Problus">PROBLUS</settlement></placeName>
+                    A: <orgName type="Avantgarde">Avang. ElbArmee</orgName> greift an mit <orgName
+                        type="JgBtl8">JgBtl 8</orgName> (schnellste Geschw.) voraus als GefAufkl,
+                    alle InfBtl, im Abstand 1000 Schritt in Armeekeil folgend, auf Achse nördlich
+                    ans Waldstück, westlich dann nördlich an Hinterhang <placeName><settlement
+                            type="H700">Höhe 700</settlement></placeName>, weiter Richtung hart
+                    nördlich <placeName><settlement type="Stresetitz"
+                        >STRESETITZ</settlement></placeName>, dan eindrehen Richtung Süd -> Attacke
+                    auf rechte Flanke und Rücken des Feindes zwischen <placeName><settlement
+                            type="Stresetitz">STRESETITZ</settlement></placeName> u.
+                            <placeName><settlement type="Problus">PROBLUS</settlement></placeName>
+                    Ich befinde mich hinter <orgName type="IR17">FüssilBtl InfReg 17</orgName>.
+                    Entfaltung: <span type="sketch">(Skizze)</span> zunächst Marschkolonne bis
+                            <placeName><settlement type="Stresetitz"
+                        >STRESETITZ</settlement></placeName> ab da in vorgezogenen Schutzlinien
+                        <orgName type="Avantgarde">Avang Elb-Armee</orgName>
+                </p>
+            </div>
+            <div type="text_rueck">
+                <pb facs="AvantPr_OKAvan_066.pdf"/>
+                <head/>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

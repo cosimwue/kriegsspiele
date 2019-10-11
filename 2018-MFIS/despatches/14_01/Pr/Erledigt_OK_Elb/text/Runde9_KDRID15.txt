@@ -1,0 +1,14 @@
+Runde: 9
+Uhrzeit:
+Von: KDR ID15
+Von - Wo?: 750 Süd West OberPrim
+An: OBK
+An - Wo?: 900m Westlich Jehlitz
+
+Nachricht:
+Eigener Standort Kdr hinter InfBtl 65
+		InfBtl 40 Am Waldrand südlich Brunnen/OberPrim
+Marsch	InfBtl 65 Am Waldrand südlich OberPrim bis 400m
+				  vor Stezirek
+Im Marsch InfBtl 68 übertritt Verbindung OberPrim-Techlowitz
+Im Marsch InfBtl 28 --------------- "" ------------------

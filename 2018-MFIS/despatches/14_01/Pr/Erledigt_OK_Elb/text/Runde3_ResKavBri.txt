@@ -1,0 +1,17 @@
+Runde: 3
+Uhrzeit: 11:03
+Von: ResKavBri
+Von - Wo?: Nechanitz
+An: OBK
+An - Wo?: Nechanitz
+
+Nachricht:
+Meldung:
+	- ResKavBri befindet sich noch
+	  hinter der ID14
+	- nach Passieren Nechanitz bewegt
+	  sich ResKav Bri über die
+	  Freifläche direkt NW Jehitz
+	- voraussichtl Ankunft NW Jehlitz = Runde 13
+	- anschl. verbleibt ResKavBri NW Jehlitz
+	  bis Eintreffen ID14

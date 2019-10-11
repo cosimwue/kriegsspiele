@@ -1,0 +1,11 @@
+Runde: 13
+Uhrzeit: 14:35
+Von: 14. InfDiv
+Von - Wo?: zw Jehlitz/Höhe Schäferei
+An: ResArt (5Btr)
+An - Wo?: Batterie
+
+Nachricht:
+- gibt ab eine ArtBtr eigener Wahl an
+  Avantgarde Elbarmee
+- Btr verlegt auf Höhe 686; 700 südl Popowitz

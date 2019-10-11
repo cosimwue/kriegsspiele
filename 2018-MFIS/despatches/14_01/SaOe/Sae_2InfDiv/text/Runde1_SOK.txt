@@ -1,0 +1,12 @@
+Runde: 1
+Uhrzeit: 10:00
+Von: SOK
+Von - Wo?: BOR
+An: 2. InfDiv
+An - Wo?: ostwärts Nied.Priem
+
+Nachricht:
+2.InfDiv (Sä)
+- hält weiterhin Linie NIEDERPRIEM-OBERPRIEM
+- stellt sich darauf ein, eigene Art a.B. zu verlegen.
+- Hält engen Schulterschluss zum linken Nachbarn 1. LKD (Ö)

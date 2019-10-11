@@ -1,0 +1,12 @@
+Runde: 6
+Uhrzeit: 11:30
+Von: 2.InfDiv(sä)
+Von - Wo?: ostwärts NIEDERPRIM
+An: AOK
+An - Wo?:
+Nachricht:
+Feindlage: SÜDLICH NEUPRIM entlang
+	Linie NEUPRIM - RADINOWITZ
+	2(PREU) BTL und weiter TrTLe
+	in Bewegung Richtung Osten
+

@@ -1,0 +1,10 @@
+Runde: 13
+Uhrzeit: 14:20
+Von: InfBtl 28
+Von - Wo?: 650m östlich vom Hügel 750
+An: Kdr Id15
+An - Wo?: Hügel 750
+
+Nachricht:
++ Meldet als Standort 650 östlich von
+  "Hügel 750"
